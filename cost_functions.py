@@ -11,16 +11,16 @@ def cost(chromosome):
 
     # Traverse all classes for hard constraints
     for single_class in chromosome[0]:
-        time = single_class['Zadato_vreme']
-        class_len = single_class['Trajanje']
+        time = single_class['Assigned_time']
+        class_len = single_class['Duration']
 
         # Check hard constraint violation in classes time frame
         for i in range(time, time + int(class_len)):
-            if chromosome[1][single_class['Nastavnik']][i] > 1:
+            if chromosome[1][single_class['Professor']][i] > 1:
                 prof_cost += 1
-            if chromosome[2][single_class['Zadata_ucionica']][i] > 1:
+            if chromosome[2][single_class['Assigned_classroom']][i] > 1:
                 classrooms_cost += 1
-            for group in single_class['Grupe']:
+            for group in single_class['Groups']:
                 if chromosome[3][group][i] > 1:
                     groups_cost += 1
 
@@ -29,19 +29,23 @@ def cost(chromosome):
         for lab in chromosome[4][single_class]['L']:
             for practice in chromosome[4][single_class]['V']:
                 for grupa in lab[1]:
-                    if grupa in practice[1] and lab[0] < practice[0]: # If lab is before practical
+                    # If lab is before practical
+                    if grupa in practice[1] and lab[0] < practice[0]:
                         subjects_cost += 0.0025
             for lecture in chromosome[4][single_class]['P']:
                 for grupa in lab[1]:
-                    if grupa in lecture[1] and lab[0] < lecture[0]: # If lab is before lecture
+                    # If lab is before lecture
+                    if grupa in lecture[1] and lab[0] < lecture[0]:
                         subjects_cost += 0.0025
         for practice in chromosome[4][single_class]['V']:
             for lecture in chromosome[4][single_class]['P']:
                 for grupa in practice[1]:
-                    if grupa in lecture[1] and practice[0] < lecture[0]: # If practical is before lecture
+                    # If practical is before lecture
+                    if grupa in lecture[1] and practice[0] < lecture[0]:
                         subjects_cost += 0.0025
 
     return prof_cost + classrooms_cost + groups_cost + round(subjects_cost, 4)
+
 
 def cost2(chromosome):
     """

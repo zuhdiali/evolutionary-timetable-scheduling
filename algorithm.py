@@ -5,10 +5,11 @@ from copy import deepcopy
 
 max_generations = 5000
 num_runs = 1
-input_file = 'classes/input3.json'
-output_file = 'classes/output3.json'
+input_file = 'classes/stis_komplit.txt'
+output_file = 'classes/output_stis_komplit.json'
 cost_function = cost_functions.cost
 cost_function2 = cost_functions.cost2
+
 
 def evolutionary_algorithm():
     best_timetable = None
@@ -28,7 +29,8 @@ def evolutionary_algorithm():
             if j % 200 == 0:
                 print('Iteration', j, 'cost', cost_function(chromosome))
 
-        print('Run', i + 1, 'cost', cost_function(chromosome), 'chromosome', chromosome)
+        print('Run', i + 1, 'cost', cost_function(chromosome),
+              'chromosome', chromosome)
 
         if best_timetable is None or cost_function2(chromosome) <= cost_function2(best_timetable):
             best_timetable = deepcopy(chromosome)
@@ -57,7 +59,7 @@ def evolutionary_algorithm():
 
     # Check hard constraints
     for single_class in chromosome[0]:
-        if single_class['Zadata_ucionica'] not in single_class['Ucionica']:
+        if single_class['Assigned_classroom'] not in single_class['Classroom']:
             allowed_classrooms = False
     for profesor in chromosome[1]:
         for i in range(len(chromosome[1][profesor])):
@@ -75,7 +77,8 @@ def evolutionary_algorithm():
     print('Are hard restrictions for professors satisfied:', professor_hard)
     print('Are hard restrictions for classrooms satisfied:', classroom_hard)
     print('Are hard restrictions for groups satisfied:', group_hard)
-    print('Are hard restrictions for allowed classrooms satisfied:', allowed_classrooms)
+    print('Are hard restrictions for allowed classrooms satisfied:',
+          allowed_classrooms)
 
     # Check preferred order statistics
     subjects_cost = 0
@@ -121,7 +124,8 @@ def evolutionary_algorithm():
                     last_seen = time
             if current_load > 6:
                 group_load += 1
-        print('Group cost for group', group, 'is:', group_cost, ', number of hard days:', group_load)
+        print('Groups cost for group', group, 'is:',
+              group_cost, ', number of hard days:', group_load)
         if max_group_cost < group_cost:
             max_group_cost = group_cost
         total_group_cost += group_cost
@@ -155,7 +159,8 @@ def evolutionary_algorithm():
                     last_seen = time
             if current_load > 6:
                 prof_load += 1
-        print('Prof cost for prof', prof, 'is:', prof_cost, ', number of hard days:', prof_load)
+        print('Prof cost for prof', prof, 'is:', prof_cost,
+              ', number of hard days:', prof_load)
         if max_prof_cost < prof_cost:
             max_prof_cost = prof_cost
         total_prof_cost += prof_cost
@@ -164,5 +169,6 @@ def evolutionary_algorithm():
     print('Average prof cost is:', total_prof_cost / len(chromosome[1]))
     print('Total prof load is:', total_prof_load)
     print('Free hour:', free_hour, ', 59')
+
 
 evolutionary_algorithm()

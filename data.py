@@ -1,17 +1,19 @@
 import json
 import random
 
+
 def load_data(path):
     with open(path, 'r') as read_file:
         data = json.load(read_file)
 
     for university_class in data['Casovi']:
-        classroom = university_class['Ucionica']
-        university_class['Ucionica'] = data['Ucionice'][classroom]
+        classroom = university_class['Classroom']
+        university_class['Classroom'] = data['Ucionice'][classroom]
 
     data = data['Casovi']
 
     return data
+
 
 def generate_chromosome(data):
     professors = {}
@@ -22,36 +24,38 @@ def generate_chromosome(data):
     new_data = []
 
     for single_class in data:
-        professors[single_class['Nastavnik']] = [0] * 60
-        for classroom in single_class['Ucionica']:
+        professors[single_class['Professor']] = [0] * 60
+        for classroom in single_class['Classroom']:
             classrooms[classroom] = [0] * 60
-        for group in single_class['Grupe']:
+        for group in single_class['Groups']:
             groups[group] = [0] * 60
-        subjects[single_class['Predmet']] = {'P' : [], 'V' : [], 'L' : []}
+        subjects[single_class['Subject']] = {'P': [], 'V': [], 'L': []}
 
     for single_class in data:
         new_single_class = single_class.copy()
 
-        classroom = random.choice(single_class['Ucionica'])
+        classroom = random.choice(single_class['Classroom'])
         day = random.randrange(0, 5)
         if day == 4:
-            period = random.randrange(0, 12 - int(single_class['Trajanje']))
+            period = random.randrange(0, 12 - int(single_class['Duration']))
         else:
-            period = random.randrange(0, 13 - int(single_class['Trajanje']))
-        new_single_class['Zadata_ucionica'] = classroom
+            period = random.randrange(0, 13 - int(single_class['Duration']))
+        new_single_class['Assigned_classroom'] = classroom
         time = 12 * day + period
-        new_single_class['Zadato_vreme'] = time
+        new_single_class['Assigned_time'] = time
 
-        for i in range(time, time + int(single_class['Trajanje'])):
-            professors[new_single_class['Nastavnik']][i] += 1
+        for i in range(time, time + int(single_class['Duration'])):
+            professors[new_single_class['Professor']][i] += 1
             classrooms[classroom][i] += 1
-            for group in new_single_class['Grupe']:
+            for group in new_single_class['Groups']:
                 groups[group][i] += 1
-        subjects[new_single_class['Predmet']][new_single_class['Tip']].append((time, new_single_class['Grupe']))
+        subjects[new_single_class['Subject']][new_single_class['Type']].append(
+            (time, new_single_class['Groups']))
 
         new_data.append(new_single_class)
 
     return (new_data, professors, classrooms, groups, subjects)
+
 
 def write_data(data, path):
     with open(path, 'w') as write_file:

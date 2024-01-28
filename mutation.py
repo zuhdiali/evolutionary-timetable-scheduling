@@ -1,5 +1,6 @@
 import random
 
+
 def neighbour(chromosome):
     """
     Returns a mutated chromosome. The mutation is done by searching for all classes that violate some hard constraint
@@ -10,14 +11,15 @@ def neighbour(chromosome):
     :return: Mutated timetable
     """
     candidates = []
-    for k in range(len(chromosome[0])):     # Search for all classes violating hard constraints
-        for j in range(len(chromosome[2][chromosome[0][k]['Zadata_ucionica']])):
-            if chromosome[2][chromosome[0][k]['Zadata_ucionica']][j] >= 2:
+    # Search for all classes violating hard constraints
+    for k in range(len(chromosome[0])):
+        for j in range(len(chromosome[2][chromosome[0][k]['Assigned_classroom']])):
+            if chromosome[2][chromosome[0][k]['Assigned_classroom']][j] >= 2:
                 candidates.append(k)
-        for j in range(len(chromosome[1][chromosome[0][k]['Nastavnik']])):
-            if chromosome[1][chromosome[0][k]['Nastavnik']][j] >= 2:
+        for j in range(len(chromosome[1][chromosome[0][k]['Professor']])):
+            if chromosome[1][chromosome[0][k]['Professor']][j] >= 2:
                 candidates.append(k)
-        for group in chromosome[0][k]['Grupe']:
+        for group in chromosome[0][k]['Groups']:
             for j in range(len(chromosome[3][group])):
                 if chromosome[3][group][j] >= 2:
                     candidates.append(k)
@@ -28,21 +30,22 @@ def neighbour(chromosome):
         i = random.choice(candidates)
 
     # Remove that class from its time frame and classroom
-    for j in range(chromosome[0][i]['Zadato_vreme'], chromosome[0][i]['Zadato_vreme'] + int(chromosome[0][i]['Trajanje'])):
-        chromosome[1][chromosome[0][i]['Nastavnik']][j] -= 1
-        chromosome[2][chromosome[0][i]['Zadata_ucionica']][j] -= 1
-        for group in chromosome[0][i]['Grupe']:
+    for j in range(chromosome[0][i]['Assigned_time'], chromosome[0][i]['Assigned_time'] + int(chromosome[0][i]['Duration'])):
+        chromosome[1][chromosome[0][i]['Professor']][j] -= 1
+        chromosome[2][chromosome[0][i]['Assigned_classroom']][j] -= 1
+        for group in chromosome[0][i]['Groups']:
             chromosome[3][group][j] -= 1
-    chromosome[4][chromosome[0][i]['Predmet']][chromosome[0][i]['Tip']].remove((chromosome[0][i]['Zadato_vreme'], chromosome[0][i]['Grupe']))
+    chromosome[4][chromosome[0][i]['Subject']][chromosome[0][i]['Type']].remove(
+        (chromosome[0][i]['Assigned_time'], chromosome[0][i]['Groups']))
 
     # Find a free time and place
-    length = int(chromosome[0][i]['Trajanje'])
+    length = int(chromosome[0][i]['Duration'])
     found = False
     pairs = []
     for classroom in chromosome[2]:
         c = 0
         # If class can't be held in this classroom
-        if classroom not in chromosome[0][i]['Ucionica']:
+        if classroom not in chromosome[0][i]['Classroom']:
             continue
         for k in range(len(chromosome[2][classroom])):
             if chromosome[2][classroom][k] == 0 and k % 12 + length <= 12:
@@ -59,32 +62,36 @@ def neighbour(chromosome):
                 c = 0
     # Find a random time
     if not found:
-        classroom = random.choice(chromosome[0][i]['Ucionica'])
+        classroom = random.choice(chromosome[0][i]['Classroom'])
         day = random.randrange(0, 5)
         # Friday 8pm is reserved for free hour
         if day == 4:
-            period = random.randrange(0, 12 - int(chromosome[0][i]['Trajanje']))
+            period = random.randrange(
+                0, 12 - int(chromosome[0][i]['Duration']))
         else:
-            period = random.randrange(0, 13 - int(chromosome[0][i]['Trajanje']))
+            period = random.randrange(
+                0, 13 - int(chromosome[0][i]['Duration']))
         time = 12 * day + period
 
-        chromosome[0][i]['Zadata_ucionica'] = classroom
-        chromosome[0][i]['Zadato_vreme'] = time
+        chromosome[0][i]['Assigned_classroom'] = classroom
+        chromosome[0][i]['Assigned_time'] = time
 
     # Set that class to a new time and place
     if found:
         novo = random.choice(pairs)
-        chromosome[0][i]['Zadata_ucionica'] = novo[1]
-        chromosome[0][i]['Zadato_vreme'] = novo[0]
+        chromosome[0][i]['Assigned_classroom'] = novo[1]
+        chromosome[0][i]['Assigned_time'] = novo[0]
 
-    for j in range(chromosome[0][i]['Zadato_vreme'], chromosome[0][i]['Zadato_vreme'] + int(chromosome[0][i]['Trajanje'])):
-        chromosome[1][chromosome[0][i]['Nastavnik']][j] += 1
-        chromosome[2][chromosome[0][i]['Zadata_ucionica']][j] += 1
-        for group in chromosome[0][i]['Grupe']:
+    for j in range(chromosome[0][i]['Assigned_time'], chromosome[0][i]['Assigned_time'] + int(chromosome[0][i]['Duration'])):
+        chromosome[1][chromosome[0][i]['Professor']][j] += 1
+        chromosome[2][chromosome[0][i]['Assigned_classroom']][j] += 1
+        for group in chromosome[0][i]['Groups']:
             chromosome[3][group][j] += 1
-    chromosome[4][chromosome[0][i]['Predmet']][chromosome[0][i]['Tip']].append((chromosome[0][i]['Zadato_vreme'], chromosome[0][i]['Grupe']))
+    chromosome[4][chromosome[0][i]['Subject']][chromosome[0][i]['Type']].append(
+        (chromosome[0][i]['Assigned_time'], chromosome[0][i]['Groups']))
 
     return chromosome
+
 
 def neighbour2(chromosome):
     """
@@ -107,51 +114,55 @@ def neighbour2(chromosome):
         second_index = random.randrange(0, len(chromosome[0]))
 
         second = chromosome[0][second_index]
-        if first['Zadata_ucionica'] in second['Ucionica'] and second['Zadata_ucionica'] in first['Ucionica']\
-                and first['Zadato_vreme'] % 12 + int(second['Trajanje']) <= 12 \
-                and second['Zadato_vreme'] % 12 + int(first['Trajanje']) <= 12:
-            if first['Zadato_vreme'] + int(second['Trajanje']) != 60 and second['Zadato_vreme'] + int(first['Trajanje']) != 60\
+        if first['Assigned_classroom'] in second['Classroom'] and second['Assigned_classroom'] in first['Classroom']\
+                and first['Assigned_time'] % 12 + int(second['Duration']) <= 12 \
+                and second['Assigned_time'] % 12 + int(first['Duration']) <= 12:
+            if first['Assigned_time'] + int(second['Duration']) != 60 and second['Assigned_time'] + int(first['Duration']) != 60\
                     and first != second:
                 satisfied = True
         c += 1
 
     # Remove the two classes from their time frames and classrooms
-    for j in range(first['Zadato_vreme'], first['Zadato_vreme'] + int(first['Trajanje'])):
-        chromosome[1][first['Nastavnik']][j] -= 1
-        chromosome[2][first['Zadata_ucionica']][j] -= 1
-        for group in first['Grupe']:
+    for j in range(first['Assigned_time'], first['Assigned_time'] + int(first['Duration'])):
+        chromosome[1][first['Professor']][j] -= 1
+        chromosome[2][first['Assigned_classroom']][j] -= 1
+        for group in first['Groups']:
             chromosome[3][group][j] -= 1
-    chromosome[4][first['Predmet']][first['Tip']].remove((first['Zadato_vreme'], first['Grupe']))
+    chromosome[4][first['Subject']][first['Type']].remove(
+        (first['Assigned_time'], first['Groups']))
 
-    for j in range(second['Zadato_vreme'], second['Zadato_vreme'] + int(second['Trajanje'])):
-        chromosome[1][second['Nastavnik']][j] -= 1
-        chromosome[2][second['Zadata_ucionica']][j] -= 1
-        for group in second['Grupe']:
+    for j in range(second['Assigned_time'], second['Assigned_time'] + int(second['Duration'])):
+        chromosome[1][second['Professor']][j] -= 1
+        chromosome[2][second['Assigned_classroom']][j] -= 1
+        for group in second['Groups']:
             chromosome[3][group][j] -= 1
-    chromosome[4][second['Predmet']][second['Tip']].remove((second['Zadato_vreme'], second['Grupe']))
+    chromosome[4][second['Subject']][second['Type']].remove(
+        (second['Assigned_time'], second['Groups']))
 
     # Swap the times and classrooms
-    tmp = first['Zadato_vreme']
-    first['Zadato_vreme'] = second['Zadato_vreme']
-    second['Zadato_vreme'] = tmp
+    tmp = first['Assigned_time']
+    first['Assigned_time'] = second['Assigned_time']
+    second['Assigned_time'] = tmp
 
-    tmp_ucionica = first['Zadata_ucionica']
-    first['Zadata_ucionica'] = second['Zadata_ucionica']
-    second['Zadata_ucionica'] = tmp_ucionica
+    tmp_ucionica = first['Assigned_classroom']
+    first['Assigned_classroom'] = second['Assigned_classroom']
+    second['Assigned_classroom'] = tmp_ucionica
 
     # Set the classes to new timse and places
-    for j in range(first['Zadato_vreme'], first['Zadato_vreme'] + int(first['Trajanje'])):
-        chromosome[1][first['Nastavnik']][j] += 1
-        chromosome[2][first['Zadata_ucionica']][j] += 1
-        for group in first['Grupe']:
+    for j in range(first['Assigned_time'], first['Assigned_time'] + int(first['Duration'])):
+        chromosome[1][first['Professor']][j] += 1
+        chromosome[2][first['Assigned_classroom']][j] += 1
+        for group in first['Groups']:
             chromosome[3][group][j] += 1
-    chromosome[4][first['Predmet']][first['Tip']].append((first['Zadato_vreme'], first['Grupe']))
+    chromosome[4][first['Subject']][first['Type']].append(
+        (first['Assigned_time'], first['Groups']))
 
-    for j in range(second['Zadato_vreme'], second['Zadato_vreme'] + int(second['Trajanje'])):
-        chromosome[1][second['Nastavnik']][j] += 1
-        chromosome[2][second['Zadata_ucionica']][j] += 1
-        for group in second['Grupe']:
+    for j in range(second['Assigned_time'], second['Assigned_time'] + int(second['Duration'])):
+        chromosome[1][second['Professor']][j] += 1
+        chromosome[2][second['Assigned_classroom']][j] += 1
+        for group in second['Groups']:
             chromosome[3][group][j] += 1
-    chromosome[4][second['Predmet']][second['Tip']].append((second['Zadato_vreme'], second['Grupe']))
+    chromosome[4][second['Subject']][second['Type']].append(
+        (second['Assigned_time'], second['Groups']))
 
     return chromosome
