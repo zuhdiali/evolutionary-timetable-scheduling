@@ -58,5 +58,11 @@ def generate_chromosome(data):
 
 
 def write_data(data, path):
+    for single_class in data:
+        single_class['Day'] = single_class['Assigned_time'] // 12
+        single_class['Period'] = ""
+        for i in range(int(single_class['Duration'])):
+            single_class['Period'] += str(single_class['Assigned_time'] %
+                                          12 + i + 1) + " "
     with open(path, 'w') as write_file:
         json.dump(data, write_file, indent=4)
