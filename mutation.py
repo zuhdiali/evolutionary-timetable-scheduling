@@ -11,6 +11,8 @@ def neighbour(chromosome):
     :return: Mutated timetable
     """
     candidates = []
+    sesi_mulai_3_blok = [1, 3, 4, 7]
+    sesi_mulai_2_blok = [1, 3, 5, 7]
     # Search for all classes violating hard constraints
     for k in range(len(chromosome[0])):
         for j in range(len(chromosome[2][chromosome[0][k]['Assigned_classroom']])):
@@ -48,15 +50,19 @@ def neighbour(chromosome):
         if classroom not in chromosome[0][i]['Classroom']:
             continue
         for k in range(len(chromosome[2][classroom])):
-            if chromosome[2][classroom][k] == 0 and k % 12 + length <= 12:
+            # if k bla bla bla dulu, pastiin mulai sesinya sesuai durasi
+            # if chromosome[2][classroom][k] == 0 and k % 9 + length <= 9 and (c != 0 or (c == 0 and ((k) % 9 in sesi_mulai_3_blok if length == 3 else (k) % 9 in sesi_mulai_2_blok))):
+            if chromosome[2][classroom][k] == 0 and k % 9 + length <= 9:
                 c += 1
                 # If we found x consecutive hours where x is length of our class
                 if c == length:
                     time = k + 1 - c
+
                     # Friday 8pm is reserved for free hour
-                    if k != 59:
-                        pairs.append((time, classroom))
-                        found = True
+                    # if k != 59:
+                    # pairs.append((time, classroom))
+                    # found = True
+
                     c = 0
             else:
                 c = 0
@@ -65,13 +71,21 @@ def neighbour(chromosome):
         classroom = random.choice(chromosome[0][i]['Classroom'])
         day = random.randrange(0, 5)
         # Friday 8pm is reserved for free hour
-        if day == 4:
-            period = random.randrange(
-                0, 12 - int(chromosome[0][i]['Duration']))
+        # ini diganti juga, kalo durasi 3, mulai sesinya harus 1, 3, 4, 7
+        # kalo durasi 2, mulai sesinya harus 1, 3, 5, 7
+        # if day == 4:
+        #     period = random.randrange(
+        #         0, 9 - int(chromosome[0][i]['Duration']))
+        # else:
+        #     period = random.randrange(
+        #         0, 13 - int(chromosome[0][i]['Duration']))
+        if (int(chromosome[0][i]['Duration']) == 3):
+            period = random.choice(sesi_mulai_3_blok)
+            period = period - 1
         else:
-            period = random.randrange(
-                0, 13 - int(chromosome[0][i]['Duration']))
-        time = 12 * day + period
+            period = random.choice(sesi_mulai_2_blok)
+            period = period - 1
+        time = 9 * day + period
 
         chromosome[0][i]['Assigned_classroom'] = classroom
         chromosome[0][i]['Assigned_time'] = time
@@ -115,8 +129,8 @@ def neighbour2(chromosome):
 
         second = chromosome[0][second_index]
         if first['Assigned_classroom'] in second['Classroom'] and second['Assigned_classroom'] in first['Classroom']\
-                and first['Assigned_time'] % 12 + int(second['Duration']) <= 12 \
-                and second['Assigned_time'] % 12 + int(first['Duration']) <= 12:
+                and first['Assigned_time'] % 9 + int(second['Duration']) <= 9 \
+                and second['Assigned_time'] % 9 + int(first['Duration']) <= 9:
             if first['Assigned_time'] + int(second['Duration']) != 60 and second['Assigned_time'] + int(first['Duration']) != 60\
                     and first != second:
                 satisfied = True

@@ -47,6 +47,8 @@ def evolutionary_algorithm():
             chromosome = new_chromosome
         if j % 200 == 0:
             print('Iteration', j, 'cost', cost_function2(chromosome))
+        if ft == 0:
+            break
 
     print('Run', 'cost', cost_function2(chromosome), 'chromosome', chromosome)
 
@@ -113,8 +115,8 @@ def evolutionary_algorithm():
             last_seen = 0
             found = False
             current_load = 0
-            for hour in range(12):
-                time = day * 12 + hour
+            for hour in range(9):
+                time = day * 9 + hour
                 if chromosome[3][group][time] >= 1:
                     current_load += 1
                     if not found:
@@ -146,8 +148,8 @@ def evolutionary_algorithm():
             last_seen = 0
             found = False
             current_load = 0
-            for hour in range(12):
-                time = day * 12 + hour
+            for hour in range(9):
+                time = day * 9 + hour
                 if chromosome[1][prof][time] >= 1:
                     if time == 59:
                         free_hour = False
