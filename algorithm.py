@@ -13,10 +13,10 @@ cost_function2 = cost_functions.cost2
 
 def evolutionary_algorithm():
     best_timetable = None
-    data = dt.load_data(input_file)
+    chromosome = dt.load_data(input_file)
     neighbour = mutation.neighbour
     for i in range(num_runs):
-        chromosome = dt.generate_chromosome(data)
+        chromosome = dt.generate_chromosome(chromosome[0], chromosome[1])
 
         for j in range(max_generations):
             new_chromosome = neighbour(deepcopy(chromosome))

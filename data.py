@@ -3,20 +3,25 @@ import random
 
 
 def load_data(path):
+    professors = {}
+
     with open(path, 'r') as read_file:
         data = json.load(read_file)
 
-    for university_class in data['Casovi']:
+    # mengambil preferensi waktu dosen
+    for professor in data['Dosen']:
+        professors[professor['Name']] = professor['PrefTime']
+
+    for university_class in data['Perkuliahan']:
         classroom = university_class['Classroom']
-        university_class['Classroom'] = data['Ucionice'][classroom]
+        university_class['Classroom'] = data['Ruang Kelas'][classroom]
 
-    data = data['Casovi']
+    data = data['Perkuliahan']
 
-    return data
+    return (data, professors)
 
 
-def generate_chromosome(data):
-    professors = {}
+def generate_chromosome(data, professors):
     classrooms = {}
     groups = {}
     subjects = {}
@@ -25,11 +30,14 @@ def generate_chromosome(data):
     sesi_mulai_3_blok = [1, 3, 4, 7]
     sesi_mulai_2_blok = [1, 3, 5, 7]
     for single_class in data:
-        professors[single_class['Professor']] = [0] * 60
+        # preferensi waktu dosen sudah diambil dari file json
+        # preferensi waktu dosen bisa dilihat di sini
+        # professors[single_class['Professor']] = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0,
+        #                                          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
         for classroom in single_class['Classroom']:
-            classrooms[classroom] = [0] * 60
+            classrooms[classroom] = [0] * 45
         for group in single_class['Groups']:
-            groups[group] = [0] * 60
+            groups[group] = [0] * 45
         subjects[single_class['Subject']] = {'P': [], 'V': [], 'L': []}
 
     for single_class in data:

@@ -1,12 +1,12 @@
 {
-  "Ucionice": {
+  "Ruang Kelas": {
     "a": ["Atelje"],
     "k": ["Kolarac"],
     "n": ["U1", "U8"],
     "r": ["U3", "U4", "U5", "U7"],
     "s": ["Studio"]
   },
-  "Casovi": [
+  "Perkuliahan": [
     {
       "Subject": "Programski prevodioci",
       "Type": "P",

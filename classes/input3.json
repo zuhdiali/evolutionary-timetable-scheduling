@@ -1,12 +1,12 @@
 {
-  "Ucionice": {
+  "Ruang Kelas": {
     "a": ["Atelje"],
     "k": ["Kolarac"],
     "n": ["U1", "U6", "U8", "U9", "U11"],
     "r": ["U2", "U3", "U4", "U5", "U7"],
     "s": ["Studio"]
   },
-  "Casovi": [
+  "Perkuliahan": [
     {
       "Subject": "Objektno orijentisano programiranje",
       "Type": "V",

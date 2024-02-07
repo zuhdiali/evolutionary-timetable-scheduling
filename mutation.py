@@ -51,8 +51,9 @@ def neighbour(chromosome):
             continue
         for k in range(len(chromosome[2][classroom])):
             # if k bla bla bla dulu, pastiin mulai sesinya sesuai durasi
-            # if chromosome[2][classroom][k] == 0 and k % 9 + length <= 9 and (c != 0 or (c == 0 and ((k) % 9 in sesi_mulai_3_blok if length == 3 else (k) % 9 in sesi_mulai_2_blok))):
-            if chromosome[2][classroom][k] == 0 and k % 9 + length <= 9:
+            # ini k dimulai dari 0
+            if chromosome[2][classroom][k] == 0 and k % 9 + length <= 9 and (c != 0 or (c == 0 and ((k+1) % 9 in sesi_mulai_3_blok if length == 3 else (k+1) % 9 in sesi_mulai_2_blok))):
+                # if chromosome[2][classroom][k] == 0 and k % 9 + length <= 9:
                 c += 1
                 # If we found x consecutive hours where x is length of our class
                 if c == length:

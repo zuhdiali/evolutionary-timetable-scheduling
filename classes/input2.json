@@ -1,9 +1,9 @@
 {
-  "Ucionice": {
+  "Ruang Kelas": {
     "n": ["U1", "U6", "U8", "U9", "U11"],
     "r": ["U2", "U3", "U4", "U5", "U7"]
   },
-  "Casovi": [
+  "Perkuliahan": [
     {
       "Subject": "Objektno orijentisano programiranje",
       "Type": "V",

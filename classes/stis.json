@@ -1,6 +1,2821 @@
 {
-	"Ucionice": {
-		"n": ["251","252","253","254","255","256","257","261","262","263","264","265","266","267","321","322","323","324","325","326","327","328","331","332","333","334","335","336","337","338","341","342","343","344","345","346","347","348"]
-	},
-	"Casovi": [{"Groups":["1d31"],"Subject":"pengeko","Type":"V","Professor":"firdaus","Classroom":"n","Duration":"3"},{"Groups":["1d31"],"Subject":"alin","Type":"V","Professor":"lia yuliana","Classroom":"n","Duration":"3"},{"Groups":["1d31"],"Subject":"kalkulus","Type":"V","Professor":"Retnaningsih","Classroom":"n","Duration":"3"},{"Groups":["1d31"],"Subject":"pai","Type":"V","Professor":"muh syukur","Classroom":"n","Duration":"3"},{"Groups":["1d31"],"Subject":"metstat i","Type":"V","Professor":"siti muchlisoh","Classroom":"n","Duration":"3"},{"Groups":["1d31"],"Subject":"pengdemo","Type":"V","Professor":"sarni maniar","Classroom":"n","Duration":"3"},{"Groups":["1d32"],"Subject":"pengeko","Type":"V","Professor":"nucke","Classroom":"n","Duration":"3"},{"Groups":["1d32"],"Subject":"alin","Type":"V","Professor":"winih budiarti","Classroom":"n","Duration":"3"},{"Groups":["1d32"],"Subject":"kalkulus","Type":"V","Professor":"aisyah fitri yuniasih","Classroom":"n","Duration":"3"},{"Groups":["1d32"],"Subject":"pai","Type":"V","Professor":"rizka maulan","Classroom":"n","Duration":"3"},{"Groups":["1d32"],"Subject":"metstat i","Type":"V","Professor":"siti muchlisoh","Classroom":"n","Duration":"3"},{"Groups":["1d32"],"Subject":"pengdemo","Type":"V","Professor":"tri windiarto","Classroom":"n","Duration":"3"},{"Groups":["1d33"],"Subject":"pengeko","Type":"V","Professor":"ribut nurul","Classroom":"n","Duration":"3"},{"Groups":["1d33"],"Subject":"alin","Type":"V","Professor":"agus purwoto","Classroom":"n","Duration":"3"},{"Groups":["1d33"],"Subject":"kalkulus","Type":"V","Professor":"aisyah fitri yuniasih","Classroom":"n","Duration":"3"},{"Groups":["1d33"],"Subject":"pai","Type":"V","Professor":"rizka maulan","Classroom":"n","Duration":"3"},{"Groups":["1d33"],"Subject":"metstat i","Type":"V","Professor":"winih budiarti","Classroom":"n","Duration":"3"},{"Groups":["1d33"],"Subject":"pengdemo","Type":"V","Professor":"titik harsanti","Classroom":"n","Duration":"3"},{"Groups":["1ks1"],"Subject":"bing i","Type":"V","Professor":"ambarari","Classroom":"n","Duration":"2"},{"Groups":["1ks1"],"Subject":"metstat i","Type":"V","Professor":"robert kurniawan","Classroom":"n","Duration":"3"},{"Groups":["1ks1"],"Subject":"kalkulus","Type":"V","Professor":"bony parulian","Classroom":"n","Duration":"3"},{"Groups":["1ks1"],"Subject":"alin","Type":"V","Professor":"firdaus","Classroom":"n","Duration":"3"},{"Groups":["1ks1"],"Subject":"pengdemo","Type":"V","Professor":"titik harsanti","Classroom":"n","Duration":"3"},{"Groups":["1ks1"],"Subject":"pai","Type":"V","Professor":"sayid qutub","Classroom":"n","Duration":"3"},{"Groups":["1ks1"],"Subject":"pti","Type":"V","Professor":"ibnu santoso","Classroom":"n","Duration":"3"},{"Groups":["1ks2"],"Subject":"bing i","Type":"V","Professor":"yudi anjangsana","Classroom":"n","Duration":"2"},{"Groups":["1ks2"],"Subject":"metstat i","Type":"V","Professor":"robert kurniawan","Classroom":"n","Duration":"3"},{"Groups":["1ks2"],"Subject":"kalkulus","Type":"V","Professor":"bony parulian","Classroom":"n","Duration":"3"},{"Groups":["1ks2"],"Subject":"alin","Type":"V","Professor":"firdaus","Classroom":"n","Duration":"3"},{"Groups":["1ks2"],"Subject":"pengdemo","Type":"V","Professor":"titik harsanti","Classroom":"n","Duration":"3"},{"Groups":["1ks2"],"Subject":"pai","Type":"V","Professor":"sayid qutub","Classroom":"n","Duration":"3"},{"Groups":["1ks2"],"Subject":"pti","Type":"V","Professor":"sekar rizky","Classroom":"n","Duration":"3"},{"Groups":["1ks3"],"Subject":"bing i","Type":"V","Professor":"rinda riztya","Classroom":"n","Duration":"2"},{"Groups":["1ks3"],"Subject":"metstat i","Type":"V","Professor":"winih budiarti","Classroom":"n","Duration":"3"},{"Groups":["1ks3"],"Subject":"kalkulus","Type":"V","Professor":"christiana","Classroom":"n","Duration":"3"},{"Groups":["1ks3"],"Subject":"alin","Type":"V","Professor":"lia yuliana","Classroom":"n","Duration":"3"},{"Groups":["1ks3"],"Subject":"pengdemo","Type":"V","Professor":"jeffry","Classroom":"n","Duration":"3"},{"Groups":["1ks3"],"Subject":"pai","Type":"V","Professor":"ridwan yahya","Classroom":"n","Duration":"3"},{"Groups":["1ks3"],"Subject":"pti","Type":"V","Professor":"dwy bagus","Classroom":"n","Duration":"3"},{"Groups":["1ks4"],"Subject":"bing i","Type":"V","Professor":"rinda riztya","Classroom":"n","Duration":"2"},{"Groups":["1ks4"],"Subject":"metstat i","Type":"V","Professor":"winih budiarti","Classroom":"n","Duration":"3"},{"Groups":["1ks4"],"Subject":"kalkulus","Type":"V","Professor":"neli agustina","Classroom":"n","Duration":"3"},{"Groups":["1ks4"],"Subject":"alin","Type":"V","Professor":"lia yuliana","Classroom":"n","Duration":"3"},{"Groups":["1ks4"],"Subject":"pengdemo","Type":"V","Professor":"febri wicaksono","Classroom":"n","Duration":"3"},{"Groups":["1ks4"],"Subject":"pai","Type":"V","Professor":"sarbini anim","Classroom":"n","Duration":"3"},{"Groups":["1ks4"],"Subject":"pti","Type":"V","Professor":"sri herwanto","Classroom":"n","Duration":"3"},{"Groups":["1st1"],"Subject":"pengdemo","Type":"V","Professor":"sarni maniar","Classroom":"n","Duration":"3"},{"Groups":["1st1"],"Subject":"kalkulus","Type":"V","Professor":"neli agustina","Classroom":"n","Duration":"3"},{"Groups":["1st1"],"Subject":"bing i","Type":"V","Professor":"ambarari","Classroom":"n","Duration":"2"},{"Groups":["1st1"],"Subject":"alin","Type":"V","Professor":"liza kurnia","Classroom":"n","Duration":"3"},{"Groups":["1st1"],"Subject":"metstat i","Type":"V","Professor":"nofita istiana","Classroom":"n","Duration":"3"},{"Groups":["1st1"],"Subject":"pti","Type":"V","Professor":"ibnu santoso","Classroom":"n","Duration":"3"},{"Groups":["1st1"],"Subject":"pai","Type":"V","Professor":"muh syukur","Classroom":"n","Duration":"3"},{"Groups":["1st2"],"Subject":"pengdemo","Type":"V","Professor":"jeffry","Classroom":"n","Duration":"3"},{"Groups":["1st2"],"Subject":"kalkulus","Type":"V","Professor":"aisyah fitri yuniasih","Classroom":"n","Duration":"3"},{"Groups":["1st2"],"Subject":"bing i","Type":"V","Professor":"rinda riztya","Classroom":"n","Duration":"2"},{"Groups":["1st2"],"Subject":"alin","Type":"V","Professor":"liza kurnia","Classroom":"n","Duration":"3"},{"Groups":["1st2"],"Subject":"metstat i","Type":"V","Professor":"siti muchlisoh","Classroom":"n","Duration":"3"},{"Groups":["1st2"],"Subject":"pti","Type":"V","Professor":"waris marsisno","Classroom":"n","Duration":"3"},{"Groups":["1st2"],"Subject":"pai","Type":"V","Professor":"rizka maulan","Classroom":"n","Duration":"3"},{"Groups":["1st3"],"Subject":"pengdemo","Type":"V","Professor":"jeffry","Classroom":"n","Duration":"3"},{"Groups":["1st3"],"Subject":"kalkulus","Type":"V","Professor":"Retnaningsih","Classroom":"n","Duration":"3"},{"Groups":["1st3"],"Subject":"bing i","Type":"V","Professor":"komara suhendar","Classroom":"n","Duration":"2"},{"Groups":["1st3"],"Subject":"alin","Type":"V","Professor":"lia yuliana","Classroom":"n","Duration":"3"},{"Groups":["1st3"],"Subject":"metstat i","Type":"V","Professor":"nofita istiana","Classroom":"n","Duration":"3"},{"Groups":["1st3"],"Subject":"pti","Type":"V","Professor":"erna nurmawati","Classroom":"n","Duration":"3"},{"Groups":["1st3"],"Subject":"pai","Type":"V","Professor":"abu tholhah","Classroom":"n","Duration":"3"},{"Groups":["1st4"],"Subject":"pengdemo","Type":"V","Professor":"febri wicaksono","Classroom":"n","Duration":"3"},{"Groups":["1st4"],"Subject":"kalkulus","Type":"V","Professor":"nofita istiana","Classroom":"n","Duration":"3"},{"Groups":["1st4"],"Subject":"bing i","Type":"V","Professor":"anna dwi k","Classroom":"n","Duration":"2"},{"Groups":["1st4"],"Subject":"alin","Type":"V","Professor":"winih budiarti","Classroom":"n","Duration":"3"},{"Groups":["1st4"],"Subject":"metstat i","Type":"V","Professor":"liza kurnia","Classroom":"n","Duration":"3"},{"Groups":["1st4"],"Subject":"pti","Type":"V","Professor":"khairiyah rizkiyah","Classroom":"n","Duration":"3"},{"Groups":["1st4"],"Subject":"pai","Type":"V","Professor":"ridwan yahya","Classroom":"n","Duration":"3"},{"Groups":["1st5"],"Subject":"pengdemo","Type":"V","Professor":"jeffry","Classroom":"n","Duration":"3"},{"Groups":["1st5"],"Subject":"kalkulus","Type":"V","Professor":"lia yuliana","Classroom":"n","Duration":"3"},{"Groups":["1st5"],"Subject":"bing i","Type":"V","Professor":"yudi anjangsana","Classroom":"n","Duration":"2"},{"Groups":["1st5"],"Subject":"alin","Type":"V","Professor":"agus purwoto","Classroom":"n","Duration":"3"},{"Groups":["1st5"],"Subject":"metstat i","Type":"V","Professor":"liza kurnia","Classroom":"n","Duration":"3"},{"Groups":["1st5"],"Subject":"pti","Type":"V","Professor":"nano yulian","Classroom":"n","Duration":"3"},{"Groups":["1st5"],"Subject":"pai","Type":"V","Professor":"sarbini anim","Classroom":"n","Duration":"3"},{"Groups":["1st6"],"Subject":"pengdemo","Type":"V","Professor":"febri wicaksono","Classroom":"n","Duration":"3"},{"Groups":["1st6"],"Subject":"kalkulus","Type":"V","Professor":"nofita istiana","Classroom":"n","Duration":"3"},{"Groups":["1st6"],"Subject":"bing i","Type":"V","Professor":"komara suhendar","Classroom":"n","Duration":"2"},{"Groups":["1st6"],"Subject":"alin","Type":"V","Professor":"agus purwoto","Classroom":"n","Duration":"3"},{"Groups":["1st6"],"Subject":"metstat i","Type":"V","Professor":"siti muchlisoh","Classroom":"n","Duration":"3"},{"Groups":["1st6"],"Subject":"pti","Type":"V","Professor":"erna nurmawati","Classroom":"n","Duration":"3"},{"Groups":["1st6"],"Subject":"pai","Type":"V","Professor":"muh syukur","Classroom":"n","Duration":"3"},{"Groups":["1st7"],"Subject":"pengdemo","Type":"V","Professor":"titik harsanti","Classroom":"n","Duration":"3"},{"Groups":["1st7"],"Subject":"kalkulus","Type":"V","Professor":"aisyah fitri yuniasih","Classroom":"n","Duration":"3"},{"Groups":["1st7"],"Subject":"bing i","Type":"V","Professor":"anna dwi k","Classroom":"n","Duration":"2"},{"Groups":["1st7"],"Subject":"alin","Type":"V","Professor":"agus purwoto","Classroom":"n","Duration":"3"},{"Groups":["1st7"],"Subject":"metstat i","Type":"V","Professor":"rini silvi","Classroom":"n","Duration":"3"},{"Groups":["1st7"],"Subject":"pti","Type":"V","Professor":"moh ari n","Classroom":"n","Duration":"3"},{"Groups":["1st7"],"Subject":"pai","Type":"V","Professor":"abu tholhah","Classroom":"n","Duration":"3"},{"Groups":["2d31"],"Subject":"pengantar sig","Type":"V","Professor":"ernawati pasaribu","Classroom":"n","Duration":"3"},{"Groups":["2d31"],"Subject":"b ind","Type":"V","Professor":"marlina","Classroom":"n","Duration":"3"},{"Groups":["2d31"],"Subject":"metstat ii","Type":"V","Professor":"efri diah","Classroom":"n","Duration":"3"},{"Groups":["2d31"],"Subject":"basdat","Type":"V","Professor":"erna nurmawati","Classroom":"n","Duration":"2"},{"Groups":["2d31"],"Subject":"tekkom","Type":"V","Professor":"avi r","Classroom":"n","Duration":"3"},{"Groups":["2d31"],"Subject":"offstat","Type":"V","Professor":"wahyudin","Classroom":"n","Duration":"3"},{"Groups":["2d31"],"Subject":"statmat ii","Type":"V","Professor":"wahyuni andriana","Classroom":"n","Duration":"3"},{"Groups":["2d31"],"Subject":"metode pengumpulan data","Type":"V","Professor":"achmad prasetyo","Classroom":"n","Duration":"3"},{"Groups":["2d32"],"Subject":"pengantar sig","Type":"V","Professor":"ernawati pasaribu","Classroom":"n","Duration":"3"},{"Groups":["2d32"],"Subject":"b ind","Type":"V","Professor":"reni oktaviani","Classroom":"n","Duration":"3"},{"Groups":["2d32"],"Subject":"metstat ii","Type":"V","Professor":"rini rahani","Classroom":"n","Duration":"3"},{"Groups":["2d32"],"Subject":"basdat","Type":"V","Professor":"erna nurmawati","Classroom":"n","Duration":"2"},{"Groups":["2d32"],"Subject":"tekkom","Type":"V","Professor":"aghnia kartika","Classroom":"n","Duration":"3"},{"Groups":["2d32"],"Subject":"offstat","Type":"V","Professor":"wahyuni andriana","Classroom":"n","Duration":"3"},{"Groups":["2d32"],"Subject":"statmat ii","Type":"V","Professor":"statmat ii","Classroom":"n","Duration":"3"},{"Groups":["2d32"],"Subject":"metode pengumpulan data","Type":"V","Professor":"sukim","Classroom":"n","Duration":"3"},{"Groups":["2d33"],"Subject":"pengantar sig","Type":"V","Professor":"ernawati pasaribu","Classroom":"n","Duration":"3"},{"Groups":["2d33"],"Subject":"b ind","Type":"V","Professor":"marlina","Classroom":"n","Duration":"3"},{"Groups":["2d33"],"Subject":"metstat ii","Type":"V","Professor":"rini rahani","Classroom":"n","Duration":"3"},{"Groups":["2d33"],"Subject":"basdat","Type":"V","Professor":"erna nurmawati","Classroom":"n","Duration":"2"},{"Groups":["2d33"],"Subject":"tekkom","Type":"V","Professor":"agus pramono","Classroom":"n","Duration":"3"},{"Groups":["2d33"],"Subject":"offstat","Type":"V","Professor":"wahyudin","Classroom":"n","Duration":"3"},{"Groups":["2d33"],"Subject":"statmat ii","Type":"V","Professor":"efri diah","Classroom":"n","Duration":"3"},{"Groups":["2d33"],"Subject":"metode pengumpulan data","Type":"V","Professor":"sukim","Classroom":"n","Duration":"3"},{"Groups":["2ks1"],"Subject":"mps","Type":"V","Professor":"budyanra","Classroom":"n","Duration":"3"},{"Groups":["2ks1"],"Subject":"statmat ii","Type":"V","Professor":"bony parulian","Classroom":"n","Duration":"3"},{"Groups":["2ks1"],"Subject":"ppkn","Type":"V","Professor":"martini","Classroom":"n","Duration":"3"},{"Groups":["2ks1"],"Subject":"sig","Type":"V","Professor":"ernawati pasaribu","Classroom":"n","Duration":"3"},{"Groups":["2ks1"],"Subject":"metstat ii","Type":"V","Professor":"cucu sumarni","Classroom":"n","Duration":"3"},{"Groups":["2ks1"],"Subject":"basdat","Type":"V","Professor":"lutfi rahmatuti","Classroom":"n","Duration":"3"},{"Groups":["2ks1"],"Subject":"strukdat","Type":"V","Professor":"firdaus","Classroom":"n","Duration":"3"},{"Groups":["2ks2"],"Subject":"mps","Type":"V","Professor":"budyanra","Classroom":"n","Duration":"3"},{"Groups":["2ks2"],"Subject":"statmat ii","Type":"V","Professor":"bony parulian","Classroom":"n","Duration":"3"},{"Groups":["2ks2"],"Subject":"ppkn","Type":"V","Professor":"martini","Classroom":"n","Duration":"3"},{"Groups":["2ks2"],"Subject":"sig","Type":"V","Professor":"rindang bangun","Classroom":"n","Duration":"3"},{"Groups":["2ks2"],"Subject":"metstat ii","Type":"V","Professor":"cucu sumarni","Classroom":"n","Duration":"3"},{"Groups":["2ks2"],"Subject":"basdat","Type":"V","Professor":"lutfi rahmatuti","Classroom":"n","Duration":"3"},{"Groups":["2ks2"],"Subject":"strukdat","Type":"V","Professor":"firdaus","Classroom":"n","Duration":"3"},{"Groups":["2ks3"],"Subject":"mps","Type":"V","Professor":"achmad prasetyo","Classroom":"n","Duration":"3"},{"Groups":["2ks3"],"Subject":"statmat ii","Type":"V","Professor":"moh dokhi","Classroom":"n","Duration":"3"},{"Groups":["2ks3"],"Subject":"ppkn","Type":"V","Professor":"esti suntari","Classroom":"n","Duration":"3"},{"Groups":["2ks3"],"Subject":"sig","Type":"V","Professor":"rindang bangun","Classroom":"n","Duration":"3"},{"Groups":["2ks3"],"Subject":"metstat ii","Type":"V","Professor":"rani nooraeni","Classroom":"n","Duration":"3"},{"Groups":["2ks3"],"Subject":"basdat","Type":"V","Professor":"ratih ngestrini","Classroom":"n","Duration":"3"},{"Groups":["2ks3"],"Subject":"strukdat","Type":"V","Professor":"nori wilantika","Classroom":"n","Duration":"3"},{"Groups":["2ks4"],"Subject":"mps","Type":"V","Professor":"sukim","Classroom":"n","Duration":"3"},{"Groups":["2ks4"],"Subject":"statmat ii","Type":"V","Professor":"moh dokhi","Classroom":"n","Duration":"3"},{"Groups":["2ks4"],"Subject":"ppkn","Type":"V","Professor":"esti suntari","Classroom":"n","Duration":"3"},{"Groups":["2ks4"],"Subject":"sig","Type":"V","Professor":"rindang bangun","Classroom":"n","Duration":"3"},{"Groups":["2ks4"],"Subject":"metstat ii","Type":"V","Professor":"rani nooraeni","Classroom":"n","Duration":"3"},{"Groups":["2ks4"],"Subject":"basdat","Type":"V","Professor":"farid ridho","Classroom":"n","Duration":"3"},{"Groups":["2ks4"],"Subject":"strukdat","Type":"V","Professor":"nori wilantika","Classroom":"n","Duration":"3"},{"Groups":["2st1"],"Subject":"metsat ii","Type":"V","Professor":"efri diah","Classroom":"n","Duration":"3"},{"Groups":["2st1"],"Subject":"snn","Type":"V","Professor":"anugerah karta","Classroom":"n","Duration":"3"},{"Groups":["2st1"],"Subject":"offstat","Type":"V","Professor":"fitri kartiasih","Classroom":"n","Duration":"3"},{"Groups":["2st1"],"Subject":"mps","Type":"V","Professor":"sukim","Classroom":"n","Duration":"3"},{"Groups":["2st1"],"Subject":"komstat","Type":"V","Professor":"robert kurniawan","Classroom":"n","Duration":"3"},{"Groups":["2st1"],"Subject":"ppkn","Type":"V","Professor":"rika kartika","Classroom":"n","Duration":"3"},{"Groups":["2st1"],"Subject":"statmat ii","Type":"V","Professor":"timbang sirait","Classroom":"n","Duration":"3"},{"Groups":["2st2"],"Subject":"metsat ii","Type":"V","Professor":"ekaria","Classroom":"n","Duration":"3"},{"Groups":["2st2"],"Subject":"snn","Type":"V","Professor":"krismanti tri","Classroom":"n","Duration":"3"},{"Groups":["2st2"],"Subject":"offstat","Type":"V","Professor":"fitri kartiasih","Classroom":"n","Duration":"3"},{"Groups":["2st2"],"Subject":"mps","Type":"V","Professor":"atik maratis","Classroom":"n","Duration":"3"},{"Groups":["2st2"],"Subject":"komstat","Type":"V","Professor":"achmad syahrul","Classroom":"n","Duration":"3"},{"Groups":["2st2"],"Subject":"ppkn","Type":"V","Professor":"suryanto aloysius","Classroom":"n","Duration":"3"},{"Groups":["2st2"],"Subject":"statmat ii","Type":"V","Professor":"moh dokhi","Classroom":"n","Duration":"3"},{"Groups":["2st3"],"Subject":"metsat ii","Type":"V","Professor":"timbang sirait","Classroom":"n","Duration":"3"},{"Groups":["2st3"],"Subject":"snn","Type":"V","Professor":"anugerah karta","Classroom":"n","Duration":"3"},{"Groups":["2st3"],"Subject":"offstat","Type":"V","Professor":"wahyudin","Classroom":"n","Duration":"3"},{"Groups":["2st3"],"Subject":"mps","Type":"V","Professor":"achmad prasetyo","Classroom":"n","Duration":"3"},{"Groups":["2st3"],"Subject":"komstat","Type":"V","Professor":"rindang bangun","Classroom":"n","Duration":"3"},{"Groups":["2st3"],"Subject":"ppkn","Type":"V","Professor":"murni parembai","Classroom":"n","Duration":"3"},{"Groups":["2st3"],"Subject":"statmat ii","Type":"V","Professor":"azka ubaidillah","Classroom":"n","Duration":"3"},{"Groups":["2st4"],"Subject":"metsat ii","Type":"V","Professor":"ekaria","Classroom":"n","Duration":"3"},{"Groups":["2st4"],"Subject":"snn","Type":"V","Professor":"krismanti tri","Classroom":"n","Duration":"3"},{"Groups":["2st4"],"Subject":"offstat","Type":"V","Professor":"wahyudin","Classroom":"n","Duration":"3"},{"Groups":["2st4"],"Subject":"mps","Type":"V","Professor":"I made arcana","Classroom":"n","Duration":"3"},{"Groups":["2st4"],"Subject":"komstat","Type":"V","Professor":"arie wahyu w","Classroom":"n","Duration":"3"},{"Groups":["2st4"],"Subject":"ppkn","Type":"V","Professor":"suryanto aloysius","Classroom":"n","Duration":"3"},{"Groups":["2st4"],"Subject":"statmat ii","Type":"V","Professor":"timbang sirait","Classroom":"n","Duration":"3"},{"Groups":["2st5"],"Subject":"metsat ii","Type":"V","Professor":"novi hidayat","Classroom":"n","Duration":"3"},{"Groups":["2st5"],"Subject":"snn","Type":"V","Professor":"krismanti tri","Classroom":"n","Duration":"3"},{"Groups":["2st5"],"Subject":"offstat","Type":"V","Professor":"yuliagnis","Classroom":"n","Duration":"3"},{"Groups":["2st5"],"Subject":"mps","Type":"V","Professor":"atik maratis","Classroom":"n","Duration":"3"},{"Groups":["2st5"],"Subject":"komstat","Type":"V","Professor":"budi yuniarto","Classroom":"n","Duration":"3"},{"Groups":["2st5"],"Subject":"ppkn","Type":"V","Professor":"murni parembai","Classroom":"n","Duration":"3"},{"Groups":["2st5"],"Subject":"statmat ii","Type":"V","Professor":"erni tri astuti","Classroom":"n","Duration":"3"},{"Groups":["2st6"],"Subject":"metsat ii","Type":"V","Professor":"novi hidayat","Classroom":"n","Duration":"3"},{"Groups":["2st6"],"Subject":"snn","Type":"V","Professor":"krismanti tri","Classroom":"n","Duration":"3"},{"Groups":["2st6"],"Subject":"offstat","Type":"V","Professor":"sugiarto","Classroom":"n","Duration":"3"},{"Groups":["2st6"],"Subject":"mps","Type":"V","Professor":"achmad prasetyo","Classroom":"n","Duration":"3"},{"Groups":["2st6"],"Subject":"komstat","Type":"V","Professor":"robert kurniawan","Classroom":"n","Duration":"3"},{"Groups":["2st6"],"Subject":"ppkn","Type":"V","Professor":"suryanto aloysius","Classroom":"n","Duration":"3"},{"Groups":["2st6"],"Subject":"statmat ii","Type":"V","Professor":"moh dokhi","Classroom":"n","Duration":"3"},{"Groups":["2st7"],"Subject":"metsat ii","Type":"V","Professor":"timbang sirait","Classroom":"n","Duration":"3"},{"Groups":["2st7"],"Subject":"snn","Type":"V","Professor":"krismanti tri","Classroom":"n","Duration":"3"},{"Groups":["2st7"],"Subject":"offstat","Type":"V","Professor":"wahyuni andriana","Classroom":"n","Duration":"3"},{"Groups":["2st7"],"Subject":"mps","Type":"V","Professor":"I made arcana","Classroom":"n","Duration":"3"},{"Groups":["2st7"],"Subject":"komstat","Type":"V","Professor":"achmad syahrul","Classroom":"n","Duration":"3"},{"Groups":["2st7"],"Subject":"ppkn","Type":"V","Professor":"rika kartika","Classroom":"n","Duration":"3"},{"Groups":["2st7"],"Subject":"statmat ii","Type":"V","Professor":"azka ubaidillah","Classroom":"n","Duration":"3"},{"Groups":["3d31"],"Subject":"apg","Type":"V","Professor":"budi yuniarto","Classroom":"n","Duration":"3"},{"Groups":["3d31"],"Subject":"metode peramalan","Type":"V","Professor":"neli agustina","Classroom":"n","Duration":"3"},{"Groups":["3d31"],"Subject":"analisis data","Type":"V","Professor":"agung priyo utomo","Classroom":"n","Duration":"2"},{"Groups":["3d31"],"Subject":"msdm","Type":"V","Professor":"yaya setiadi","Classroom":"n","Duration":"3"},{"Groups":["3d32"],"Subject":"apg","Type":"V","Professor":"sarni maniar","Classroom":"n","Duration":"3"},{"Groups":["3d32"],"Subject":"metode peramalan","Type":"V","Professor":"neli agustina","Classroom":"n","Duration":"3"},{"Groups":["3d32"],"Subject":"analisis data","Type":"V","Professor":"nasrudin","Classroom":"n","Duration":"2"},{"Groups":["3d32"],"Subject":"msdm","Type":"V","Professor":"sugiarto","Classroom":"n","Duration":"3"},{"Groups":["3d33"],"Subject":"apg","Type":"V","Professor":"cucu sumarni","Classroom":"n","Duration":"3"},{"Groups":["3d33"],"Subject":"metode peramalan","Type":"V","Professor":"neli agustina","Classroom":"n","Duration":"3"},{"Groups":["3d33"],"Subject":"analisis data","Type":"V","Professor":"agung priyo utomo","Classroom":"n","Duration":"2"},{"Groups":["3d33"],"Subject":"msdm","Type":"V","Professor":"yaya setiadi","Classroom":"n","Duration":"3"},{"Groups":["3d34"],"Subject":"apg","Type":"V","Professor":"sarni maniar","Classroom":"n","Duration":"3"},{"Groups":["3d34"],"Subject":"metode peramalan","Type":"V","Professor":"Retnaningsih","Classroom":"n","Duration":"3"},{"Groups":["3d34"],"Subject":"analisis data","Type":"V","Professor":"nasrudin","Classroom":"n","Duration":"2"},{"Groups":["3d34"],"Subject":"msdm","Type":"V","Professor":"sugiarto","Classroom":"n","Duration":"3"},{"Groups":["3d35"],"Subject":"apg","Type":"V","Professor":"cucu sumarni","Classroom":"n","Duration":"3"},{"Groups":["3d35"],"Subject":"metode peramalan","Type":"V","Professor":"Retnaningsih","Classroom":"n","Duration":"3"},{"Groups":["3d35"],"Subject":"analisis data","Type":"V","Professor":"agung priyo utomo","Classroom":"n","Duration":"2"},{"Groups":["3d35"],"Subject":"msdm","Type":"V","Professor":"yaya setiadi","Classroom":"n","Duration":"3"},{"Groups":["3sd1"],"Subject":"information retrieval","Type":"V","Professor":"lya hulliyyatus","Classroom":"n","Duration":"3"},{"Groups":["3sd1"],"Subject":"analisis runtun waktu","Type":"V","Professor":"fitri kartiasih","Classroom":"n","Duration":"3"},{"Groups":["3sd1"],"Subject":"offstat","Type":"V","Professor":"waris marsisno","Classroom":"n","Duration":"3"},{"Groups":["3sd1"],"Subject":"metpen","Type":"V","Professor":"setia pramana","Classroom":"n","Duration":"3"},{"Groups":["3sd1"],"Subject":"apg","Type":"V","Professor":"budi yuniarto","Classroom":"n","Duration":"3"},{"Groups":["3sd1"],"Subject":"rpl","Type":"V","Professor":"lya, nori, lutfi","Classroom":"n","Duration":"3"},{"Groups":["3sd2"],"Subject":"information retrieval","Type":"V","Professor":"lya hulliyyatus","Classroom":"n","Duration":"3"},{"Groups":["3sd2"],"Subject":"analisis runtun waktu","Type":"V","Professor":"fitri kartiasih","Classroom":"n","Duration":"3"},{"Groups":["3sd2"],"Subject":"offstat","Type":"V","Professor":"yuliagnis","Classroom":"n","Duration":"3"},{"Groups":["3sd2"],"Subject":"metpen","Type":"V","Professor":"arie wahyu w","Classroom":"n","Duration":"3"},{"Groups":["3sd2"],"Subject":"apg","Type":"V","Professor":"rani nooraeni","Classroom":"n","Duration":"3"},{"Groups":["3sd2"],"Subject":"rpl","Type":"V","Professor":"lya, nori, lutfi","Classroom":"n","Duration":"3"},{"Groups":["3sd3"],"Subject":"information retrieval","Type":"V","Professor":"lya hulliyyatus","Classroom":"n","Duration":"3"},{"Groups":["3sd3"],"Subject":"analisis runtun waktu","Type":"V","Professor":"anugerah karta","Classroom":"n","Duration":"3"},{"Groups":["3sd3"],"Subject":"offstat","Type":"V","Professor":"yuliagnis","Classroom":"n","Duration":"3"},{"Groups":["3sd3"],"Subject":"metpen","Type":"V","Professor":"arie wahyu w","Classroom":"n","Duration":"3"},{"Groups":["3sd3"],"Subject":"apg","Type":"V","Professor":"achmad syahrul","Classroom":"n","Duration":"3"},{"Groups":["3sd3"],"Subject":"rpl","Type":"V","Professor":"lya, nori, lutfi","Classroom":"n","Duration":"3"},{"Groups":["3se1"],"Subject":"metpen","Type":"V","Professor":"nucke","Classroom":"n","Duration":"3"},{"Groups":["3se1"],"Subject":"apg","Type":"V","Professor":"ekaria","Classroom":"n","Duration":"3"},{"Groups":["3se1"],"Subject":"analisis runtun waktu","Type":"V","Professor":"budiasih","Classroom":"n","Duration":"3"},{"Groups":["3se1"],"Subject":"metsur","Type":"V","Professor":"atik maratis","Classroom":"n","Duration":"3"},{"Groups":["3se1"],"Subject":"analisis data kategorik","Type":"V","Professor":"agung priyo utomo","Classroom":"n","Duration":"3"},{"Groups":["3se1"],"Subject":"ekonomi mikro","Type":"V","Professor":"rita yuliana","Classroom":"n","Duration":"3"},{"Groups":["3se2"],"Subject":"metpen","Type":"V","Professor":"hardius usman","Classroom":"n","Duration":"3"},{"Groups":["3se2"],"Subject":"apg","Type":"V","Professor":"novi hidayat","Classroom":"n","Duration":"3"},{"Groups":["3se2"],"Subject":"analisis runtun waktu","Type":"V","Professor":"budiasih","Classroom":"n","Duration":"3"},{"Groups":["3se2"],"Subject":"metsur","Type":"V","Professor":"budyanra","Classroom":"n","Duration":"3"},{"Groups":["3se2"],"Subject":"analisis data kategorik","Type":"V","Professor":"siskarossa","Classroom":"n","Duration":"3"},{"Groups":["3se2"],"Subject":"ekonomi mikro","Type":"V","Professor":"rita yuliana","Classroom":"n","Duration":"3"},{"Groups":["3se3"],"Subject":"metpen","Type":"V","Professor":"siskarossa","Classroom":"n","Duration":"3"},{"Groups":["3se3"],"Subject":"apg","Type":"V","Professor":"azka ubaidillah","Classroom":"n","Duration":"3"},{"Groups":["3se3"],"Subject":"analisis runtun waktu","Type":"V","Professor":"nasrudin","Classroom":"n","Duration":"3"},{"Groups":["3se3"],"Subject":"metsur","Type":"V","Professor":"I made arcana","Classroom":"n","Duration":"3"},{"Groups":["3se3"],"Subject":"analisis data kategorik","Type":"V","Professor":"rini rahani","Classroom":"n","Duration":"3"},{"Groups":["3se3"],"Subject":"ekonomi mikro","Type":"V","Professor":"budiasih","Classroom":"n","Duration":"3"},{"Groups":["3si1"],"Subject":"rpl","Type":"V","Professor":"yeni, lya, nori, lutfi","Classroom":"n","Duration":"3"},{"Groups":["3si1"],"Subject":"ppk","Type":"V","Professor":"ibnu santoso","Classroom":"n","Duration":"3"}]
+  "Ruang Kelas": {
+    "25": ["251", "252", "253", "254", "255", "256", "257"],
+    "26": ["261", "262", "263", "264", "265", "266", "267"],
+    "32": ["321", "322", "323", "324", "325", "326", "327", "328"],
+    "33": ["331", "332", "333", "334", "335", "336", "337", "338"],
+    "34": ["341", "342", "343", "344", "345", "346", "347", "348"],
+    "n": [
+      "251",
+      "252",
+      "253",
+      "254",
+      "255",
+      "256",
+      "257",
+      "261",
+      "262",
+      "263",
+      "264",
+      "265",
+      "266",
+      "267",
+      "321",
+      "322",
+      "323",
+      "324",
+      "325",
+      "326",
+      "327",
+      "328",
+      "331",
+      "332",
+      "333",
+      "334",
+      "335",
+      "336",
+      "337",
+      "338",
+      "341",
+      "342",
+      "343",
+      "344",
+      "345",
+      "346",
+      "347",
+      "348"
+    ]
+  },
+  "Dosen": [
+    {
+      "Name": "abu tholhah",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "achmad prasetyo",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "achmad syahrul",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "aghnia kartika",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "agung priyo utomo",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "agus pramono",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "agus purwoto",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "aisyah fitri yuniasih",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "ambarari",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "anna dwi k",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "anugerah karta",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "arie wahyu w",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "artha satwika",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "atik maratis",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "avi r",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "azka ubaidillah",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "bambang nurcahyo",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "bony parulian",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "budi yuniarto",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "budiasih",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "budyanra",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "christiana",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "cucu sumarni",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "dwy bagus",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "efri diah",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "ekaria",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "erna nurmawati",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "ernawati pasaribu",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "erni tri astuti",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "esti suntari",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "farid ridho",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "febri wicaksono",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "firdaus",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "fitri kartiasih",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "hardius usman",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "I made arcana",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "ibnu santoso",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "irawati diah astuti",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "irdam ahmad",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "jeffry",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "khairiyah rizkiyah",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "komara suhendar",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "krismanti tri",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "kunti puspitasari",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "lia yuliana",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "liza kurnia",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "luci wulansari",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "lutfi rahmatuti",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "lya hulliyyatus",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "lya, nori, lutfi",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "marlina",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "martini",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "moh ari n",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "moh dokhi",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "muh syukur",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "murni parembai",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "mutaqin",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "nano yulian",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "nasrudin",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "neli agustina",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "nofita istiana",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "nori wilantika",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "novi hidayat",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "novianto budi k",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "nucke",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "oki heryanto",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "rani nooraeni",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "ratih ngestrini",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "reni oktaviani",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "Retnaningsih",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "ribut nurul",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "ridwan yahya",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "rika kartika",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "rinda riztya",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "rindang bangun",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "rini rahani",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "rini silvi",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "rita yuliana",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "rizka maulan",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "robert kurniawan",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "sarbini anim",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "sarni maniar",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "sayid qutub",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "sekar rizky",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "setia pramana",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "siskarossa",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "siti muchlisoh",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "sri herwanto",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "statmat ii",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "sugiarto",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "sukim",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "suryanto aloysius",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "timbang sirait",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "tiodora",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "titik harsanti",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "tri windiarto",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "wahyudin",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "wahyuni andriana",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "waris marsisno",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "winih budiarti",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "yaya setiadi",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "yeni, lya, nori, lutfi",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "yudi anjangsana",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "yuliagnis",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    },
+    {
+      "Name": "yunarso anang",
+      "PrefTime": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
+    }
+  ],
+
+  "Perkuliahan": [
+    {
+      "Groups": ["1d31"],
+      "Subject": "pengeko",
+      "Type": "V",
+      "Professor": "firdaus",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1d31"],
+      "Subject": "alin",
+      "Type": "V",
+      "Professor": "lia yuliana",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1d31"],
+      "Subject": "kalkulus",
+      "Type": "V",
+      "Professor": "Retnaningsih",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1d31"],
+      "Subject": "pai",
+      "Type": "V",
+      "Professor": "muh syukur",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1d31"],
+      "Subject": "metstat i",
+      "Type": "V",
+      "Professor": "siti muchlisoh",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1d31"],
+      "Subject": "pengdemo",
+      "Type": "V",
+      "Professor": "sarni maniar",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1d32"],
+      "Subject": "pengeko",
+      "Type": "V",
+      "Professor": "nucke",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1d32"],
+      "Subject": "alin",
+      "Type": "V",
+      "Professor": "winih budiarti",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1d32"],
+      "Subject": "kalkulus",
+      "Type": "V",
+      "Professor": "aisyah fitri yuniasih",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1d32"],
+      "Subject": "pai",
+      "Type": "V",
+      "Professor": "rizka maulan",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1d32"],
+      "Subject": "metstat i",
+      "Type": "V",
+      "Professor": "siti muchlisoh",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1d32"],
+      "Subject": "pengdemo",
+      "Type": "V",
+      "Professor": "tri windiarto",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1d33"],
+      "Subject": "pengeko",
+      "Type": "V",
+      "Professor": "ribut nurul",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1d33"],
+      "Subject": "alin",
+      "Type": "V",
+      "Professor": "agus purwoto",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1d33"],
+      "Subject": "kalkulus",
+      "Type": "V",
+      "Professor": "aisyah fitri yuniasih",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1d33"],
+      "Subject": "pai",
+      "Type": "V",
+      "Professor": "rizka maulan",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1d33"],
+      "Subject": "metstat i",
+      "Type": "V",
+      "Professor": "winih budiarti",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1d33"],
+      "Subject": "pengdemo",
+      "Type": "V",
+      "Professor": "titik harsanti",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks1"],
+      "Subject": "bing i",
+      "Type": "V",
+      "Professor": "ambarari",
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Groups": ["1ks1"],
+      "Subject": "metstat i",
+      "Type": "V",
+      "Professor": "robert kurniawan",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks1"],
+      "Subject": "kalkulus",
+      "Type": "V",
+      "Professor": "bony parulian",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks1"],
+      "Subject": "alin",
+      "Type": "V",
+      "Professor": "firdaus",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks1"],
+      "Subject": "pengdemo",
+      "Type": "V",
+      "Professor": "titik harsanti",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks1"],
+      "Subject": "pai",
+      "Type": "V",
+      "Professor": "sayid qutub",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks1"],
+      "Subject": "pti",
+      "Type": "V",
+      "Professor": "ibnu santoso",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks2"],
+      "Subject": "bing i",
+      "Type": "V",
+      "Professor": "yudi anjangsana",
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Groups": ["1ks2"],
+      "Subject": "metstat i",
+      "Type": "V",
+      "Professor": "robert kurniawan",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks2"],
+      "Subject": "kalkulus",
+      "Type": "V",
+      "Professor": "bony parulian",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks2"],
+      "Subject": "alin",
+      "Type": "V",
+      "Professor": "firdaus",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks2"],
+      "Subject": "pengdemo",
+      "Type": "V",
+      "Professor": "titik harsanti",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks2"],
+      "Subject": "pai",
+      "Type": "V",
+      "Professor": "sayid qutub",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks2"],
+      "Subject": "pti",
+      "Type": "V",
+      "Professor": "sekar rizky",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks3"],
+      "Subject": "bing i",
+      "Type": "V",
+      "Professor": "rinda riztya",
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Groups": ["1ks3"],
+      "Subject": "metstat i",
+      "Type": "V",
+      "Professor": "winih budiarti",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks3"],
+      "Subject": "kalkulus",
+      "Type": "V",
+      "Professor": "christiana",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks3"],
+      "Subject": "alin",
+      "Type": "V",
+      "Professor": "lia yuliana",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks3"],
+      "Subject": "pengdemo",
+      "Type": "V",
+      "Professor": "jeffry",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks3"],
+      "Subject": "pai",
+      "Type": "V",
+      "Professor": "ridwan yahya",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks3"],
+      "Subject": "pti",
+      "Type": "V",
+      "Professor": "dwy bagus",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks4"],
+      "Subject": "bing i",
+      "Type": "V",
+      "Professor": "rinda riztya",
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Groups": ["1ks4"],
+      "Subject": "metstat i",
+      "Type": "V",
+      "Professor": "winih budiarti",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks4"],
+      "Subject": "kalkulus",
+      "Type": "V",
+      "Professor": "neli agustina",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks4"],
+      "Subject": "alin",
+      "Type": "V",
+      "Professor": "lia yuliana",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks4"],
+      "Subject": "pengdemo",
+      "Type": "V",
+      "Professor": "febri wicaksono",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks4"],
+      "Subject": "pai",
+      "Type": "V",
+      "Professor": "sarbini anim",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1ks4"],
+      "Subject": "pti",
+      "Type": "V",
+      "Professor": "sri herwanto",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st1"],
+      "Subject": "pengdemo",
+      "Type": "V",
+      "Professor": "sarni maniar",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st1"],
+      "Subject": "kalkulus",
+      "Type": "V",
+      "Professor": "neli agustina",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st1"],
+      "Subject": "bing i",
+      "Type": "V",
+      "Professor": "ambarari",
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Groups": ["1st1"],
+      "Subject": "alin",
+      "Type": "V",
+      "Professor": "liza kurnia",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st1"],
+      "Subject": "metstat i",
+      "Type": "V",
+      "Professor": "nofita istiana",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st1"],
+      "Subject": "pti",
+      "Type": "V",
+      "Professor": "ibnu santoso",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st1"],
+      "Subject": "pai",
+      "Type": "V",
+      "Professor": "muh syukur",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st2"],
+      "Subject": "pengdemo",
+      "Type": "V",
+      "Professor": "jeffry",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st2"],
+      "Subject": "kalkulus",
+      "Type": "V",
+      "Professor": "aisyah fitri yuniasih",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st2"],
+      "Subject": "bing i",
+      "Type": "V",
+      "Professor": "rinda riztya",
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Groups": ["1st2"],
+      "Subject": "alin",
+      "Type": "V",
+      "Professor": "liza kurnia",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st2"],
+      "Subject": "metstat i",
+      "Type": "V",
+      "Professor": "siti muchlisoh",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st2"],
+      "Subject": "pti",
+      "Type": "V",
+      "Professor": "waris marsisno",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st2"],
+      "Subject": "pai",
+      "Type": "V",
+      "Professor": "rizka maulan",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st3"],
+      "Subject": "pengdemo",
+      "Type": "V",
+      "Professor": "jeffry",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st3"],
+      "Subject": "kalkulus",
+      "Type": "V",
+      "Professor": "Retnaningsih",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st3"],
+      "Subject": "bing i",
+      "Type": "V",
+      "Professor": "komara suhendar",
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Groups": ["1st3"],
+      "Subject": "alin",
+      "Type": "V",
+      "Professor": "lia yuliana",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st3"],
+      "Subject": "metstat i",
+      "Type": "V",
+      "Professor": "nofita istiana",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st3"],
+      "Subject": "pti",
+      "Type": "V",
+      "Professor": "erna nurmawati",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st3"],
+      "Subject": "pai",
+      "Type": "V",
+      "Professor": "abu tholhah",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st4"],
+      "Subject": "pengdemo",
+      "Type": "V",
+      "Professor": "febri wicaksono",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st4"],
+      "Subject": "kalkulus",
+      "Type": "V",
+      "Professor": "nofita istiana",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st4"],
+      "Subject": "bing i",
+      "Type": "V",
+      "Professor": "anna dwi k",
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Groups": ["1st4"],
+      "Subject": "alin",
+      "Type": "V",
+      "Professor": "winih budiarti",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st4"],
+      "Subject": "metstat i",
+      "Type": "V",
+      "Professor": "liza kurnia",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st4"],
+      "Subject": "pti",
+      "Type": "V",
+      "Professor": "khairiyah rizkiyah",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st4"],
+      "Subject": "pai",
+      "Type": "V",
+      "Professor": "ridwan yahya",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st5"],
+      "Subject": "pengdemo",
+      "Type": "V",
+      "Professor": "jeffry",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st5"],
+      "Subject": "kalkulus",
+      "Type": "V",
+      "Professor": "lia yuliana",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st5"],
+      "Subject": "bing i",
+      "Type": "V",
+      "Professor": "yudi anjangsana",
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Groups": ["1st5"],
+      "Subject": "alin",
+      "Type": "V",
+      "Professor": "agus purwoto",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st5"],
+      "Subject": "metstat i",
+      "Type": "V",
+      "Professor": "liza kurnia",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st5"],
+      "Subject": "pti",
+      "Type": "V",
+      "Professor": "nano yulian",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st5"],
+      "Subject": "pai",
+      "Type": "V",
+      "Professor": "sarbini anim",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st6"],
+      "Subject": "pengdemo",
+      "Type": "V",
+      "Professor": "febri wicaksono",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st6"],
+      "Subject": "kalkulus",
+      "Type": "V",
+      "Professor": "nofita istiana",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st6"],
+      "Subject": "bing i",
+      "Type": "V",
+      "Professor": "komara suhendar",
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Groups": ["1st6"],
+      "Subject": "alin",
+      "Type": "V",
+      "Professor": "agus purwoto",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st6"],
+      "Subject": "metstat i",
+      "Type": "V",
+      "Professor": "siti muchlisoh",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st6"],
+      "Subject": "pti",
+      "Type": "V",
+      "Professor": "erna nurmawati",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st6"],
+      "Subject": "pai",
+      "Type": "V",
+      "Professor": "muh syukur",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st7"],
+      "Subject": "pengdemo",
+      "Type": "V",
+      "Professor": "titik harsanti",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st7"],
+      "Subject": "kalkulus",
+      "Type": "V",
+      "Professor": "aisyah fitri yuniasih",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st7"],
+      "Subject": "bing i",
+      "Type": "V",
+      "Professor": "anna dwi k",
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Groups": ["1st7"],
+      "Subject": "alin",
+      "Type": "V",
+      "Professor": "agus purwoto",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st7"],
+      "Subject": "metstat i",
+      "Type": "V",
+      "Professor": "rini silvi",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st7"],
+      "Subject": "pti",
+      "Type": "V",
+      "Professor": "moh ari n",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["1st7"],
+      "Subject": "pai",
+      "Type": "V",
+      "Professor": "abu tholhah",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d31"],
+      "Subject": "pengantar sig",
+      "Type": "V",
+      "Professor": "ernawati pasaribu",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d31"],
+      "Subject": "b ind",
+      "Type": "V",
+      "Professor": "marlina",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d31"],
+      "Subject": "metstat ii",
+      "Type": "V",
+      "Professor": "efri diah",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d31"],
+      "Subject": "basdat",
+      "Type": "V",
+      "Professor": "erna nurmawati",
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Groups": ["2d31"],
+      "Subject": "tekkom",
+      "Type": "V",
+      "Professor": "avi r",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d31"],
+      "Subject": "offstat",
+      "Type": "V",
+      "Professor": "wahyudin",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d31"],
+      "Subject": "statmat ii",
+      "Type": "V",
+      "Professor": "wahyuni andriana",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d31"],
+      "Subject": "metode pengumpulan data",
+      "Type": "V",
+      "Professor": "achmad prasetyo",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d32"],
+      "Subject": "pengantar sig",
+      "Type": "V",
+      "Professor": "ernawati pasaribu",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d32"],
+      "Subject": "b ind",
+      "Type": "V",
+      "Professor": "reni oktaviani",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d32"],
+      "Subject": "metstat ii",
+      "Type": "V",
+      "Professor": "rini rahani",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d32"],
+      "Subject": "basdat",
+      "Type": "V",
+      "Professor": "erna nurmawati",
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Groups": ["2d32"],
+      "Subject": "tekkom",
+      "Type": "V",
+      "Professor": "aghnia kartika",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d32"],
+      "Subject": "offstat",
+      "Type": "V",
+      "Professor": "wahyuni andriana",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d32"],
+      "Subject": "statmat ii",
+      "Type": "V",
+      "Professor": "statmat ii",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d32"],
+      "Subject": "metode pengumpulan data",
+      "Type": "V",
+      "Professor": "sukim",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d33"],
+      "Subject": "pengantar sig",
+      "Type": "V",
+      "Professor": "ernawati pasaribu",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d33"],
+      "Subject": "b ind",
+      "Type": "V",
+      "Professor": "marlina",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d33"],
+      "Subject": "metstat ii",
+      "Type": "V",
+      "Professor": "rini rahani",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d33"],
+      "Subject": "basdat",
+      "Type": "V",
+      "Professor": "erna nurmawati",
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Groups": ["2d33"],
+      "Subject": "tekkom",
+      "Type": "V",
+      "Professor": "agus pramono",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d33"],
+      "Subject": "offstat",
+      "Type": "V",
+      "Professor": "wahyudin",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d33"],
+      "Subject": "statmat ii",
+      "Type": "V",
+      "Professor": "efri diah",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2d33"],
+      "Subject": "metode pengumpulan data",
+      "Type": "V",
+      "Professor": "sukim",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks1"],
+      "Subject": "mps",
+      "Type": "V",
+      "Professor": "budyanra",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks1"],
+      "Subject": "statmat ii",
+      "Type": "V",
+      "Professor": "bony parulian",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks1"],
+      "Subject": "ppkn",
+      "Type": "V",
+      "Professor": "martini",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks1"],
+      "Subject": "sig",
+      "Type": "V",
+      "Professor": "ernawati pasaribu",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks1"],
+      "Subject": "metstat ii",
+      "Type": "V",
+      "Professor": "cucu sumarni",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks1"],
+      "Subject": "basdat",
+      "Type": "V",
+      "Professor": "lutfi rahmatuti",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks1"],
+      "Subject": "strukdat",
+      "Type": "V",
+      "Professor": "firdaus",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks2"],
+      "Subject": "mps",
+      "Type": "V",
+      "Professor": "budyanra",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks2"],
+      "Subject": "statmat ii",
+      "Type": "V",
+      "Professor": "bony parulian",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks2"],
+      "Subject": "ppkn",
+      "Type": "V",
+      "Professor": "martini",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks2"],
+      "Subject": "sig",
+      "Type": "V",
+      "Professor": "rindang bangun",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks2"],
+      "Subject": "metstat ii",
+      "Type": "V",
+      "Professor": "cucu sumarni",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks2"],
+      "Subject": "basdat",
+      "Type": "V",
+      "Professor": "lutfi rahmatuti",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks2"],
+      "Subject": "strukdat",
+      "Type": "V",
+      "Professor": "firdaus",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks3"],
+      "Subject": "mps",
+      "Type": "V",
+      "Professor": "achmad prasetyo",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks3"],
+      "Subject": "statmat ii",
+      "Type": "V",
+      "Professor": "moh dokhi",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks3"],
+      "Subject": "ppkn",
+      "Type": "V",
+      "Professor": "esti suntari",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks3"],
+      "Subject": "sig",
+      "Type": "V",
+      "Professor": "rindang bangun",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks3"],
+      "Subject": "metstat ii",
+      "Type": "V",
+      "Professor": "rani nooraeni",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks3"],
+      "Subject": "basdat",
+      "Type": "V",
+      "Professor": "ratih ngestrini",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks3"],
+      "Subject": "strukdat",
+      "Type": "V",
+      "Professor": "nori wilantika",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks4"],
+      "Subject": "mps",
+      "Type": "V",
+      "Professor": "sukim",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks4"],
+      "Subject": "statmat ii",
+      "Type": "V",
+      "Professor": "moh dokhi",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks4"],
+      "Subject": "ppkn",
+      "Type": "V",
+      "Professor": "esti suntari",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks4"],
+      "Subject": "sig",
+      "Type": "V",
+      "Professor": "rindang bangun",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks4"],
+      "Subject": "metstat ii",
+      "Type": "V",
+      "Professor": "rani nooraeni",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks4"],
+      "Subject": "basdat",
+      "Type": "V",
+      "Professor": "farid ridho",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2ks4"],
+      "Subject": "strukdat",
+      "Type": "V",
+      "Professor": "nori wilantika",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st1"],
+      "Subject": "metsat ii",
+      "Type": "V",
+      "Professor": "efri diah",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st1"],
+      "Subject": "snn",
+      "Type": "V",
+      "Professor": "anugerah karta",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st1"],
+      "Subject": "offstat",
+      "Type": "V",
+      "Professor": "fitri kartiasih",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st1"],
+      "Subject": "mps",
+      "Type": "V",
+      "Professor": "sukim",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st1"],
+      "Subject": "komstat",
+      "Type": "V",
+      "Professor": "robert kurniawan",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st1"],
+      "Subject": "ppkn",
+      "Type": "V",
+      "Professor": "rika kartika",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st1"],
+      "Subject": "statmat ii",
+      "Type": "V",
+      "Professor": "timbang sirait",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st2"],
+      "Subject": "metsat ii",
+      "Type": "V",
+      "Professor": "ekaria",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st2"],
+      "Subject": "snn",
+      "Type": "V",
+      "Professor": "krismanti tri",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st2"],
+      "Subject": "offstat",
+      "Type": "V",
+      "Professor": "fitri kartiasih",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st2"],
+      "Subject": "mps",
+      "Type": "V",
+      "Professor": "atik maratis",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st2"],
+      "Subject": "komstat",
+      "Type": "V",
+      "Professor": "achmad syahrul",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st2"],
+      "Subject": "ppkn",
+      "Type": "V",
+      "Professor": "suryanto aloysius",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st2"],
+      "Subject": "statmat ii",
+      "Type": "V",
+      "Professor": "moh dokhi",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st3"],
+      "Subject": "metsat ii",
+      "Type": "V",
+      "Professor": "timbang sirait",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st3"],
+      "Subject": "snn",
+      "Type": "V",
+      "Professor": "anugerah karta",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st3"],
+      "Subject": "offstat",
+      "Type": "V",
+      "Professor": "wahyudin",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st3"],
+      "Subject": "mps",
+      "Type": "V",
+      "Professor": "achmad prasetyo",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st3"],
+      "Subject": "komstat",
+      "Type": "V",
+      "Professor": "rindang bangun",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st3"],
+      "Subject": "ppkn",
+      "Type": "V",
+      "Professor": "murni parembai",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st3"],
+      "Subject": "statmat ii",
+      "Type": "V",
+      "Professor": "azka ubaidillah",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st4"],
+      "Subject": "metsat ii",
+      "Type": "V",
+      "Professor": "ekaria",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st4"],
+      "Subject": "snn",
+      "Type": "V",
+      "Professor": "krismanti tri",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st4"],
+      "Subject": "offstat",
+      "Type": "V",
+      "Professor": "wahyudin",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st4"],
+      "Subject": "mps",
+      "Type": "V",
+      "Professor": "I made arcana",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st4"],
+      "Subject": "komstat",
+      "Type": "V",
+      "Professor": "arie wahyu w",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st4"],
+      "Subject": "ppkn",
+      "Type": "V",
+      "Professor": "suryanto aloysius",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st4"],
+      "Subject": "statmat ii",
+      "Type": "V",
+      "Professor": "timbang sirait",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st5"],
+      "Subject": "metsat ii",
+      "Type": "V",
+      "Professor": "novi hidayat",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st5"],
+      "Subject": "snn",
+      "Type": "V",
+      "Professor": "krismanti tri",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st5"],
+      "Subject": "offstat",
+      "Type": "V",
+      "Professor": "yuliagnis",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st5"],
+      "Subject": "mps",
+      "Type": "V",
+      "Professor": "atik maratis",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st5"],
+      "Subject": "komstat",
+      "Type": "V",
+      "Professor": "budi yuniarto",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st5"],
+      "Subject": "ppkn",
+      "Type": "V",
+      "Professor": "murni parembai",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st5"],
+      "Subject": "statmat ii",
+      "Type": "V",
+      "Professor": "erni tri astuti",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st6"],
+      "Subject": "metsat ii",
+      "Type": "V",
+      "Professor": "novi hidayat",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st6"],
+      "Subject": "snn",
+      "Type": "V",
+      "Professor": "krismanti tri",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st6"],
+      "Subject": "offstat",
+      "Type": "V",
+      "Professor": "sugiarto",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st6"],
+      "Subject": "mps",
+      "Type": "V",
+      "Professor": "achmad prasetyo",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st6"],
+      "Subject": "komstat",
+      "Type": "V",
+      "Professor": "robert kurniawan",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st6"],
+      "Subject": "ppkn",
+      "Type": "V",
+      "Professor": "suryanto aloysius",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st6"],
+      "Subject": "statmat ii",
+      "Type": "V",
+      "Professor": "moh dokhi",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st7"],
+      "Subject": "metsat ii",
+      "Type": "V",
+      "Professor": "timbang sirait",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st7"],
+      "Subject": "snn",
+      "Type": "V",
+      "Professor": "krismanti tri",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st7"],
+      "Subject": "offstat",
+      "Type": "V",
+      "Professor": "wahyuni andriana",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st7"],
+      "Subject": "mps",
+      "Type": "V",
+      "Professor": "I made arcana",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st7"],
+      "Subject": "komstat",
+      "Type": "V",
+      "Professor": "achmad syahrul",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st7"],
+      "Subject": "ppkn",
+      "Type": "V",
+      "Professor": "rika kartika",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["2st7"],
+      "Subject": "statmat ii",
+      "Type": "V",
+      "Professor": "azka ubaidillah",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3d31"],
+      "Subject": "apg",
+      "Type": "V",
+      "Professor": "budi yuniarto",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3d31"],
+      "Subject": "metode peramalan",
+      "Type": "V",
+      "Professor": "neli agustina",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3d31"],
+      "Subject": "analisis data",
+      "Type": "V",
+      "Professor": "agung priyo utomo",
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Groups": ["3d31"],
+      "Subject": "msdm",
+      "Type": "V",
+      "Professor": "yaya setiadi",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3d32"],
+      "Subject": "apg",
+      "Type": "V",
+      "Professor": "sarni maniar",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3d32"],
+      "Subject": "metode peramalan",
+      "Type": "V",
+      "Professor": "neli agustina",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3d32"],
+      "Subject": "analisis data",
+      "Type": "V",
+      "Professor": "nasrudin",
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Groups": ["3d32"],
+      "Subject": "msdm",
+      "Type": "V",
+      "Professor": "sugiarto",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3d33"],
+      "Subject": "apg",
+      "Type": "V",
+      "Professor": "cucu sumarni",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3d33"],
+      "Subject": "metode peramalan",
+      "Type": "V",
+      "Professor": "neli agustina",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3d33"],
+      "Subject": "analisis data",
+      "Type": "V",
+      "Professor": "agung priyo utomo",
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Groups": ["3d33"],
+      "Subject": "msdm",
+      "Type": "V",
+      "Professor": "yaya setiadi",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3d34"],
+      "Subject": "apg",
+      "Type": "V",
+      "Professor": "sarni maniar",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3d34"],
+      "Subject": "metode peramalan",
+      "Type": "V",
+      "Professor": "Retnaningsih",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3d34"],
+      "Subject": "analisis data",
+      "Type": "V",
+      "Professor": "nasrudin",
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Groups": ["3d34"],
+      "Subject": "msdm",
+      "Type": "V",
+      "Professor": "sugiarto",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3d35"],
+      "Subject": "apg",
+      "Type": "V",
+      "Professor": "cucu sumarni",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3d35"],
+      "Subject": "metode peramalan",
+      "Type": "V",
+      "Professor": "Retnaningsih",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3d35"],
+      "Subject": "analisis data",
+      "Type": "V",
+      "Professor": "agung priyo utomo",
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Groups": ["3d35"],
+      "Subject": "msdm",
+      "Type": "V",
+      "Professor": "yaya setiadi",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3sd1"],
+      "Subject": "information retrieval",
+      "Type": "V",
+      "Professor": "lya hulliyyatus",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3sd1"],
+      "Subject": "analisis runtun waktu",
+      "Type": "V",
+      "Professor": "fitri kartiasih",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3sd1"],
+      "Subject": "offstat",
+      "Type": "V",
+      "Professor": "waris marsisno",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3sd1"],
+      "Subject": "metpen",
+      "Type": "V",
+      "Professor": "setia pramana",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3sd1"],
+      "Subject": "apg",
+      "Type": "V",
+      "Professor": "budi yuniarto",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3sd1"],
+      "Subject": "rpl",
+      "Type": "V",
+      "Professor": "lya, nori, lutfi",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3sd2"],
+      "Subject": "information retrieval",
+      "Type": "V",
+      "Professor": "lya hulliyyatus",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3sd2"],
+      "Subject": "analisis runtun waktu",
+      "Type": "V",
+      "Professor": "fitri kartiasih",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3sd2"],
+      "Subject": "offstat",
+      "Type": "V",
+      "Professor": "yuliagnis",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3sd2"],
+      "Subject": "metpen",
+      "Type": "V",
+      "Professor": "arie wahyu w",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3sd2"],
+      "Subject": "apg",
+      "Type": "V",
+      "Professor": "rani nooraeni",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3sd2"],
+      "Subject": "rpl",
+      "Type": "V",
+      "Professor": "lya, nori, lutfi",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3sd3"],
+      "Subject": "information retrieval",
+      "Type": "V",
+      "Professor": "lya hulliyyatus",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3sd3"],
+      "Subject": "analisis runtun waktu",
+      "Type": "V",
+      "Professor": "anugerah karta",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3sd3"],
+      "Subject": "offstat",
+      "Type": "V",
+      "Professor": "yuliagnis",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3sd3"],
+      "Subject": "metpen",
+      "Type": "V",
+      "Professor": "arie wahyu w",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3sd3"],
+      "Subject": "apg",
+      "Type": "V",
+      "Professor": "achmad syahrul",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3sd3"],
+      "Subject": "rpl",
+      "Type": "V",
+      "Professor": "lya, nori, lutfi",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3se1"],
+      "Subject": "metpen",
+      "Type": "V",
+      "Professor": "nucke",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3se1"],
+      "Subject": "apg",
+      "Type": "V",
+      "Professor": "ekaria",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3se1"],
+      "Subject": "analisis runtun waktu",
+      "Type": "V",
+      "Professor": "budiasih",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3se1"],
+      "Subject": "metsur",
+      "Type": "V",
+      "Professor": "atik maratis",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3se1"],
+      "Subject": "analisis data kategorik",
+      "Type": "V",
+      "Professor": "agung priyo utomo",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3se1"],
+      "Subject": "ekonomi mikro",
+      "Type": "V",
+      "Professor": "rita yuliana",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3se2"],
+      "Subject": "metpen",
+      "Type": "V",
+      "Professor": "hardius usman",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3se2"],
+      "Subject": "apg",
+      "Type": "V",
+      "Professor": "novi hidayat",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3se2"],
+      "Subject": "analisis runtun waktu",
+      "Type": "V",
+      "Professor": "budiasih",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3se2"],
+      "Subject": "metsur",
+      "Type": "V",
+      "Professor": "budyanra",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3se2"],
+      "Subject": "analisis data kategorik",
+      "Type": "V",
+      "Professor": "siskarossa",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3se2"],
+      "Subject": "ekonomi mikro",
+      "Type": "V",
+      "Professor": "rita yuliana",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3se3"],
+      "Subject": "metpen",
+      "Type": "V",
+      "Professor": "siskarossa",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3se3"],
+      "Subject": "apg",
+      "Type": "V",
+      "Professor": "azka ubaidillah",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3se3"],
+      "Subject": "analisis runtun waktu",
+      "Type": "V",
+      "Professor": "nasrudin",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3se3"],
+      "Subject": "metsur",
+      "Type": "V",
+      "Professor": "I made arcana",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3se3"],
+      "Subject": "analisis data kategorik",
+      "Type": "V",
+      "Professor": "rini rahani",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3se3"],
+      "Subject": "ekonomi mikro",
+      "Type": "V",
+      "Professor": "budiasih",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3si1"],
+      "Subject": "rpl",
+      "Type": "V",
+      "Professor": "yeni, lya, nori, lutfi",
+      "Classroom": "n",
+      "Duration": "3"
+    },
+    {
+      "Groups": ["3si1"],
+      "Subject": "ppk",
+      "Type": "V",
+      "Professor": "ibnu santoso",
+      "Classroom": "n",
+      "Duration": "3"
+    }
+  ]
 }
