@@ -4,6 +4,7 @@ import random
 
 def load_data(path):
     professors = {}
+    prefRoomProf = {}
 
     with open(path, 'r') as read_file:
         data = json.load(read_file)
@@ -11,10 +12,13 @@ def load_data(path):
     # mengambil preferensi waktu dosen
     for professor in data['Dosen']:
         professors[professor['Name']] = professor['PrefTime']
+        prefRoomProf[professor['Name']] = []
+        for gedung in professor['PrefRoom']:
+            prefRoomProf[professor['Name']] += data['Ruang Kelas'][gedung]
 
     for university_class in data['Perkuliahan']:
-        classroom = university_class['Classroom']
-        university_class['Classroom'] = data['Ruang Kelas'][classroom]
+        # classroom = university_class['Classroom']
+        university_class['Classroom'] = prefRoomProf[university_class['Professor']]
 
     data = data['Perkuliahan']
 

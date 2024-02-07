@@ -5,8 +5,8 @@ from copy import deepcopy
 
 max_generations = 5000
 num_runs = 1
-input_file = 'classes/stis_komplit.json'
-output_file = 'classes/output_stis_komplit.json'
+input_file = 'classes/stis.json'
+output_file = 'classes/output_stis.json'
 cost_function = cost_functions.cost
 cost_function2 = cost_functions.cost2
 

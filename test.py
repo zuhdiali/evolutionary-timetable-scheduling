@@ -9,9 +9,19 @@ with open(input_file, 'r') as read_file:
     data = json.load(read_file)
 
 dummy = data['Ruang Kelas']['25']
-
-print(dummy)
+# print(dummy)
 
 dummy = dummy + data['Ruang Kelas']['26']
+# print(dummy)
 
-print(dummy)
+professors = {}
+prefRoomProf = {}
+
+
+# mengambil preferensi waktu dosen
+for professor in data['Dosen']:
+    professors[professor['Name']] = professor['PrefTime']
+    prefRoomProf[professor['Name']] = []
+    for gedung in professor['PrefRoom']:
+        prefRoomProf[professor['Name']] += data['Ruang Kelas'][gedung]
+print(prefRoomProf)
