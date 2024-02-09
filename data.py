@@ -20,12 +20,13 @@ def load_data(path):
         # classroom = university_class['Classroom']
         university_class['Classroom'] = prefRoomProf[university_class['Professor']]
 
+    constraints = data['Constraints']
     data = data['Perkuliahan']
 
-    return (data, professors)
+    return (data, professors, constraints)
 
 
-def generate_chromosome(data, professors):
+def generate_chromosome(data, professors, constraints):
     classrooms = {}
     groups = {}
     subjects = {}
@@ -43,6 +44,27 @@ def generate_chromosome(data, professors):
         for group in single_class['Groups']:
             groups[group] = [0] * 45
         subjects[single_class['Subject']] = {'P': [], 'V': [], 'L': []}
+
+    for constraint in constraints:
+        match constraint['Key']:
+            case 'Professor':
+                if constraint['is All'] == 1:
+                    for professor in professors:
+                        for i in constraint['Session']:
+                            professors[professor][i] = 1
+                else:
+                    for professor in constraint['Data']:
+                        for i in constraint['Session']:
+                            professors[professor][i] = 1
+            case 'Group':
+                if constraint['is All'] == 1:
+                    for group in groups:
+                        for i in constraint['Session']:
+                            groups[group][i] = 1
+                else:
+                    for group in constraint['Data']:
+                        for i in constraint['Session']:
+                            groups[group][i] = 1
 
     for single_class in data:
         new_single_class = single_class.copy()

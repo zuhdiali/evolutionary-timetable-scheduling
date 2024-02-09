@@ -5,8 +5,8 @@ from copy import deepcopy
 
 max_generations = 5000
 num_runs = 1
-input_file = 'classes/stis.json'
-output_file = 'classes/output_stis.json'
+input_file = 'classes/stis_komplit.json'
+output_file = 'classes/output_stis_komplit.json'
 cost_function = cost_functions.cost
 cost_function2 = cost_functions.cost2
 
@@ -16,7 +16,8 @@ def evolutionary_algorithm():
     chromosome = dt.load_data(input_file)
     neighbour = mutation.neighbour
     for i in range(num_runs):
-        chromosome = dt.generate_chromosome(chromosome[0], chromosome[1])
+        chromosome = dt.generate_chromosome(
+            chromosome[0], chromosome[1], chromosome[2])
 
         for j in range(max_generations):
             new_chromosome = neighbour(deepcopy(chromosome))
