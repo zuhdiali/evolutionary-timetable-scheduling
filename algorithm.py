@@ -17,7 +17,7 @@ def evolutionary_algorithm():
     neighbour = mutation.neighbour
     for i in range(num_runs):
         chromosome = dt.generate_chromosome(
-            chromosome[0], chromosome[1], chromosome[2])
+            chromosome[0], chromosome[1], chromosome[2], chromosome[3])
 
         for j in range(max_generations):
             new_chromosome = neighbour(deepcopy(chromosome))
@@ -30,8 +30,8 @@ def evolutionary_algorithm():
             if j % 200 == 0:
                 print('Iteration', j, 'cost', cost_function(chromosome))
 
-        print('Run', i + 1, 'cost', cost_function(chromosome),
-              'chromosome', chromosome)
+        # print('Run', i + 1, 'cost', cost_function(chromosome),
+        #       'chromosome', chromosome)
 
         if best_timetable is None or cost_function2(chromosome) <= cost_function2(best_timetable):
             best_timetable = deepcopy(chromosome)
@@ -51,7 +51,7 @@ def evolutionary_algorithm():
         if ft == 0:
             break
 
-    print('Run', 'cost', cost_function2(chromosome), 'chromosome', chromosome)
+    # print('Run', 'cost', cost_function2(chromosome), 'chromosome', chromosome)
 
     dt.write_data(chromosome[0], output_file)
 

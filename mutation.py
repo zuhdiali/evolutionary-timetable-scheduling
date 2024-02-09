@@ -70,23 +70,35 @@ def neighbour(chromosome):
     # Find a random time
     if not found:
         classroom = random.choice(chromosome[0][i]['Classroom'])
-        day = random.randrange(0, 5)
-        # Friday 8pm is reserved for free hour
-        # ini diganti juga, kalo durasi 3, mulai sesinya harus 1, 3, 4, 7
-        # kalo durasi 2, mulai sesinya harus 1, 3, 5, 7
-        # if day == 4:
-        #     period = random.randrange(
-        #         0, 9 - int(chromosome[0][i]['Duration']))
+
+        # # ------------------------------ INI KODINGAN SEBELUMNYA ------------------------------
+        # day = random.randrange(0, 5)
+        # # Friday 8pm is reserved for free hour
+        # # ini diganti juga, kalo durasi 3, mulai sesinya harus 1, 3, 4, 7
+        # # kalo durasi 2, mulai sesinya harus 1, 3, 5, 7
+        # # if day == 4:
+        # #     period = random.randrange(
+        # #         0, 9 - int(chromosome[0][i]['Duration']))
+        # # else:
+        # #     period = random.randrange(
+        # #         0, 13 - int(chromosome[0][i]['Duration']))
+        # if (int(chromosome[0][i]['Duration']) == 3):
+        #     period = random.choice(sesi_mulai_3_blok)
+        #     period = period - 1
         # else:
-        #     period = random.randrange(
-        #         0, 13 - int(chromosome[0][i]['Duration']))
-        if (int(chromosome[0][i]['Duration']) == 3):
-            period = random.choice(sesi_mulai_3_blok)
-            period = period - 1
+        #     period = random.choice(sesi_mulai_2_blok)
+        #     period = period - 1
+        # time = 9 * day + period
+        # # ------------------------------ INI KODINGAN SEBELUMNYA ------------------------------
+
+        # ------------------------------ INI KODINGAN BARU ------------------------------
+        if int(chromosome[0][i]['Duration']) == 3:
+            time = random.choice(
+                chromosome[5]['3 Blok'][chromosome[0][i]['Professor']])
         else:
-            period = random.choice(sesi_mulai_2_blok)
-            period = period - 1
-        time = 9 * day + period
+            time = random.choice(
+                chromosome[5]['2 Blok'][chromosome[0][i]['Professor']])
+        # ------------------------------ INI KODINGAN BARU ------------------------------
 
         chromosome[0][i]['Assigned_classroom'] = classroom
         chromosome[0][i]['Assigned_time'] = time
@@ -132,7 +144,7 @@ def neighbour2(chromosome):
         if first['Assigned_classroom'] in second['Classroom'] and second['Assigned_classroom'] in first['Classroom']\
                 and first['Assigned_time'] % 9 + int(second['Duration']) <= 9 \
                 and second['Assigned_time'] % 9 + int(first['Duration']) <= 9:
-            if first['Assigned_time'] + int(second['Duration']) != 60 and second['Assigned_time'] + int(first['Duration']) != 60\
+            if first['Assigned_time'] + int(second['Duration']) != 45 and second['Assigned_time'] + int(first['Duration']) != 45\
                     and first != second:
                 satisfied = True
         c += 1

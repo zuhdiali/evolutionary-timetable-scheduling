@@ -5,6 +5,12 @@ import random
 def load_data(path):
     professors = {}
     prefRoomProf = {}
+    profAvailable = {}
+    profAvailable2Blok = {}
+    profAvailable3Blok = {}
+
+    sesi_mulai_3_blok = [1, 3, 4, 7]
+    sesi_mulai_2_blok = [1, 3, 5, 7]
 
     with open(path, 'r') as read_file:
         data = json.load(read_file)
@@ -12,9 +18,22 @@ def load_data(path):
     # mengambil preferensi waktu dosen
     for professor in data['Dosen']:
         professors[professor['Name']] = professor['PrefTime']
+
+        profAvailable2Blok[professor['Name']] = []
+        for i in range(len(professor['PrefTime'])-1):
+            if professor['PrefTime'][i] == 0 and professor['PrefTime'][i+1] != 1 and (i % 9 + 1) in sesi_mulai_2_blok:
+                profAvailable2Blok[professor['Name']] += [i]
+
+        profAvailable3Blok[professor['Name']] = []
+        for i in range(len(professor['PrefTime'])-2):
+            if professor['PrefTime'][i] == 0 and professor['PrefTime'][i+1] != 1 and professor['PrefTime'][i+2] != 1 and (i % 9 + 1) in sesi_mulai_3_blok:
+                profAvailable3Blok[professor['Name']] += [i]
+
         prefRoomProf[professor['Name']] = []
         for gedung in professor['PrefRoom']:
             prefRoomProf[professor['Name']] += data['Ruang Kelas'][gedung]
+    profAvailable["2 Blok"] = profAvailable2Blok
+    profAvailable["3 Blok"] = profAvailable3Blok
 
     for university_class in data['Perkuliahan']:
         # classroom = university_class['Classroom']
@@ -23,10 +42,10 @@ def load_data(path):
     constraints = data['Constraints']
     data = data['Perkuliahan']
 
-    return (data, professors, constraints)
+    return (data, professors, constraints, profAvailable)
 
 
-def generate_chromosome(data, professors, constraints):
+def generate_chromosome(data, professors, constraints, profAvailable):
     classrooms = {}
     groups = {}
     subjects = {}
@@ -34,6 +53,7 @@ def generate_chromosome(data, professors, constraints):
     new_data = []
     sesi_mulai_3_blok = [1, 3, 4, 7]
     sesi_mulai_2_blok = [1, 3, 5, 7]
+
     for single_class in data:
         # preferensi waktu dosen sudah diambil dari file json
         # preferensi waktu dosen bisa dilihat di sini
@@ -70,19 +90,39 @@ def generate_chromosome(data, professors, constraints):
         new_single_class = single_class.copy()
 
         classroom = random.choice(single_class['Classroom'])
-        day = random.randrange(0, 5)
-        if (int(single_class['Duration']) == 3):
-            period = random.choice(sesi_mulai_3_blok)
-            period = period - 1
-        else:
-            period = random.choice(sesi_mulai_2_blok)
-            period = period - 1
-        # if day == 4:
-        #     period = random.randrange(0, 9 - int(single_class['Duration']))
-        # else:
-        #     period = random.randrange(0, 13 - int(single_class['Duration']))
         new_single_class['Assigned_classroom'] = classroom
-        time = 9 * day + period
+
+        # # ------------------------------ INI KODINGAN SEBELUMNYA ------------------------------
+        # day = random.randrange(0, 5)
+        # if (int(single_class['Duration']) == 3):
+        #     period = random.choice(sesi_mulai_3_blok)
+        #     period = period - 1
+        # else:
+        #     period = random.choice(sesi_mulai_2_blok)
+        #     period = period - 1
+        # # if day == 4:
+        # #     period = random.randrange(0, 9 - int(single_class['Duration']))
+        # # else:
+        # #     period = random.randrange(0, 13 - int(single_class['Duration']))
+        # time = 9 * day + period
+        # # ------------------------------ INI KODINGAN SEBELUMNYA ------------------------------
+
+        # ------------------------------ INI KODINGAN BARU ------------------------------
+        if int(single_class['Duration']) == 3:
+            time = random.choice(
+                profAvailable['3 Blok'][single_class['Professor']])
+            # while time + int(single_class['Duration']) > 45:
+            #     time = random.choice(profAvailable['3 Blok'][single_class['Professor']])
+        else:
+            time = random.choice(
+                profAvailable['2 Blok'][single_class['Professor']])
+        #     while time + int(single_class['Duration']) > 45:
+        #         time = random.choice(profAvailable['2 Blok'][single_class['Professor']])
+        # time = random.choice(profAvailable[single_class['Professor']])
+        # while time + int(single_class['Duration']) > 44:
+        #     time = random.choice(profAvailable[single_class['Professor']])
+        # ------------------------------ INI KODINGAN BARU ------------------------------
+
         new_single_class['Assigned_time'] = time
 
         for i in range(time, time + int(single_class['Duration'])):
@@ -95,7 +135,7 @@ def generate_chromosome(data, professors, constraints):
 
         new_data.append(new_single_class)
 
-    return (new_data, professors, classrooms, groups, subjects)
+    return (new_data, professors, classrooms, groups, subjects, profAvailable)
 
 
 def write_data(data, path):
@@ -104,6 +144,6 @@ def write_data(data, path):
         single_class['Classroom'] = single_class['Assigned_classroom']
         for i in range(int(single_class['Duration'])):
             single_class['Sesi {}'.format(i+1)] = str(single_class['Assigned_time'] %
-                                                      9 + i + 1) + " "
+                                                      9 + i + 1)
     with open(path, 'w') as write_file:
         json.dump(data, write_file, indent=4)
