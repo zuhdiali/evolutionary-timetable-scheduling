@@ -4,6 +4,7 @@ import pandas as pd
 
 
 def load_data(path):
+    rooms = {}
     professors = {}
     prefRoomProf = {}
     profAvailable = {}
@@ -15,6 +16,11 @@ def load_data(path):
 
     with open(path, 'r') as read_file:
         data = json.load(read_file)
+
+    for room in data['Ruang Kelas']:
+        rooms[room['gedung']] = []
+        for nomorRuang in room['ruangan']:
+            rooms[room['gedung']].append(nomorRuang)
 
     # mengambil preferensi waktu dosen
     for professor in data['Dosen']:
@@ -32,7 +38,7 @@ def load_data(path):
 
         prefRoomProf[professor['Name']] = []
         for gedung in professor['PrefRoom']:
-            prefRoomProf[professor['Name']] += data['Ruang Kelas'][gedung]
+            prefRoomProf[professor['Name']] += rooms[gedung]
     profAvailable["2 Blok"] = profAvailable2Blok
     profAvailable["3 Blok"] = profAvailable3Blok
 
