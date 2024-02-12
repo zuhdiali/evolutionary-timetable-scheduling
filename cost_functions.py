@@ -28,20 +28,20 @@ def cost(chromosome):
     for single_class in chromosome[4]:
         for lab in chromosome[4][single_class]['L']:
             for practice in chromosome[4][single_class]['V']:
-                for grupa in lab[1]:
+                for group in lab[1]:
                     # If lab is before practical
-                    if grupa in practice[1] and lab[0] < practice[0]:
+                    if group in practice[1] and lab[0] < practice[0]:
                         subjects_cost += 0.0025
             for lecture in chromosome[4][single_class]['P']:
-                for grupa in lab[1]:
+                for group in lab[1]:
                     # If lab is before lecture
-                    if grupa in lecture[1] and lab[0] < lecture[0]:
+                    if group in lecture[1] and lab[0] < lecture[0]:
                         subjects_cost += 0.0025
         for practice in chromosome[4][single_class]['V']:
             for lecture in chromosome[4][single_class]['P']:
-                for grupa in practice[1]:
+                for group in practice[1]:
                     # If practical is before lecture
-                    if grupa in lecture[1] and practice[0] < lecture[0]:
+                    if group in lecture[1] and practice[0] < lecture[0]:
                         subjects_cost += 0.0025
 
     return prof_cost + classrooms_cost + groups_cost + round(subjects_cost, 4)
@@ -87,7 +87,7 @@ def cost2(chromosome):
             current_load = 0
             for hour in range(9):
                 time = day * 9 + hour
-                if chromosome[1][prof][time] >= 1:
+                if chromosome[1][prof][time] >= 1 and chromosome[1][prof][time] != 99:
                     current_load += 1
                     if not found:
                         found = True

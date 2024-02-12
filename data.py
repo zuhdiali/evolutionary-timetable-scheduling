@@ -1,5 +1,6 @@
 import json
 import random
+import pandas as pd
 
 
 def load_data(path):
@@ -68,23 +69,23 @@ def generate_chromosome(data, professors, constraints, profAvailable):
     for constraint in constraints:
         match constraint['Key']:
             case 'Professor':
-                if constraint['is All'] == 1:
+                if constraint['is All'] == True:
                     for professor in professors:
                         for i in constraint['Session']:
-                            professors[professor][i] = 1
+                            professors[professor][i] = 99
                 else:
                     for professor in constraint['Data']:
                         for i in constraint['Session']:
-                            professors[professor][i] = 1
+                            professors[professor][i] = 99
             case 'Group':
-                if constraint['is All'] == 1:
+                if constraint['is All'] == True:
                     for group in groups:
                         for i in constraint['Session']:
-                            groups[group][i] = 1
+                            groups[group][i] = 99
                 else:
                     for group in constraint['Data']:
                         for i in constraint['Session']:
-                            groups[group][i] = 1
+                            groups[group][i] = 99
 
     for single_class in data:
         new_single_class = single_class.copy()
@@ -147,3 +148,15 @@ def write_data(data, path):
                                                       9 + i + 1)
     with open(path, 'w') as write_file:
         json.dump(data, write_file, indent=4)
+
+
+def write_csv(df, path):
+    if isinstance(df, list):
+        for single_class in df:
+            single_class['Groups'] = single_class['Groups'][0]
+        df = pd.DataFrame(df)
+    # new_data.to_csv('stis/output_dummy.csv', sep=',', index=False)
+    # if isinstance(df, list) and df['Groups']:
+    #     df['Groups'] = df['Groups'][0]
+    #     df = pd.DataFrame(df)
+    df.to_csv(path, sep=',', index=False)
