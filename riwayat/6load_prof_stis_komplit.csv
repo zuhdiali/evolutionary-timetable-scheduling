@@ -1,0 +1,11 @@
+professor,cost,load,keterangan
+arie wahyu w,1.0,0.0,pelanggaran constraint
+irdam ahmad,0.0,0.0,pelanggaran preferensi waktu
+lia yuliana,0.0,0.0,pelanggaran constraint
+liza kurnia,2.0,0.0,pelanggaran constraint
+lya hulliyyatus,0.0,0.0,pelanggaran constraint
+rita yuliana,2.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+rita yuliana,2.0,1.0,pelanggaran preferensi waktu
+rizka maulan,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+timbang sirait,0.0,0.0,pelanggaran constraint
+tiodora,0.0,0.0,pelanggaran preferensi waktu

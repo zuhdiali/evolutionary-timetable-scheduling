@@ -1,0 +1,329 @@
+groups,subject,type,professor,duration,Classroom,Assigned_classroom,Assigned_time,Day,Sesi 1,Sesi 2,Sesi 3
+1d31,pengeko,V,firdaus,3,345,345,24,2,7,8,9
+1d31,alin,V,lia yuliana,3,346,346,6,0,7,8,9
+1d31,kalkulus,V,Retnaningsih,3,322,322,21,2,4,5,6
+1d31,pai,V,muh syukur,3,325,325,27,3,1,2,3
+1d31,metstat i,V,siti muchlisoh,3,347,347,42,4,7,8,9
+1d31,pengdemo,V,sarni maniar,3,334,334,9,1,1,2,3
+1d32,pengeko,V,nucke,3,344,344,36,4,1,2,3
+1d32,alin,V,winih budiarti,3,252,252,6,0,7,8,9
+1d32,kalkulus,V,aisyah fitri yuniasih,3,344,344,30,3,4,5,6
+1d32,pai,V,rizka maulan,3,346,346,15,1,7,8,9
+1d32,metstat i,V,siti muchlisoh,3,335,335,24,2,7,8,9
+1d32,pengdemo,V,tri windiarto,3,261,261,27,3,1,2,3
+1d33,pengeko,V,ribut nurul,3,337,337,20,2,3,4,5
+1d33,alin,V,agus purwoto,3,262,262,30,3,4,5,6
+1d33,kalkulus,V,aisyah fitri yuniasih,3,255,255,38,4,3,4,5
+1d33,pai,V,rizka maulan,3,335,335,9,1,1,2,3
+1d33,metstat i,V,winih budiarti,3,265,265,42,4,7,8,9
+1d33,pengdemo,V,titik harsanti,3,267,267,33,3,7,8,9
+1ks1,bing i,V,ambarari,2,335,335,0,0,1,2,
+1ks1,metstat i,V,robert kurniawan,3,335,335,36,4,1,2,3
+1ks1,kalkulus,V,bony parulian,3,256,256,9,1,1,2,3
+1ks1,alin,V,firdaus,3,347,347,2,0,3,4,5
+1ks1,pengdemo,V,titik harsanti,3,256,256,24,2,7,8,9
+1ks1,pai,V,sayid qutub,3,253,253,27,3,1,2,3
+1ks1,pti,V,ibnu santoso,3,326,326,39,4,4,5,6
+1ks2,bing i,V,yudi anjangsana,2,257,257,9,1,1,2,
+1ks2,metstat i,V,robert kurniawan,3,343,343,27,3,1,2,3
+1ks2,kalkulus,V,bony parulian,3,323,323,18,2,1,2,3
+1ks2,alin,V,firdaus,3,348,348,38,4,3,4,5
+1ks2,pengdemo,V,titik harsanti,3,347,347,6,0,7,8,9
+1ks2,pai,V,sayid qutub,3,262,262,11,1,3,4,5
+1ks2,pti,V,sekar rizky,3,255,255,24,2,7,8,9
+1ks3,bing i,V,rinda riztya,2,331,331,9,1,1,2,
+1ks3,metstat i,V,winih budiarti,3,331,331,24,2,7,8,9
+1ks3,kalkulus,V,christiana,3,265,265,30,3,4,5,6
+1ks3,alin,V,lia yuliana,3,348,348,11,1,3,4,5
+1ks3,pengdemo,V,jeffry,3,343,343,36,4,1,2,3
+1ks3,pai,V,ridwan yahya,3,257,257,2,0,3,4,5
+1ks3,pti,V,dwy bagus,3,324,324,27,3,1,2,3
+1ks4,bing i,V,rinda riztya,2,332,332,18,2,1,2,
+1ks4,metstat i,V,winih budiarti,3,263,263,2,0,3,4,5
+1ks4,kalkulus,V,neli agustina,3,341,341,36,4,1,2,3
+1ks4,alin,V,lia yuliana,3,324,324,33,3,7,8,9
+1ks4,pengdemo,V,febri wicaksono,3,343,343,12,1,4,5,6
+1ks4,pai,V,sarbini anim,3,341,341,20,2,3,4,5
+1ks4,pti,V,sri herwanto,3,322,322,9,1,1,2,3
+1st1,pengdemo,V,sarni maniar,3,254,254,33,3,7,8,9
+1st1,kalkulus,V,neli agustina,3,333,333,3,0,4,5,6
+1st1,bing i,V,ambarari,2,327,327,18,2,1,2,
+1st1,alin,V,liza kurnia,3,253,253,20,2,3,4,5
+1st1,metstat i,V,nofita istiana,3,342,342,29,3,3,4,5
+1st1,pti,V,ibnu santoso,3,261,261,36,4,1,2,3
+1st1,pai,V,muh syukur,3,326,326,0,0,1,2,3
+1st2,pengdemo,V,jeffry,3,338,338,24,2,7,8,9
+1st2,kalkulus,V,aisyah fitri yuniasih,3,261,261,42,4,7,8,9
+1st2,bing i,V,rinda riztya,2,338,338,20,2,3,4,
+1st2,alin,V,liza kurnia,3,343,343,33,3,7,8,9
+1st2,metstat i,V,siti muchlisoh,3,327,327,6,0,7,8,9
+1st2,pti,V,waris marsisno,3,335,335,3,0,4,5,6
+1st2,pai,V,rizka maulan,3,341,341,12,1,4,5,6
+1st3,pengdemo,V,jeffry,3,263,263,6,0,7,8,9
+1st3,kalkulus,V,Retnaningsih,3,345,345,33,3,7,8,9
+1st3,bing i,V,komara suhendar,2,328,328,4,0,5,6,
+1st3,alin,V,lia yuliana,3,325,325,42,4,7,8,9
+1st3,metstat i,V,nofita istiana,3,345,345,21,2,4,5,6
+1st3,pti,V,erna nurmawati,3,325,325,30,3,4,5,6
+1st3,pai,V,abu tholhah,3,321,321,9,1,1,2,3
+1st4,pengdemo,V,febri wicaksono,3,337,337,6,0,7,8,9
+1st4,kalkulus,V,nofita istiana,3,263,263,33,3,7,8,9
+1st4,bing i,V,anna dwi k,2,256,256,18,2,1,2,
+1st4,alin,V,winih budiarti,3,344,344,9,1,1,2,3
+1st4,metstat i,V,liza kurnia,3,346,346,42,4,7,8,9
+1st4,pti,V,khairiyah rizkiyah,3,262,262,0,0,1,2,3
+1st4,pai,V,ridwan yahya,3,256,256,20,2,3,4,5
+1st5,pengdemo,V,jeffry,3,253,253,33,3,7,8,9
+1st5,kalkulus,V,lia yuliana,3,251,251,24,2,7,8,9
+1st5,bing i,V,yudi anjangsana,2,326,326,11,1,3,4,
+1st5,alin,V,agus purwoto,3,255,255,21,2,4,5,6
+1st5,metstat i,V,liza kurnia,3,328,328,6,0,7,8,9
+1st5,pti,V,nano yulian,3,322,322,42,4,7,8,9
+1st5,pai,V,sarbini anim,3,345,345,2,0,3,4,5
+1st6,pengdemo,V,febri wicaksono,3,346,346,21,2,4,5,6
+1st6,kalkulus,V,nofita istiana,3,326,326,18,2,1,2,3
+1st6,bing i,V,komara suhendar,2,348,348,2,0,3,4,
+1st6,alin,V,agus purwoto,3,255,255,27,3,1,2,3
+1st6,metstat i,V,siti muchlisoh,3,331,331,30,3,4,5,6
+1st6,pti,V,erna nurmawati,3,261,261,9,1,1,2,3
+1st6,pai,V,muh syukur,3,334,334,38,4,3,4,5
+1st7,pengdemo,V,titik harsanti,3,323,323,36,4,1,2,3
+1st7,kalkulus,V,aisyah fitri yuniasih,3,334,334,2,0,3,4,5
+1st7,bing i,V,anna dwi k,2,254,254,0,0,1,2,
+1st7,alin,V,agus purwoto,3,255,255,12,1,4,5,6
+1st7,metstat i,V,rini silvi,3,342,342,18,2,1,2,3
+1st7,pti,V,moh ari n,3,263,263,9,1,1,2,3
+1st7,pai,V,abu tholhah,3,323,323,27,3,1,2,3
+2d31,pengantar sig,V,ernawati pasaribu,3,263,263,42,4,7,8,9
+2d31,b ind,V,marlina,3,327,327,9,1,1,2,3
+2d31,metstat ii,V,efri diah,3,324,324,6,0,7,8,9
+2d31,basdat,V,erna nurmawati,2,342,342,13,1,5,6,
+2d31,tekkom,V,avi r,3,267,267,24,2,7,8,9
+2d31,offstat,V,wahyudin,3,323,323,3,0,4,5,6
+2d31,statmat ii,V,wahyuni andriana,3,343,343,21,2,4,5,6
+2d31,metode pengumpulan data,V,achmad prasetyo,3,341,341,27,3,1,2,3
+2d32,pengantar sig,V,ernawati pasaribu,3,253,253,12,1,4,5,6
+2d32,b ind,V,reni oktaviani,3,325,325,9,1,1,2,3
+2d32,metstat ii,V,rini rahani,3,337,337,36,4,1,2,3
+2d32,basdat,V,erna nurmawati,2,335,335,27,3,1,2,
+2d32,tekkom,V,aghnia kartika,3,332,332,33,3,7,8,9
+2d32,offstat,V,wahyuni andriana,3,333,333,29,3,3,4,5
+2d32,statmat ii,V,efri diah,3,327,327,24,2,7,8,9
+2d32,metode pengumpulan data,V,sukim,3,262,262,6,0,7,8,9
+2d33,pengantar sig,V,ernawati pasaribu,3,262,262,39,4,4,5,6
+2d33,b ind,V,marlina,3,321,321,12,1,4,5,6
+2d33,metstat ii,V,rini rahani,3,262,262,3,0,4,5,6
+2d33,basdat,V,erna nurmawati,2,333,333,18,2,1,2,
+2d33,tekkom,V,agus pramono,3,323,323,33,3,7,8,9
+2d33,offstat,V,wahyudin,3,348,348,6,0,7,8,9
+2d33,statmat ii,V,efri diah,3,262,262,36,4,1,2,3
+2d33,metode pengumpulan data,V,sukim,3,267,267,15,1,7,8,9
+2ks1,mps,V,budyanra,3,266,266,39,4,4,5,6
+2ks1,statmat ii,V,bony parulian,3,255,255,2,0,3,4,5
+2ks1,ppkn,V,martini,3,267,267,21,2,4,5,6
+2ks1,sig,V,ernawati pasaribu,3,252,252,15,1,7,8,9
+2ks1,metstat ii,V,cucu sumarni,3,348,348,33,3,7,8,9
+2ks1,basdat,V,lutfi rahmatuti,3,342,342,24,2,7,8,9
+2ks1,strukdat,V,firdaus,3,338,338,42,4,7,8,9
+2ks2,mps,V,budyanra,3,255,255,9,1,1,2,3
+2ks2,statmat ii,V,bony parulian,3,254,254,12,1,4,5,6
+2ks2,ppkn,V,martini,3,263,263,18,2,1,2,3
+2ks2,sig,V,rindang bangun,3,334,334,33,3,7,8,9
+2ks2,metstat ii,V,cucu sumarni,3,265,265,3,0,4,5,6
+2ks2,basdat,V,lutfi rahmatuti,3,257,257,6,0,7,8,9
+2ks2,strukdat,V,firdaus,3,264,264,30,3,4,5,6
+2ks3,mps,V,achmad prasetyo,3,343,343,24,2,7,8,9
+2ks3,statmat ii,V,moh dokhi,3,331,331,3,0,4,5,6
+2ks3,ppkn,V,esti suntari,3,264,264,9,1,1,2,3
+2ks3,sig,V,rindang bangun,3,328,328,30,3,4,5,6
+2ks3,metstat ii,V,rani nooraeni,3,327,327,27,3,1,2,3
+2ks3,basdat,V,ratih ngestrini,3,338,338,21,2,4,5,6
+2ks3,strukdat,V,nori wilantika,3,253,253,6,0,7,8,9
+2ks4,mps,V,sukim,3,257,257,18,2,1,2,3
+2ks4,statmat ii,V,moh dokhi,3,344,344,6,0,7,8,9
+2ks4,ppkn,V,esti suntari,3,253,253,39,4,4,5,6
+2ks4,sig,V,rindang bangun,3,264,264,15,1,7,8,9
+2ks4,metstat ii,V,rani nooraeni,3,347,347,36,4,1,2,3
+2ks4,basdat,V,farid ridho,3,337,337,3,0,4,5,6
+2ks4,strukdat,V,nori wilantika,3,266,266,33,3,7,8,9
+2st1,metsat ii,V,efri diah,3,333,333,15,1,7,8,9
+2st1,snn,V,anugerah karta,3,324,324,36,4,1,2,3
+2st1,offstat,V,fitri kartiasih,3,338,338,2,0,3,4,5
+2st1,mps,V,sukim,3,263,263,30,3,4,5,6
+2st1,komstat,V,robert kurniawan,3,324,324,18,2,1,2,3
+2st1,ppkn,V,rika kartika,3,263,263,27,3,1,2,3
+2st1,statmat ii,V,timbang sirait,3,334,334,21,2,4,5,6
+2st2,metsat ii,V,ekaria,3,325,325,12,1,4,5,6
+2st2,snn,V,krismanti tri,3,325,325,2,0,3,4,5
+2st2,offstat,V,fitri kartiasih,3,346,346,36,4,1,2,3
+2st2,mps,V,atik maratis,3,348,348,15,1,7,8,9
+2st2,komstat,V,achmad syahrul,3,327,327,33,3,7,8,9
+2st2,ppkn,V,suryanto aloysius,3,264,264,24,2,7,8,9
+2st2,statmat ii,V,moh dokhi,3,326,326,21,2,4,5,6
+2st3,metsat ii,V,timbang sirait,3,254,254,24,2,7,8,9
+2st3,snn,V,anugerah karta,3,343,343,6,0,7,8,9
+2st3,offstat,V,wahyudin,3,257,257,36,4,1,2,3
+2st3,mps,V,achmad prasetyo,3,346,346,30,3,4,5,6
+2st3,komstat,V,rindang bangun,3,346,346,11,1,3,4,5
+2st3,ppkn,V,murni parembai,3,254,254,21,2,4,5,6
+2st3,statmat ii,V,azka ubaidillah,3,333,333,33,3,7,8,9
+2st4,metsat ii,V,ekaria,3,328,328,24,2,7,8,9
+2st4,snn,V,krismanti tri,3,261,261,15,1,7,8,9
+2st4,offstat,V,wahyudin,3,264,264,27,3,1,2,3
+2st4,mps,V,I made arcana,3,325,325,36,4,1,2,3
+2st4,komstat,V,arie wahyu w,3,264,264,2,0,3,4,5
+2st4,ppkn,V,suryanto aloysius,3,264,264,21,2,4,5,6
+2st4,statmat ii,V,timbang sirait,3,257,257,11,1,3,4,5
+2st5,metsat ii,V,novi hidayat,3,255,255,15,1,7,8,9
+2st5,snn,V,krismanti tri,3,333,333,42,4,7,8,9
+2st5,offstat,V,yuliagnis,3,347,347,27,3,1,2,3
+2st5,mps,V,atik maratis,3,322,322,39,4,4,5,6
+2st5,komstat,V,budi yuniarto,3,263,263,36,4,1,2,3
+2st5,ppkn,V,murni parembai,3,257,257,24,2,7,8,9
+2st5,statmat ii,V,erni tri astuti,3,266,266,0,0,1,2,3
+2st6,metsat ii,V,novi hidayat,3,338,338,33,3,7,8,9
+2st6,snn,V,krismanti tri,3,331,331,18,2,1,2,3
+2st6,offstat,V,sugiarto,3,335,335,21,2,4,5,6
+2st6,mps,V,achmad prasetyo,3,266,266,42,4,7,8,9
+2st6,komstat,V,robert kurniawan,3,342,342,6,0,7,8,9
+2st6,ppkn,V,suryanto aloysius,3,265,265,15,1,7,8,9
+2st6,statmat ii,V,moh dokhi,3,267,267,38,4,3,4,5
+2st7,metsat ii,V,timbang sirait,3,322,322,6,0,7,8,9
+2st7,snn,V,krismanti tri,3,262,262,33,3,7,8,9
+2st7,offstat,V,wahyuni andriana,3,323,323,24,2,7,8,9
+2st7,mps,V,I made arcana,3,344,344,21,2,4,5,6
+2st7,komstat,V,achmad syahrul,3,347,347,11,1,3,4,5
+2st7,ppkn,V,rika kartika,3,264,264,36,4,1,2,3
+2st7,statmat ii,V,azka ubaidillah,3,321,321,30,3,4,5,6
+3d31,apg,V,budi yuniarto,3,251,251,27,3,1,2,3
+3d31,metode peramalan,V,neli agustina,3,261,261,24,2,7,8,9
+3d31,analisis data,V,agung priyo utomo,2,256,256,2,0,3,4,
+3d31,msdm,V,yaya setiadi,3,328,328,11,1,3,4,5
+3d32,apg,V,sarni maniar,3,327,327,12,1,4,5,6
+3d32,metode peramalan,V,neli agustina,3,342,342,15,1,7,8,9
+3d32,analisis data,V,nasrudin,2,327,327,42,4,7,8,
+3d32,msdm,V,sugiarto,3,267,267,18,2,1,2,3
+3d33,apg,V,cucu sumarni,3,254,254,15,1,7,8,9
+3d33,metode peramalan,V,neli agustina,3,256,256,29,3,3,4,5
+3d33,analisis data,V,agung priyo utomo,2,322,322,4,0,5,6,
+3d33,msdm,V,yaya setiadi,3,255,255,18,2,1,2,3
+3d34,apg,V,sarni maniar,3,334,334,18,2,1,2,3
+3d34,metode peramalan,V,Retnaningsih,3,328,328,42,4,7,8,9
+3d34,analisis data,V,nasrudin,2,348,348,4,0,5,6,
+3d34,msdm,V,sugiarto,3,264,264,33,3,7,8,9
+3d35,apg,V,cucu sumarni,3,261,261,18,2,1,2,3
+3d35,metode peramalan,V,Retnaningsih,3,344,344,27,3,1,2,3
+3d35,analisis data,V,agung priyo utomo,2,344,344,42,4,7,8,
+3d35,msdm,V,yaya setiadi,3,267,267,2,0,3,4,5
+3sd1,information retrieval,V,lya hulliyyatus,3,323,323,6,0,7,8,9
+3sd1,analisis runtun waktu,V,fitri kartiasih,3,264,264,12,1,4,5,6
+3sd1,offstat,V,waris marsisno,3,338,338,9,1,1,2,3
+3sd1,metpen,V,setia pramana,3,263,263,24,2,7,8,9
+3sd1,apg,V,budi yuniarto,3,266,266,21,2,4,5,6
+3sd1,rpl,V,"lya, nori, lutfi",3,343,343,30,3,4,5,6
+3sd2,information retrieval,V,lya hulliyyatus,3,326,326,30,3,4,5,6
+3sd2,analisis runtun waktu,V,fitri kartiasih,3,256,256,33,3,7,8,9
+3sd2,offstat,V,yuliagnis,3,251,251,11,1,3,4,5
+3sd2,metpen,V,arie wahyu w,3,261,261,21,2,4,5,6
+3sd2,apg,V,rani nooraeni,3,252,252,18,2,1,2,3
+3sd2,rpl,V,"lya, nori, lutfi",3,323,323,0,0,1,2,3
+3sd3,information retrieval,V,lya hulliyyatus,3,347,347,33,3,7,8,9
+3sd3,analisis runtun waktu,V,anugerah karta,3,334,334,15,1,7,8,9
+3sd3,offstat,V,yuliagnis,3,335,335,18,2,1,2,3
+3sd3,metpen,V,arie wahyu w,3,338,338,30,3,4,5,6
+3sd3,apg,V,achmad syahrul,3,262,262,27,3,1,2,3
+3sd3,rpl,V,"lya, nori, lutfi",3,256,256,6,0,7,8,9
+3se1,metpen,V,nucke,3,348,348,18,2,1,2,3
+3se1,apg,V,ekaria,3,323,323,15,1,7,8,9
+3se1,analisis runtun waktu,V,budiasih,3,328,328,21,2,4,5,6
+3se1,metsur,V,atik maratis,3,345,345,27,3,1,2,3
+3se1,analisis data kategorik,V,agung priyo utomo,3,324,324,30,3,4,5,6
+3se1,ekonomi mikro,V,rita yuliana,3,327,327,3,0,4,5,6
+3se2,metpen,V,hardius usman,3,328,328,18,2,1,2,3
+3se2,apg,V,novi hidayat,3,335,335,6,0,7,8,9
+3se2,analisis runtun waktu,V,budiasih,3,324,324,3,0,4,5,6
+3se2,metsur,V,budyanra,3,332,332,27,3,1,2,3
+3se2,analisis data kategorik,V,siskarossa,3,332,332,21,2,4,5,6
+3se2,ekonomi mikro,V,rita yuliana,3,266,266,12,1,4,5,6
+3se3,metpen,V,siskarossa,3,265,265,33,3,7,8,9
+3se3,apg,V,azka ubaidillah,3,345,345,6,0,7,8,9
+3se3,analisis runtun waktu,V,nasrudin,3,336,336,21,2,4,5,6
+3se3,metsur,V,I made arcana,3,344,344,15,1,7,8,9
+3se3,analisis data kategorik,V,rini rahani,3,323,323,11,1,3,4,5
+3se3,ekonomi mikro,V,budiasih,3,325,325,18,2,1,2,3
+3si1,rpl,V,"yeni, lya, nori, lutfi",3,252,252,2,0,3,4,5
+3si1,ppk,V,ibnu santoso,3,325,325,33,3,7,8,9
+3si1,apg,V,budi yuniarto,3,267,267,12,1,4,5,6
+3si1,offstat,V,waris marsisno,3,327,327,20,2,3,4,5
+3si1,sisjarkomdat,V,farid ridho,3,344,344,24,2,7,8,9
+3si1,metpen,V,novianto budi k,3,251,251,42,4,7,8,9
+3si2,rpl,V,"lya, nori, lutfi",3,331,331,21,2,4,5,6
+3si2,ppk,V,ibnu santoso,3,322,322,18,2,1,2,3
+3si2,apg,V,rani nooraeni,3,341,341,15,1,7,8,9
+3si2,offstat,V,waris marsisno,3,256,256,42,4,7,8,9
+3si2,sisjarkomdat,V,farid ridho,3,334,334,6,0,7,8,9
+3si2,metpen,V,yunarso anang,3,257,257,27,3,1,2,3
+3si3,rpl,V,"lya, nori, lutfi",3,348,348,42,4,7,8,9
+3si3,ppk,V,mutaqin,3,324,324,24,2,7,8,9
+3si3,apg,V,achmad syahrul,3,343,343,15,1,7,8,9
+3si3,offstat,V,yuliagnis,3,333,333,21,2,4,5,6
+3si3,sisjarkomdat,V,farid ridho,3,267,267,27,3,1,2,3
+3si3,metpen,V,arie wahyu w,3,331,331,6,0,7,8,9
+3sk1,metsur,V,budyanra,3,265,265,6,0,7,8,9
+3sk1,analisis data kategorik,V,rini rahani,3,325,325,24,2,7,8,9
+3sk1,analisis runtun waktu,V,budiasih,3,322,322,11,1,3,4,5
+3sk1,teknik demografi,V,tiodora,3,326,326,27,3,1,2,3
+3sk1,apg,V,ekaria,3,323,323,30,3,4,5,6
+3sk1,metpen,V,siskarossa,3,346,346,3,0,4,5,6
+3sk2,metsur,V,atik maratis,3,252,252,30,3,4,5,6
+3sk2,analisis data kategorik,V,siskarossa,3,322,322,24,2,7,8,9
+3sk2,analisis runtun waktu,V,nasrudin,3,333,333,9,1,1,2,3
+3sk2,teknik demografi,V,tiodora,3,338,338,12,1,4,5,6
+3sk2,apg,V,azka ubaidillah,3,252,252,21,2,4,5,6
+3sk2,metpen,V,nucke,3,252,252,33,3,7,8,9
+3sk3,metsur,V,I made arcana,3,332,332,24,2,7,8,9
+3sk3,analisis data kategorik,V,agung priyo utomo,3,335,335,33,3,7,8,9
+3sk3,analisis runtun waktu,V,nasrudin,3,335,335,29,3,3,4,5
+3sk3,teknik demografi,V,tiodora,3,346,346,9,1,1,2,3
+3sk3,apg,V,novi hidayat,3,332,332,3,0,4,5,6
+3sk3,metpen,V,nucke,3,333,333,6,0,7,8,9
+4sd1,msdm,V,artha satwika,3,265,265,12,1,4,5,6
+4sd1,tekkom,V,kunti puspitasari,3,252,252,36,4,1,2,3
+4sd1,msdm,V,artha satwika,3,255,255,6,0,7,8,9
+4sd1,tekkom,V,kunti puspitasari,3,266,266,9,1,1,2,3
+4sd2,msdm,V,bambang nurcahyo,3,321,321,27,3,1,2,3
+4sd2,tekkom,V,irawati diah astuti,3,251,251,39,4,4,5,6
+4sd2,msdm,V,bambang nurcahyo,3,266,266,18,2,1,2,3
+4sd2,tekkom,V,irawati diah astuti,3,265,265,21,2,4,5,6
+4se1,kapita selekta eko,V,rita yuliana,2,326,326,33,3,7,8,
+4se1,kapita selekta eko,V,rita yuliana,2,321,321,22,2,5,6,
+4se2,kapita selekta eko,V,rita yuliana,2,326,326,24,2,7,8,
+4se2,kapita selekta eko,V,rita yuliana,2,254,254,9,1,1,2,
+4se3,kapita selekta eko,V,rita yuliana,2,338,338,15,1,7,8,
+4se3,kapita selekta eko,V,rita yuliana,2,343,343,42,4,7,8,
+4se4,kapita selekta eko,V,ribut nurul,2,337,337,42,4,7,8,
+4se4,kapita selekta eko,V,ribut nurul,2,265,265,18,2,1,2,
+4se5,kapita selekta eko,V,ribut nurul,2,347,347,9,1,1,2,
+4se5,kapita selekta eko,V,ribut nurul,2,337,337,33,3,7,8,
+4si1,msdm,V,yaya setiadi,3,322,322,29,3,3,4,5
+4si1,tekkom,V,avi r,3,321,321,18,2,1,2,3
+4si1,msdm,V,yaya setiadi,3,251,251,21,2,4,5,6
+4si1,tekkom,V,avi r,3,331,331,11,1,3,4,5
+4si2,msdm,V,sugiarto,3,265,265,27,3,1,2,3
+4si2,tekkom,V,aghnia kartika,3,257,257,30,3,4,5,6
+4si2,msdm,V,sugiarto,3,336,336,6,0,7,8,9
+4si2,tekkom,V,aghnia kartika,3,342,342,11,1,3,4,5
+4si3,msdm,V,luci wulansari,3,347,347,18,2,1,2,3
+4si3,tekkom,V,oki heryanto,3,322,322,15,1,7,8,9
+4si3,msdm,V,luci wulansari,3,336,336,27,3,1,2,3
+4si3,tekkom,V,oki heryanto,3,256,256,12,1,4,5,6
+4sk1,kapita selekta pddk,V,tiodora,2,324,324,42,4,7,8,
+4sk1,kapita selekta pddk,V,tiodora,2,323,323,22,2,5,6,
+4sk2,kapita selekta pddk,V,tiodora,2,262,262,20,2,3,4,
+4sk2,kapita selekta pddk,V,tiodora,2,262,262,18,2,1,2,
+4sk3,kapita selekta pddk,V,febri wicaksono,2,342,342,42,4,7,8,
+4sk3,kapita selekta pddk,V,febri wicaksono,2,336,336,18,2,1,2,
+4sk4,kapita selekta pddk,V,febri wicaksono,2,336,336,4,0,5,6,
+4sk4,kapita selekta pddk,V,febri wicaksono,2,255,255,30,3,4,5,
+4sk5,kapita selekta pddk,V,irdam ahmad,2,253,253,4,0,5,6,
+4sk5,kapita selekta pddk,V,irdam ahmad,2,251,251,2,0,3,4,

@@ -9,8 +9,8 @@ This project covers methods used for solving the timetable scheduling problem sp
 The problem discussed is an NP-hard problem of generating a valid and highly optimal timetable for the _Faculty of Computing, Belgrade_. By valid we mean that there are no conflicts in the timetable, i.e. no two classes are in the same classroom at the same time, nor can a professor hold two classes at the same time, etc.
 Next, we describe the specific timetable format we will be analyzing. Classes are defined in the following fashion:
 
-- Subject that is being taught
-- Type of class (lectures or practicals)
+- subject that is being taught
+- type of class (lectures or practicals)
 - The professor conducting the class
 - All of the student groups listening to the class toghether at the same time
 - Classroom type allowed (i.e. some classrooms require students to have access to computers, some do not)
@@ -42,12 +42,12 @@ Since we are using a 1+1 evolutionary strategy with shotgun hill-climbing, there
 
 It is worth mentioning that for simplicity, the dictionary used has keys that are in Serbian, since the input file is a JSON file in Serbian. You can find the translations for all the relevant words here:
 
-- Subject = Subject
-- Type = Type
-- Professor = Professor
-- Groups = Groups
+- subject = subject
+- type = type
+- professor = professor
+- groups = groups
 - Classroom = Classroom (allowed classrooms)
-- Duration = Length
+- duration = Length
 - Zadata ucionica = Assigned classroom
 - Zadato vreme = Assigned time
 

@@ -1,18 +1,22 @@
 professor,cost,load,keterangan
-achmad prasetyo,1.0,0.0,mengajar terlalu banyak perkuliahan
-achmad syahrul,1.0,0.0,mengajar terlalu banyak perkuliahan
-agung priyo utomo,1.0,0.0,mengajar terlalu banyak perkuliahan
-agus purwoto,0.0,0.0,pelanggaran preferensi waktu
-aisyah fitri yuniasih,1.0,0.0,mengajar terlalu banyak perkuliahan
-ekaria,1.0,0.0,mengajar terlalu banyak perkuliahan
-erna nurmawati,2.0,0.0,mengajar terlalu banyak perkuliahan
-firdaus,3.0,0.0,mengajar terlalu banyak perkuliahan
-lia yuliana,1.0,0.0,mengajar terlalu banyak perkuliahan
-murni parembai,1.0,0.0,mengajar terlalu banyak perkuliahan
-ribut nurul,2.0,1.0,mengajar terlalu banyak perkuliahan
-rita yuliana,1.0,1.0,mengajar terlalu banyak perkuliahan
-sarni maniar,3.0,0.0,mengajar terlalu banyak perkuliahan
+aisyah fitri yuniasih,2.0,0.0,pelanggaran constraint
+azka ubaidillah,0.0,0.0,pelanggaran constraint
+efri diah,0.0,0.0,pelanggaran constraint
+erna nurmawati,2.0,0.0,pelanggaran preferensi waktu
+erna nurmawati,2.0,0.0,pelanggaran constraint
+farid ridho,0.0,0.0,pelanggaran constraint
+firdaus,2.0,0.0,pelanggaran constraint
+fitri kartiasih,2.0,0.0,pelanggaran constraint
+irdam ahmad,0.0,0.0,pelanggaran preferensi waktu
+irdam ahmad,0.0,0.0,pelanggaran constraint
+jeffry,0.0,0.0,pelanggaran constraint
+komara suhendar,0.0,0.0,pelanggaran preferensi waktu
+lutfi rahmatuti,0.0,0.0,pelanggaran constraint
+muh syukur,0.0,0.0,pelanggaran constraint
+ridwan yahya,0.0,0.0,pelanggaran preferensi waktu
+rinda riztya,0.0,0.0,pelanggaran preferensi waktu
+rita yuliana,2.0,0.0,pelanggaran preferensi waktu
+rizka maulan,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
 sayid qutub,0.0,0.0,pelanggaran preferensi waktu
-tiodora,1.0,0.0,mengajar terlalu banyak perkuliahan
-yudi anjangsana,2.0,0.0,mengajar terlalu banyak perkuliahan
-yudi anjangsana,2.0,0.0,pelanggaran preferensi waktu
+siti muchlisoh,3.0,0.0,pelanggaran constraint
+wahyuni andriana,2.0,0.0,pelanggaran constraint

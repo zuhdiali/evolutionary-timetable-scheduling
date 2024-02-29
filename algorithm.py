@@ -7,11 +7,12 @@ from copy import deepcopy
 max_generations = 6000
 num_runs = 1
 input_file = 'stis/stis_komplit.json'
-output_file = 'stis/output_stis_komplit.json'
-output_file_csv = 'stis/output_stis_komplit.csv'
-output_prof_load = 'stis/load_prof_stis_komplit.csv'
-output_classroom_load = 'stis/load_classroom_stis_komplit.csv'
-output_group_load = 'stis/load_group_stis_komplit.csv'
+output_file = 'stis/5output_stis_komplit.json'
+output_file_csv = 'stis/5output_stis_komplit.csv'
+output_file_excel = 'stis/5output_stis_komplit.xlsx'
+output_prof_load = 'stis/5load_prof_stis_komplit.csv'
+output_classroom_load = 'stis/5load_classroom_stis_komplit.csv'
+output_group_load = 'stis/5load_group_stis_komplit.csv'
 cost_function = cost_functions.cost
 cost_function2 = cost_functions.cost2
 
@@ -72,7 +73,7 @@ def evolutionary_algorithm():
             allowed_classrooms = False
             df_classroom = df_classroom._append(
                 {"classroom": single_class['Assigned_classroom'],
-                 "keterangan": 'kelas untuk kuliah ' + single_class['Professor'] + ' ' + single_class['Subject'] + ' tidak sesuai dengan ruang kelas yang diinginkan'}, ignore_index=True)
+                 "keterangan": 'kelas untuk kuliah ' + single_class['professor'] + ' ' + single_class['subject'] + ' tidak sesuai dengan ruang kelas yang diinginkan'}, ignore_index=True)
     for profesor in chromosome[1]:
         for i in range(len(chromosome[1][profesor])):
             if chromosome[1][profesor][i] > 1 and chromosome[1][profesor][i] < 99:
@@ -111,7 +112,7 @@ def evolutionary_algorithm():
                     if group in lecture[1] and practice[0] < lecture[0]:
                         subject_cost += 1
         subjects_cost += subject_cost
-        print('Subject cost for subject', single_class, 'is:', subject_cost)
+        print('subject cost for subject', single_class, 'is:', subject_cost)
     print('Total subject cost:', subjects_cost)
 
     # Check group statistics
@@ -142,7 +143,7 @@ def evolutionary_algorithm():
                              "keterangan": 'bentrok jadwal pada hari ' + str(day) + ' sesi ' + str(hour+1)}, ignore_index=True)
             if current_load > 6:
                 group_load += 1
-        print('Groups cost for group', group, 'is:',
+        print('groups cost for group', group, 'is:',
               group_cost, ', number of hard days:', group_load)
         if max_group_cost < group_cost:
             max_group_cost = group_cost
@@ -158,7 +159,6 @@ def evolutionary_algorithm():
             for hour in range(9):
                 time = day * 9 + hour
                 if chromosome[2][classroom][time] > 1 and chromosome[2][classroom][time] < 99:
-                    print('Classroom violation for classroom', classroom, 'is:',)
                     df_classroom = df_classroom._append(
                         {"classroom": classroom,
                          "keterangan": 'bentrok jadwal pada hari ' + str(day) + ' sesi ' + str(hour+1)}, ignore_index=True)
@@ -168,10 +168,10 @@ def evolutionary_algorithm():
         {"professor": [], "cost": [], "load": [], "keterangan": []})
     total_prof_cost = 0
     total_prof_load = 0
-    # free_hour = True
     max_prof_cost = 0
     for prof in chromosome[1]:
         pref_time_violation = False
+        constraint_violation = False
         prof_cost = 0
         prof_load = 0
         for day in range(5):
@@ -193,17 +193,24 @@ def evolutionary_algorithm():
                         df_prof = df_prof._append(
                             {"professor": prof, "cost": prof_cost, "load": prof_load,
                              "keterangan": 'bentrok jadwal pada hari ' + str(day) + ' sesi ' + str(hour+1)}, ignore_index=True)
-                elif chromosome[1][prof][time] > 99:
+                elif chromosome[1][prof][time] > 99 and chromosome[1][prof][time] < 999:
                     pref_time_violation = True
+                elif chromosome[1][prof][time] > 999:
+                    constraint_violation = True
+
             if current_load > 6:
                 prof_load += 1
                 df_prof = df_prof._append(
-                    {"professor": prof, "cost": prof_cost, "load": prof_load, "keterangan": "mengajar terlalu banyak perkuliahan"}, ignore_index=True)
+                    {"professor": prof, "cost": prof_cost, "load": prof_load, "keterangan": "mengajar terlalu banyak perkuliahan dalam satu hari"}, ignore_index=True)
         print('Prof cost for prof', prof, 'is:', prof_cost,
               ', number of hard days:', prof_load)
+
         if pref_time_violation:
             df_prof = df_prof._append(
                 {"professor": prof, "cost": prof_cost, "load": prof_load, "keterangan": "pelanggaran preferensi waktu"}, ignore_index=True)
+        if constraint_violation:
+            df_prof = df_prof._append(
+                {"professor": prof, "cost": prof_cost, "load": prof_load, "keterangan": "pelanggaran constraint"}, ignore_index=True)
         if max_prof_cost < prof_cost:
             max_prof_cost = prof_cost
         total_prof_cost += prof_cost
@@ -211,12 +218,13 @@ def evolutionary_algorithm():
     print('Max prof cost is:', max_prof_cost)
     print('Average prof cost is:', total_prof_cost / len(chromosome[1]))
     print('Total prof load is:', total_prof_load)
-    # print('Free hour:', free_hour, ', 59')
 
     dt.write_csv(df_prof, output_prof_load)
     dt.write_csv(df_classroom, output_classroom_load)
     dt.write_csv(df_group, output_group_load)
     dt.write_csv(chromosome[0], output_file_csv)
+
+    dt.write_excel(chromosome[0], output_file_excel)
 
 
 evolutionary_algorithm()

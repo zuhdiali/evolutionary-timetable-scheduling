@@ -10,10 +10,10 @@
 # with open(input_file, 'r') as read_file:
 #     data = json.load(read_file)
 
-# # dummy = data['Ruang Kelas']['25']
+# # dummy = data['ruangKelas']['25']
 # # # print(dummy)
 
-# # dummy = dummy + data['Ruang Kelas']['26']
+# # dummy = dummy + data['ruangKelas']['26']
 # # # print(dummy)
 
 # professors = {}
@@ -23,31 +23,31 @@
 # profAvailable3Blok = {}
 
 # # mengambil preferensi waktu dosen
-# for professor in data['Dosen']:
-#     professors[professor['Name']] = professor['PrefTime']
+# for professor in data['dosen']:
+#     professors[professor['name']] = professor['prefTime']
 
-#     profAvailable2Blok[professor['Name']] = []
-#     for i in range(len(professor['PrefTime'])-1):
-#         if professor['PrefTime'][i] == 0 and professor['PrefTime'][i+1] != 1 and (i % 9 + 1) in sesi_mulai_2_blok:
-#             profAvailable2Blok[professor['Name']] += [i]
+#     profAvailable2Blok[professor['name']] = []
+#     for i in range(len(professor['prefTime'])-1):
+#         if professor['prefTime'][i] == 0 and professor['prefTime'][i+1] != 1 and (i % 9 + 1) in sesi_mulai_2_blok:
+#             profAvailable2Blok[professor['name']] += [i]
 
-#     profAvailable3Blok[professor['Name']] = []
-#     for i in range(len(professor['PrefTime'])-2):
-#         if professor['PrefTime'][i] == 0 and professor['PrefTime'][i+1] != 1 and professor['PrefTime'][i+2] != 1 and (i % 9 + 1) in sesi_mulai_3_blok:
-#             profAvailable3Blok[professor['Name']] += [i]
+#     profAvailable3Blok[professor['name']] = []
+#     for i in range(len(professor['prefTime'])-2):
+#         if professor['prefTime'][i] == 0 and professor['prefTime'][i+1] != 1 and professor['prefTime'][i+2] != 1 and (i % 9 + 1) in sesi_mulai_3_blok:
+#             profAvailable3Blok[professor['name']] += [i]
 
-#     prefRoomProf[professor['Name']] = []
-#     for gedung in professor['PrefRoom']:
-#         prefRoomProf[professor['Name']] += data['Ruang Kelas'][gedung]
+#     prefRoomProf[professor['name']] = []
+#     for gedung in professor['prefRoom']:
+#         prefRoomProf[professor['name']] += data['ruangKelas'][gedung]
 # # print(profAvailable2Blok['ratih ngestrini'])
 # # print(profAvailable3Blok['ratih ngestrini'])
 # profAvailable["2 Blok"] = profAvailable2Blok
 # profAvailable["3 Blok"] = profAvailable3Blok
 # print(profAvailable['2 Blok']['ratih ngestrini'])
-# # constraints = data['Constraints']
-# # for i, professor in enumerate(constraints['Data']):
-# # for professor in constraints['Data']:
-# # for i in constraints['Session']:
+# # constraints = data['constraints']
+# # for i, professor in enumerate(constraints['data']):
+# # for professor in constraints['data']:
+# # for i in constraints['session']:
 # #     print(professor, i)
 
 # # print(int(5/3))
@@ -87,7 +87,7 @@ import json
 import pandas as pd
 import data as dt
 
-input_file = 'stis/output_stis_komplit.json'
+input_file = 'stis/stis_komplit.json'
 with open(input_file, 'r') as read_file:
     data = json.load(read_file)
 
@@ -95,11 +95,14 @@ with open(input_file, 'r') as read_file:
 # chromosome = dt.generate_chromosome(
 #     chromosome[0], chromosome[1], chromosome[2], chromosome[3])
 # data.to_csv('stis/output_dummy.csv', sep=',', index=False)
-print(isinstance(data, list))
-if isinstance(data, list):
-    for single_class in data:
-        single_class['Groups'] = single_class['Groups'][0]
-        single_class['Classroom'] = single_class['Assigned_classroom']
-    new_data = pd.DataFrame(data)
-    new_data.to_csv('stis/output_dummy.csv', sep=',', index=False)
-    print(isinstance(new_data, list))
+# print(isinstance(data, list))
+# if isinstance(data, list):
+#     for single_class in data:
+#         single_class['groups'] = single_class['groups'][0]
+#         single_class['Classroom'] = single_class['Assigned_classroom']
+#     new_data = pd.DataFrame(data)
+#     new_data.to_csv('stis/output_dummy.csv', sep=',', index=False)
+#     print(isinstance(new_data, list))
+
+
+print(type(data['ruangKelas']))

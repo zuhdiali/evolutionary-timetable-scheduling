@@ -12,15 +12,15 @@ def cost(chromosome):
     # Traverse all classes for hard constraints
     for single_class in chromosome[0]:
         time = single_class['Assigned_time']
-        class_len = single_class['Duration']
+        class_len = single_class['duration']
 
         # Check hard constraint violation in classes time frame
         for i in range(time, time + int(class_len)):
-            if chromosome[1][single_class['Professor']][i] > 1:
+            if chromosome[1][single_class['professor']][i] > 1:
                 prof_cost += 1
             if chromosome[2][single_class['Assigned_classroom']][i] > 1:
                 classrooms_cost += 1
-            for group in single_class['Groups']:
+            for group in single_class['groups']:
                 if chromosome[3][group][i] > 1:
                     groups_cost += 1
 
@@ -87,7 +87,7 @@ def cost2(chromosome):
             current_load = 0
             for hour in range(9):
                 time = day * 9 + hour
-                if chromosome[1][prof][time] >= 1 and chromosome[1][prof][time] != 99:
+                if chromosome[1][prof][time] >= 1 and chromosome[1][prof][time] != 99 and chromosome[1][prof][time] != 999:
                     current_load += 1
                     if not found:
                         found = True

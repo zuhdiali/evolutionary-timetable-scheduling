@@ -20,8 +20,25 @@ jumat
 
 
 
-"PrefTime": [
+"prefTime": [
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
   ],
 
+
+
+
+
+  <ResourceTypes>
+        <ResourceType Id="Teacher">
+            <Name>Teacher</Name>
+            
+
+        </ResourceType>
+        <ResourceType Id="Room">
+            <Name>Room</Name>
+        </ResourceType>
+        <ResourceType Id="Class">
+            <Name>Class</Name>
+        </ResourceType>
+    </ResourceTypes>
