@@ -1,16 +1,18 @@
 professor,cost,load,keterangan
+achmad prasetyo,0.0,0.0,pelanggaran constraint
 agus purwoto,0.0,0.0,pelanggaran preferensi waktu
-budyanra,0.0,0.0,pelanggaran preferensi waktu
-febri wicaksono,1.0,0.0,pelanggaran preferensi waktu
-firdaus,0.0,0.0,pelanggaran preferensi waktu
-jeffry,3.0,0.0,pelanggaran preferensi waktu
-komara suhendar,0.0,0.0,pelanggaran preferensi waktu
-kunti puspitasari,0.0,0.0,pelanggaran preferensi waktu
-murni parembai,3.0,0.0,pelanggaran preferensi waktu
-nucke,0.0,0.0,pelanggaran preferensi waktu
-Retnaningsih,0.0,0.0,pelanggaran preferensi waktu
-rita yuliana,2.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
-rita yuliana,2.0,1.0,pelanggaran preferensi waktu
+anugerah karta,0.0,0.0,pelanggaran constraint
+febri wicaksono,1.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+firdaus,2.0,0.0,pelanggaran constraint
+irdam ahmad,2.0,0.0,pelanggaran preferensi waktu
+krismanti tri,0.0,0.0,pelanggaran constraint
+moh dokhi,0.0,0.0,pelanggaran constraint
+murni parembai,1.0,0.0,pelanggaran preferensi waktu
+nucke,0.0,0.0,pelanggaran constraint
+reni oktaviani,0.0,0.0,pelanggaran preferensi waktu
+ridwan yahya,0.0,0.0,pelanggaran preferensi waktu
+rindang bangun,2.0,0.0,pelanggaran constraint
+rita yuliana,1.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+rita yuliana,1.0,1.0,pelanggaran preferensi waktu
 rizka maulan,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
-sayid qutub,0.0,0.0,bentrok jadwal pada hari 3 sesi 3
-yaya setiadi,0.0,0.0,pelanggaran preferensi waktu
+titik harsanti,0.0,0.0,pelanggaran constraint

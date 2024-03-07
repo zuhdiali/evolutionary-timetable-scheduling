@@ -25,26 +25,27 @@ def cost(chromosome):
                     groups_cost += 1
 
     # Traverse all classes for soft constraint regarding preferred order
-    for single_class in chromosome[4]:
-        for lab in chromosome[4][single_class]['L']:
-            for practice in chromosome[4][single_class]['V']:
-                for group in lab[1]:
-                    # If lab is before practical
-                    if group in practice[1] and lab[0] < practice[0]:
-                        subjects_cost += 0.0025
-            for lecture in chromosome[4][single_class]['P']:
-                for group in lab[1]:
-                    # If lab is before lecture
-                    if group in lecture[1] and lab[0] < lecture[0]:
-                        subjects_cost += 0.0025
-        for practice in chromosome[4][single_class]['V']:
-            for lecture in chromosome[4][single_class]['P']:
-                for group in practice[1]:
-                    # If practical is before lecture
-                    if group in lecture[1] and practice[0] < lecture[0]:
-                        subjects_cost += 0.0025
+    # for single_class in chromosome[4]:
+    #     for lab in chromosome[4][single_class]['L']:
+    #         for practice in chromosome[4][single_class]['V']:
+    #             for group in lab[1]:
+    #                 # If lab is before practical
+    #                 if group in practice[1] and lab[0] < practice[0]:
+    #                     subjects_cost += 0.0025
+    #         for lecture in chromosome[4][single_class]['P']:
+    #             for group in lab[1]:
+    #                 # If lab is before lecture
+    #                 if group in lecture[1] and lab[0] < lecture[0]:
+    #                     subjects_cost += 0.0025
+    #     for practice in chromosome[4][single_class]['V']:
+    #         for lecture in chromosome[4][single_class]['P']:
+    #             for group in practice[1]:
+    #                 # If practical is before lecture
+    #                 if group in lecture[1] and practice[0] < lecture[0]:
+    #                     subjects_cost += 0.0025
 
-    return prof_cost + classrooms_cost + groups_cost + round(subjects_cost, 4)
+    # return prof_cost + classrooms_cost + groups_cost + round(subjects_cost, 4)
+    return prof_cost + classrooms_cost + groups_cost
 
 
 def cost2(chromosome):

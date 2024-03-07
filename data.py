@@ -26,6 +26,23 @@ def load_data(path):
     for professor in data['dosen']:
         professors[professor['name']] = professor['prefTime']
 
+    constraints = data['constraints']
+
+    # constraint prefensi waktu dosen
+    for constraint in constraints:
+        if constraint['key'] == 'professor':
+            if constraint['isAll'] == True:
+                for professor in professors:
+                    for i in constraint['session']:
+                        professors[professor][i] = 999
+            else:
+                for professor in constraint['data']:
+                    for i in constraint['session']:
+                        professors[professor][i] = 999
+
+    # hitung profAvailable2Blok dan profAvailable3Blok
+    for professor in data['dosen']:
+
         profAvailable2Blok[professor['name']] = []
         for i in range(len(professor['prefTime'])-1):
             if professor['prefTime'][i] == 0 and professor['prefTime'][i+1] != 1 and (i % 9 + 1) in sesi_mulai_2_blok:
@@ -46,7 +63,6 @@ def load_data(path):
         # classroom = university_class['Classroom']
         university_class['Classroom'] = prefRoomProf[university_class['professor']]
 
-    constraints = data['constraints']
     data = data['perkuliahan']
 
     return (data, professors, constraints, profAvailable)
@@ -74,15 +90,15 @@ def generate_chromosome(data, professors, constraints, profAvailable):
 
     for constraint in constraints:
         match constraint['key']:
-            case 'professor':
-                if constraint['isAll'] == True:
-                    for professor in professors:
-                        for i in constraint['session']:
-                            professors[professor][i] = 999
-                else:
-                    for professor in constraint['data']:
-                        for i in constraint['session']:
-                            professors[professor][i] = 999
+            # case 'professor':
+            #     if constraint['isAll'] == True:
+            #         for professor in professors:
+            #             for i in constraint['session']:
+            #                 professors[professor][i] = 999
+            #     else:
+            #         for professor in constraint['data']:
+            #             for i in constraint['session']:
+            #                 professors[professor][i] = 999
             case 'Group':
                 if constraint['isAll'] == True:
                     for group in groups:

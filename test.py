@@ -91,9 +91,9 @@ input_file = 'stis/stis_komplit.json'
 with open(input_file, 'r') as read_file:
     data = json.load(read_file)
 
-# chromosome = dt.load_data(input_file)
-# chromosome = dt.generate_chromosome(
-#     chromosome[0], chromosome[1], chromosome[2], chromosome[3])
+chromosome = dt.load_data(input_file)
+chromosome = dt.generate_chromosome(
+    chromosome[0], chromosome[1], chromosome[2], chromosome[3])
 # data.to_csv('stis/output_dummy.csv', sep=',', index=False)
 # print(isinstance(data, list))
 # if isinstance(data, list):
@@ -105,4 +105,4 @@ with open(input_file, 'r') as read_file:
 #     print(isinstance(new_data, list))
 
 
-print(type(data['ruangKelas']))
+print(chromosome[5])

@@ -63,7 +63,6 @@ def neighbour(chromosome):
                     # if k != 59:
                     # pairs.append((time, classroom))
                     # found = True
-
                     c = 0
             else:
                 c = 0
@@ -93,11 +92,20 @@ def neighbour(chromosome):
 
         # ------------------------------ INI KODINGAN BARU ------------------------------
         if int(chromosome[0][i]['duration']) == 3:
-            time = random.choice(
-                chromosome[5]['3 Blok'][chromosome[0][i]['professor']])
+            loop = True
+            while loop:
+                time = random.choice(
+                    chromosome[5]['3 Blok'][chromosome[0][i]['professor']])
+                if (chromosome[1][chromosome[0][i]['professor']][time]) < 999:
+                    loop = False
+
         else:
-            time = random.choice(
-                chromosome[5]['2 Blok'][chromosome[0][i]['professor']])
+            loop = True
+            while loop:
+                time = random.choice(
+                    chromosome[5]['2 Blok'][chromosome[0][i]['professor']])
+                if (chromosome[1][chromosome[0][i]['professor']][time]) < 999:
+                    loop = False
         # ------------------------------ INI KODINGAN BARU ------------------------------
 
         chromosome[0][i]['Assigned_classroom'] = classroom

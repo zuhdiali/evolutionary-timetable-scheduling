@@ -1,0 +1,14 @@
+professor,cost,load,keterangan
+abu tholhah,0.0,0.0,pelanggaran preferensi waktu
+agus purwoto,0.0,0.0,pelanggaran preferensi waktu
+azka ubaidillah,2.0,0.0,pelanggaran constraint
+budyanra,0.0,0.0,pelanggaran constraint
+jeffry,0.0,0.0,pelanggaran constraint
+ridwan yahya,0.0,0.0,pelanggaran preferensi waktu
+rita yuliana,1.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+rita yuliana,3.0,1.0,pelanggaran preferensi waktu
+rizka maulan,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+sarni maniar,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+sri herwanto,0.0,0.0,pelanggaran constraint
+sugiarto,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+tiodora,1.0,0.0,pelanggaran preferensi waktu

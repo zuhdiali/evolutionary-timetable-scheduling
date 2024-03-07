@@ -1,0 +1,15 @@
+professor,cost,load,keterangan
+agus purwoto,0.0,0.0,pelanggaran preferensi waktu
+avi r,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+krismanti tri,0.0,0.0,bentrok jadwal pada hari 1 sesi 3
+muh syukur,0.0,0.0,pelanggaran constraint
+murni parembai,1.0,0.0,pelanggaran preferensi waktu
+nasrudin,1.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+rindang bangun,0.0,0.0,pelanggaran constraint
+rita yuliana,2.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+rita yuliana,6.0,1.0,pelanggaran preferensi waktu
+rizka maulan,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+sugiarto,1.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+sukim,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+tiodora,1.0,0.0,pelanggaran preferensi waktu
+winih budiarti,2.0,0.0,pelanggaran constraint

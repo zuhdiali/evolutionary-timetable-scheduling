@@ -4,15 +4,17 @@ import cost_functions
 import mutation
 from copy import deepcopy
 
-max_generations = 6000
+max_generations = 5000
 num_runs = 1
 input_file = 'stis/stis_komplit.json'
-output_file = 'stis/5output_stis_komplit.json'
-output_file_csv = 'stis/5output_stis_komplit.csv'
-output_file_excel = 'stis/5output_stis_komplit.xlsx'
-output_prof_load = 'stis/5load_prof_stis_komplit.csv'
-output_classroom_load = 'stis/5load_classroom_stis_komplit.csv'
-output_group_load = 'stis/5load_group_stis_komplit.csv'
+# input_file = 'stis/stis_komplit.json'
+output_file = 'riwayat/90output_coba_iterasi_neighbour_aja.json'
+output_file_csv = 'riwayat/90output_coba_iterasi_neighbour_aja.csv'
+output_file_excel = 'riwayat/90output_coba_iterasi_neighbour_aja.xlsx'
+output_prof_load = 'riwayat/90load_prof_coba_iterasi_neighbour_aja.csv'
+output_classroom_load = 'riwayat/90load_classroom_coba_iterasi_neighbour_aja.csv'
+output_group_load = 'riwayat/90load_group_coba_iterasi_neighbour_aja.csv'
+output_cost = 'riwayat/90cost_coba_iterasi_neighbour_aja.csv'
 cost_function = cost_functions.cost
 cost_function2 = cost_functions.cost2
 
@@ -21,11 +23,13 @@ def evolutionary_algorithm():
     best_timetable = None
     chromosome = dt.load_data(input_file)
     neighbour = mutation.neighbour
+    df_cost = pd.DataFrame({"iteration": [], "cost": []})
+
     for i in range(num_runs):
         chromosome = dt.generate_chromosome(
             chromosome[0], chromosome[1], chromosome[2], chromosome[3])
 
-        for j in range(max_generations):
+        for j in range(3 * max_generations):
             new_chromosome = neighbour(deepcopy(chromosome))
             ft = cost_function(chromosome)
             if ft == 0:
@@ -35,6 +39,8 @@ def evolutionary_algorithm():
                 chromosome = new_chromosome
             if j % 200 == 0:
                 print('Iteration', j, 'cost', cost_function(chromosome))
+            df_cost = df_cost._append(
+                {"iteration": j, "cost": cost_function(chromosome)}, ignore_index=True)
 
         # print('Run', i + 1, 'cost', cost_function(chromosome),
         #       'chromosome', chromosome)
@@ -44,18 +50,20 @@ def evolutionary_algorithm():
 
     chromosome = best_timetable
 
-    neighbour2 = mutation.neighbour2
+    # neighbour2 = mutation.neighbour2
 
-    for j in range(3 * max_generations):
-        new_chromosome = neighbour2(deepcopy(chromosome))
-        ft = cost_function2(chromosome)
-        ftn = cost_function2(new_chromosome)
-        if ftn <= ft:
-            chromosome = new_chromosome
-        if j % 200 == 0:
-            print('Iteration', j, 'cost', cost_function2(chromosome))
-        if ft == 0:
-            break
+    # for j in range(3 * max_generations):
+    #     new_chromosome = neighbour2(deepcopy(chromosome))
+    #     ft = cost_function2(chromosome)
+    #     ftn = cost_function2(new_chromosome)
+    #     if ftn <= ft:
+    #         chromosome = new_chromosome
+    #     if j % 200 == 0:
+    #         print('Iteration', j, 'cost', cost_function2(chromosome))
+    #     if ft == 0:
+    #         break
+    # df_cost = df_cost._append(
+    # {"iteration": j, "cost": cost_function(chromosome)}, ignore_index=True)
 
     # print('Run', 'cost', cost_function2(chromosome), 'chromosome', chromosome)
 
@@ -223,6 +231,7 @@ def evolutionary_algorithm():
     dt.write_csv(df_classroom, output_classroom_load)
     dt.write_csv(df_group, output_group_load)
     dt.write_csv(chromosome[0], output_file_csv)
+    dt.write_csv(df_cost, output_cost)
 
     dt.write_excel(chromosome[0], output_file_excel)
 

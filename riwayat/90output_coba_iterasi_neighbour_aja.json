@@ -1,0 +1,5211 @@
+[
+    {
+        "groups": [
+            "1d31"
+        ],
+        "subject": "pengeko",
+        "type": "V",
+        "professor": "firdaus",
+        "duration": "3",
+        "Classroom": "334",
+        "Assigned_classroom": "334",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1d31"
+        ],
+        "subject": "alin",
+        "type": "V",
+        "professor": "lia yuliana",
+        "duration": "3",
+        "Classroom": "266",
+        "Assigned_classroom": "266",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1d31"
+        ],
+        "subject": "kalkulus",
+        "type": "V",
+        "professor": "Retnaningsih",
+        "duration": "3",
+        "Classroom": "257",
+        "Assigned_classroom": "257",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1d31"
+        ],
+        "subject": "pai",
+        "type": "V",
+        "professor": "muh syukur",
+        "duration": "3",
+        "Classroom": "344",
+        "Assigned_classroom": "344",
+        "Assigned_time": 0,
+        "Day": 0,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1d31"
+        ],
+        "subject": "metstat i",
+        "type": "V",
+        "professor": "siti muchlisoh",
+        "duration": "3",
+        "Classroom": "254",
+        "Assigned_classroom": "254",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1d31"
+        ],
+        "subject": "pengdemo",
+        "type": "V",
+        "professor": "sarni maniar",
+        "duration": "3",
+        "Classroom": "331",
+        "Assigned_classroom": "331",
+        "Assigned_time": 3,
+        "Day": 0,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1d32"
+        ],
+        "subject": "pengeko",
+        "type": "V",
+        "professor": "nucke",
+        "duration": "3",
+        "Classroom": "334",
+        "Assigned_classroom": "334",
+        "Assigned_time": 3,
+        "Day": 0,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1d32"
+        ],
+        "subject": "alin",
+        "type": "V",
+        "professor": "winih budiarti",
+        "duration": "3",
+        "Classroom": "336",
+        "Assigned_classroom": "336",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1d32"
+        ],
+        "subject": "kalkulus",
+        "type": "V",
+        "professor": "aisyah fitri yuniasih",
+        "duration": "3",
+        "Classroom": "266",
+        "Assigned_classroom": "266",
+        "Assigned_time": 36,
+        "Day": 4,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1d32"
+        ],
+        "subject": "pai",
+        "type": "V",
+        "professor": "rizka maulan",
+        "duration": "3",
+        "Classroom": "322",
+        "Assigned_classroom": "322",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1d32"
+        ],
+        "subject": "metstat i",
+        "type": "V",
+        "professor": "siti muchlisoh",
+        "duration": "3",
+        "Classroom": "336",
+        "Assigned_classroom": "336",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1d32"
+        ],
+        "subject": "pengdemo",
+        "type": "V",
+        "professor": "tri windiarto",
+        "duration": "3",
+        "Classroom": "252",
+        "Assigned_classroom": "252",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1d33"
+        ],
+        "subject": "pengeko",
+        "type": "V",
+        "professor": "ribut nurul",
+        "duration": "3",
+        "Classroom": "255",
+        "Assigned_classroom": "255",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1d33"
+        ],
+        "subject": "alin",
+        "type": "V",
+        "professor": "agus purwoto",
+        "duration": "3",
+        "Classroom": "253",
+        "Assigned_classroom": "253",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1d33"
+        ],
+        "subject": "kalkulus",
+        "type": "V",
+        "professor": "aisyah fitri yuniasih",
+        "duration": "3",
+        "Classroom": "251",
+        "Assigned_classroom": "251",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1d33"
+        ],
+        "subject": "pai",
+        "type": "V",
+        "professor": "rizka maulan",
+        "duration": "3",
+        "Classroom": "341",
+        "Assigned_classroom": "341",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1d33"
+        ],
+        "subject": "metstat i",
+        "type": "V",
+        "professor": "winih budiarti",
+        "duration": "3",
+        "Classroom": "267",
+        "Assigned_classroom": "267",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1d33"
+        ],
+        "subject": "pengdemo",
+        "type": "V",
+        "professor": "titik harsanti",
+        "duration": "3",
+        "Classroom": "328",
+        "Assigned_classroom": "328",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1ks1"
+        ],
+        "subject": "bing i",
+        "type": "V",
+        "professor": "ambarari",
+        "duration": "2",
+        "Classroom": "337",
+        "Assigned_classroom": "337",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2"
+    },
+    {
+        "groups": [
+            "1ks1"
+        ],
+        "subject": "metstat i",
+        "type": "V",
+        "professor": "robert kurniawan",
+        "duration": "3",
+        "Classroom": "328",
+        "Assigned_classroom": "328",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1ks1"
+        ],
+        "subject": "kalkulus",
+        "type": "V",
+        "professor": "bony parulian",
+        "duration": "3",
+        "Classroom": "257",
+        "Assigned_classroom": "257",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1ks1"
+        ],
+        "subject": "alin",
+        "type": "V",
+        "professor": "firdaus",
+        "duration": "3",
+        "Classroom": "264",
+        "Assigned_classroom": "264",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1ks1"
+        ],
+        "subject": "pengdemo",
+        "type": "V",
+        "professor": "titik harsanti",
+        "duration": "3",
+        "Classroom": "348",
+        "Assigned_classroom": "348",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1ks1"
+        ],
+        "subject": "pai",
+        "type": "V",
+        "professor": "sayid qutub",
+        "duration": "3",
+        "Classroom": "257",
+        "Assigned_classroom": "257",
+        "Assigned_time": 30,
+        "Day": 3,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1ks1"
+        ],
+        "subject": "pti",
+        "type": "V",
+        "professor": "ibnu santoso",
+        "duration": "3",
+        "Classroom": "264",
+        "Assigned_classroom": "264",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1ks2"
+        ],
+        "subject": "bing i",
+        "type": "V",
+        "professor": "yudi anjangsana",
+        "duration": "2",
+        "Classroom": "346",
+        "Assigned_classroom": "346",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2"
+    },
+    {
+        "groups": [
+            "1ks2"
+        ],
+        "subject": "metstat i",
+        "type": "V",
+        "professor": "robert kurniawan",
+        "duration": "3",
+        "Classroom": "256",
+        "Assigned_classroom": "256",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1ks2"
+        ],
+        "subject": "kalkulus",
+        "type": "V",
+        "professor": "bony parulian",
+        "duration": "3",
+        "Classroom": "253",
+        "Assigned_classroom": "253",
+        "Assigned_time": 2,
+        "Day": 0,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "1ks2"
+        ],
+        "subject": "alin",
+        "type": "V",
+        "professor": "firdaus",
+        "duration": "3",
+        "Classroom": "265",
+        "Assigned_classroom": "265",
+        "Assigned_time": 36,
+        "Day": 4,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1ks2"
+        ],
+        "subject": "pengdemo",
+        "type": "V",
+        "professor": "titik harsanti",
+        "duration": "3",
+        "Classroom": "334",
+        "Assigned_classroom": "334",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1ks2"
+        ],
+        "subject": "pai",
+        "type": "V",
+        "professor": "sayid qutub",
+        "duration": "3",
+        "Classroom": "253",
+        "Assigned_classroom": "253",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1ks2"
+        ],
+        "subject": "pti",
+        "type": "V",
+        "professor": "sekar rizky",
+        "duration": "3",
+        "Classroom": "263",
+        "Assigned_classroom": "263",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1ks3"
+        ],
+        "subject": "bing i",
+        "type": "V",
+        "professor": "rinda riztya",
+        "duration": "2",
+        "Classroom": "332",
+        "Assigned_classroom": "332",
+        "Assigned_time": 11,
+        "Day": 1,
+        "Sesi 1": "3",
+        "Sesi 2": "4"
+    },
+    {
+        "groups": [
+            "1ks3"
+        ],
+        "subject": "metstat i",
+        "type": "V",
+        "professor": "winih budiarti",
+        "duration": "3",
+        "Classroom": "332",
+        "Assigned_classroom": "332",
+        "Assigned_time": 39,
+        "Day": 4,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1ks3"
+        ],
+        "subject": "kalkulus",
+        "type": "V",
+        "professor": "christiana",
+        "duration": "3",
+        "Classroom": "267",
+        "Assigned_classroom": "267",
+        "Assigned_time": 30,
+        "Day": 3,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1ks3"
+        ],
+        "subject": "alin",
+        "type": "V",
+        "professor": "lia yuliana",
+        "duration": "3",
+        "Classroom": "335",
+        "Assigned_classroom": "335",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1ks3"
+        ],
+        "subject": "pengdemo",
+        "type": "V",
+        "professor": "jeffry",
+        "duration": "3",
+        "Classroom": "343",
+        "Assigned_classroom": "343",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1ks3"
+        ],
+        "subject": "pai",
+        "type": "V",
+        "professor": "ridwan yahya",
+        "duration": "3",
+        "Classroom": "254",
+        "Assigned_classroom": "254",
+        "Assigned_time": 2,
+        "Day": 0,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "1ks3"
+        ],
+        "subject": "pti",
+        "type": "V",
+        "professor": "dwy bagus",
+        "duration": "3",
+        "Classroom": "346",
+        "Assigned_classroom": "346",
+        "Assigned_time": 36,
+        "Day": 4,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1ks4"
+        ],
+        "subject": "bing i",
+        "type": "V",
+        "professor": "rinda riztya",
+        "duration": "2",
+        "Classroom": "332",
+        "Assigned_classroom": "332",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2"
+    },
+    {
+        "groups": [
+            "1ks4"
+        ],
+        "subject": "metstat i",
+        "type": "V",
+        "professor": "winih budiarti",
+        "duration": "3",
+        "Classroom": "321",
+        "Assigned_classroom": "321",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1ks4"
+        ],
+        "subject": "kalkulus",
+        "type": "V",
+        "professor": "neli agustina",
+        "duration": "3",
+        "Classroom": "263",
+        "Assigned_classroom": "263",
+        "Assigned_time": 2,
+        "Day": 0,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "1ks4"
+        ],
+        "subject": "alin",
+        "type": "V",
+        "professor": "lia yuliana",
+        "duration": "3",
+        "Classroom": "335",
+        "Assigned_classroom": "335",
+        "Assigned_time": 30,
+        "Day": 3,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1ks4"
+        ],
+        "subject": "pengdemo",
+        "type": "V",
+        "professor": "febri wicaksono",
+        "duration": "3",
+        "Classroom": "328",
+        "Assigned_classroom": "328",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1ks4"
+        ],
+        "subject": "pai",
+        "type": "V",
+        "professor": "sarbini anim",
+        "duration": "3",
+        "Classroom": "264",
+        "Assigned_classroom": "264",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1ks4"
+        ],
+        "subject": "pti",
+        "type": "V",
+        "professor": "sri herwanto",
+        "duration": "3",
+        "Classroom": "346",
+        "Assigned_classroom": "346",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1st1"
+        ],
+        "subject": "pengdemo",
+        "type": "V",
+        "professor": "sarni maniar",
+        "duration": "3",
+        "Classroom": "336",
+        "Assigned_classroom": "336",
+        "Assigned_time": 11,
+        "Day": 1,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "1st1"
+        ],
+        "subject": "kalkulus",
+        "type": "V",
+        "professor": "neli agustina",
+        "duration": "3",
+        "Classroom": "252",
+        "Assigned_classroom": "252",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1st1"
+        ],
+        "subject": "bing i",
+        "type": "V",
+        "professor": "ambarari",
+        "duration": "2",
+        "Classroom": "335",
+        "Assigned_classroom": "335",
+        "Assigned_time": 0,
+        "Day": 0,
+        "Sesi 1": "1",
+        "Sesi 2": "2"
+    },
+    {
+        "groups": [
+            "1st1"
+        ],
+        "subject": "alin",
+        "type": "V",
+        "professor": "liza kurnia",
+        "duration": "3",
+        "Classroom": "336",
+        "Assigned_classroom": "336",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1st1"
+        ],
+        "subject": "metstat i",
+        "type": "V",
+        "professor": "nofita istiana",
+        "duration": "3",
+        "Classroom": "253",
+        "Assigned_classroom": "253",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1st1"
+        ],
+        "subject": "pti",
+        "type": "V",
+        "professor": "ibnu santoso",
+        "duration": "3",
+        "Classroom": "332",
+        "Assigned_classroom": "332",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1st1"
+        ],
+        "subject": "pai",
+        "type": "V",
+        "professor": "muh syukur",
+        "duration": "3",
+        "Classroom": "322",
+        "Assigned_classroom": "322",
+        "Assigned_time": 36,
+        "Day": 4,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1st2"
+        ],
+        "subject": "pengdemo",
+        "type": "V",
+        "professor": "jeffry",
+        "duration": "3",
+        "Classroom": "343",
+        "Assigned_classroom": "343",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1st2"
+        ],
+        "subject": "kalkulus",
+        "type": "V",
+        "professor": "aisyah fitri yuniasih",
+        "duration": "3",
+        "Classroom": "331",
+        "Assigned_classroom": "331",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1st2"
+        ],
+        "subject": "bing i",
+        "type": "V",
+        "professor": "rinda riztya",
+        "duration": "2",
+        "Classroom": "331",
+        "Assigned_classroom": "331",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2"
+    },
+    {
+        "groups": [
+            "1st2"
+        ],
+        "subject": "alin",
+        "type": "V",
+        "professor": "liza kurnia",
+        "duration": "3",
+        "Classroom": "332",
+        "Assigned_classroom": "332",
+        "Assigned_time": 30,
+        "Day": 3,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1st2"
+        ],
+        "subject": "metstat i",
+        "type": "V",
+        "professor": "siti muchlisoh",
+        "duration": "3",
+        "Classroom": "254",
+        "Assigned_classroom": "254",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1st2"
+        ],
+        "subject": "pti",
+        "type": "V",
+        "professor": "waris marsisno",
+        "duration": "3",
+        "Classroom": "335",
+        "Assigned_classroom": "335",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1st2"
+        ],
+        "subject": "pai",
+        "type": "V",
+        "professor": "rizka maulan",
+        "duration": "3",
+        "Classroom": "344",
+        "Assigned_classroom": "344",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1st3"
+        ],
+        "subject": "pengdemo",
+        "type": "V",
+        "professor": "jeffry",
+        "duration": "3",
+        "Classroom": "341",
+        "Assigned_classroom": "341",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1st3"
+        ],
+        "subject": "kalkulus",
+        "type": "V",
+        "professor": "Retnaningsih",
+        "duration": "3",
+        "Classroom": "328",
+        "Assigned_classroom": "328",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1st3"
+        ],
+        "subject": "bing i",
+        "type": "V",
+        "professor": "komara suhendar",
+        "duration": "2",
+        "Classroom": "343",
+        "Assigned_classroom": "343",
+        "Assigned_time": 2,
+        "Day": 0,
+        "Sesi 1": "3",
+        "Sesi 2": "4"
+    },
+    {
+        "groups": [
+            "1st3"
+        ],
+        "subject": "alin",
+        "type": "V",
+        "professor": "lia yuliana",
+        "duration": "3",
+        "Classroom": "334",
+        "Assigned_classroom": "334",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1st3"
+        ],
+        "subject": "metstat i",
+        "type": "V",
+        "professor": "nofita istiana",
+        "duration": "3",
+        "Classroom": "253",
+        "Assigned_classroom": "253",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1st3"
+        ],
+        "subject": "pti",
+        "type": "V",
+        "professor": "erna nurmawati",
+        "duration": "3",
+        "Classroom": "253",
+        "Assigned_classroom": "253",
+        "Assigned_time": 30,
+        "Day": 3,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1st3"
+        ],
+        "subject": "pai",
+        "type": "V",
+        "professor": "abu tholhah",
+        "duration": "3",
+        "Classroom": "326",
+        "Assigned_classroom": "326",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1st4"
+        ],
+        "subject": "pengdemo",
+        "type": "V",
+        "professor": "febri wicaksono",
+        "duration": "3",
+        "Classroom": "344",
+        "Assigned_classroom": "344",
+        "Assigned_time": 11,
+        "Day": 1,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "1st4"
+        ],
+        "subject": "kalkulus",
+        "type": "V",
+        "professor": "nofita istiana",
+        "duration": "3",
+        "Classroom": "256",
+        "Assigned_classroom": "256",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1st4"
+        ],
+        "subject": "bing i",
+        "type": "V",
+        "professor": "anna dwi k",
+        "duration": "2",
+        "Classroom": "267",
+        "Assigned_classroom": "267",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2"
+    },
+    {
+        "groups": [
+            "1st4"
+        ],
+        "subject": "alin",
+        "type": "V",
+        "professor": "winih budiarti",
+        "duration": "3",
+        "Classroom": "348",
+        "Assigned_classroom": "348",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1st4"
+        ],
+        "subject": "metstat i",
+        "type": "V",
+        "professor": "liza kurnia",
+        "duration": "3",
+        "Classroom": "337",
+        "Assigned_classroom": "337",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1st4"
+        ],
+        "subject": "pti",
+        "type": "V",
+        "professor": "khairiyah rizkiyah",
+        "duration": "3",
+        "Classroom": "264",
+        "Assigned_classroom": "264",
+        "Assigned_time": 0,
+        "Day": 0,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1st4"
+        ],
+        "subject": "pai",
+        "type": "V",
+        "professor": "ridwan yahya",
+        "duration": "3",
+        "Classroom": "263",
+        "Assigned_classroom": "263",
+        "Assigned_time": 20,
+        "Day": 2,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "1st5"
+        ],
+        "subject": "pengdemo",
+        "type": "V",
+        "professor": "jeffry",
+        "duration": "3",
+        "Classroom": "346",
+        "Assigned_classroom": "346",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1st5"
+        ],
+        "subject": "kalkulus",
+        "type": "V",
+        "professor": "lia yuliana",
+        "duration": "3",
+        "Classroom": "267",
+        "Assigned_classroom": "267",
+        "Assigned_time": 2,
+        "Day": 0,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "1st5"
+        ],
+        "subject": "bing i",
+        "type": "V",
+        "professor": "yudi anjangsana",
+        "duration": "2",
+        "Classroom": "341",
+        "Assigned_classroom": "341",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2"
+    },
+    {
+        "groups": [
+            "1st5"
+        ],
+        "subject": "alin",
+        "type": "V",
+        "professor": "agus purwoto",
+        "duration": "3",
+        "Classroom": "263",
+        "Assigned_classroom": "263",
+        "Assigned_time": 30,
+        "Day": 3,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1st5"
+        ],
+        "subject": "metstat i",
+        "type": "V",
+        "professor": "liza kurnia",
+        "duration": "3",
+        "Classroom": "327",
+        "Assigned_classroom": "327",
+        "Assigned_time": 36,
+        "Day": 4,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1st5"
+        ],
+        "subject": "pti",
+        "type": "V",
+        "professor": "nano yulian",
+        "duration": "3",
+        "Classroom": "327",
+        "Assigned_classroom": "327",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1st5"
+        ],
+        "subject": "pai",
+        "type": "V",
+        "professor": "sarbini anim",
+        "duration": "3",
+        "Classroom": "262",
+        "Assigned_classroom": "262",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1st6"
+        ],
+        "subject": "pengdemo",
+        "type": "V",
+        "professor": "febri wicaksono",
+        "duration": "3",
+        "Classroom": "331",
+        "Assigned_classroom": "331",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1st6"
+        ],
+        "subject": "kalkulus",
+        "type": "V",
+        "professor": "nofita istiana",
+        "duration": "3",
+        "Classroom": "336",
+        "Assigned_classroom": "336",
+        "Assigned_time": 30,
+        "Day": 3,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1st6"
+        ],
+        "subject": "bing i",
+        "type": "V",
+        "professor": "komara suhendar",
+        "duration": "2",
+        "Classroom": "328",
+        "Assigned_classroom": "328",
+        "Assigned_time": 4,
+        "Day": 0,
+        "Sesi 1": "5",
+        "Sesi 2": "6"
+    },
+    {
+        "groups": [
+            "1st6"
+        ],
+        "subject": "alin",
+        "type": "V",
+        "professor": "agus purwoto",
+        "duration": "3",
+        "Classroom": "264",
+        "Assigned_classroom": "264",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1st6"
+        ],
+        "subject": "metstat i",
+        "type": "V",
+        "professor": "siti muchlisoh",
+        "duration": "3",
+        "Classroom": "323",
+        "Assigned_classroom": "323",
+        "Assigned_time": 36,
+        "Day": 4,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1st6"
+        ],
+        "subject": "pti",
+        "type": "V",
+        "professor": "erna nurmawati",
+        "duration": "3",
+        "Classroom": "344",
+        "Assigned_classroom": "344",
+        "Assigned_time": 20,
+        "Day": 2,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "1st6"
+        ],
+        "subject": "pai",
+        "type": "V",
+        "professor": "muh syukur",
+        "duration": "3",
+        "Classroom": "327",
+        "Assigned_classroom": "327",
+        "Assigned_time": 39,
+        "Day": 4,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1st7"
+        ],
+        "subject": "pengdemo",
+        "type": "V",
+        "professor": "titik harsanti",
+        "duration": "3",
+        "Classroom": "343",
+        "Assigned_classroom": "343",
+        "Assigned_time": 30,
+        "Day": 3,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1st7"
+        ],
+        "subject": "kalkulus",
+        "type": "V",
+        "professor": "aisyah fitri yuniasih",
+        "duration": "3",
+        "Classroom": "336",
+        "Assigned_classroom": "336",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "1st7"
+        ],
+        "subject": "bing i",
+        "type": "V",
+        "professor": "anna dwi k",
+        "duration": "2",
+        "Classroom": "254",
+        "Assigned_classroom": "254",
+        "Assigned_time": 0,
+        "Day": 0,
+        "Sesi 1": "1",
+        "Sesi 2": "2"
+    },
+    {
+        "groups": [
+            "1st7"
+        ],
+        "subject": "alin",
+        "type": "V",
+        "professor": "agus purwoto",
+        "duration": "3",
+        "Classroom": "262",
+        "Assigned_classroom": "262",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "1st7"
+        ],
+        "subject": "metstat i",
+        "type": "V",
+        "professor": "rini silvi",
+        "duration": "3",
+        "Classroom": "262",
+        "Assigned_classroom": "262",
+        "Assigned_time": 36,
+        "Day": 4,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1st7"
+        ],
+        "subject": "pti",
+        "type": "V",
+        "professor": "moh ari n",
+        "duration": "3",
+        "Classroom": "265",
+        "Assigned_classroom": "265",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "1st7"
+        ],
+        "subject": "pai",
+        "type": "V",
+        "professor": "abu tholhah",
+        "duration": "3",
+        "Classroom": "327",
+        "Assigned_classroom": "327",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2d31"
+        ],
+        "subject": "pengantar sig",
+        "type": "V",
+        "professor": "ernawati pasaribu",
+        "duration": "3",
+        "Classroom": "257",
+        "Assigned_classroom": "257",
+        "Assigned_time": 36,
+        "Day": 4,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2d31"
+        ],
+        "subject": "b ind",
+        "type": "V",
+        "professor": "marlina",
+        "duration": "3",
+        "Classroom": "328",
+        "Assigned_classroom": "328",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2d31"
+        ],
+        "subject": "metstat ii",
+        "type": "V",
+        "professor": "efri diah",
+        "duration": "3",
+        "Classroom": "322",
+        "Assigned_classroom": "322",
+        "Assigned_time": 30,
+        "Day": 3,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2d31"
+        ],
+        "subject": "basdat",
+        "type": "V",
+        "professor": "erna nurmawati",
+        "duration": "2",
+        "Classroom": "333",
+        "Assigned_classroom": "333",
+        "Assigned_time": 13,
+        "Day": 1,
+        "Sesi 1": "5",
+        "Sesi 2": "6"
+    },
+    {
+        "groups": [
+            "2d31"
+        ],
+        "subject": "tekkom",
+        "type": "V",
+        "professor": "avi r",
+        "duration": "3",
+        "Classroom": "323",
+        "Assigned_classroom": "323",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2d31"
+        ],
+        "subject": "offstat",
+        "type": "V",
+        "professor": "wahyudin",
+        "duration": "3",
+        "Classroom": "321",
+        "Assigned_classroom": "321",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2d31"
+        ],
+        "subject": "statmat ii",
+        "type": "V",
+        "professor": "wahyuni andriana",
+        "duration": "3",
+        "Classroom": "341",
+        "Assigned_classroom": "341",
+        "Assigned_time": 3,
+        "Day": 0,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2d31"
+        ],
+        "subject": "metode pengumpulan data",
+        "type": "V",
+        "professor": "achmad prasetyo",
+        "duration": "3",
+        "Classroom": "342",
+        "Assigned_classroom": "342",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2d32"
+        ],
+        "subject": "pengantar sig",
+        "type": "V",
+        "professor": "ernawati pasaribu",
+        "duration": "3",
+        "Classroom": "261",
+        "Assigned_classroom": "261",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2d32"
+        ],
+        "subject": "b ind",
+        "type": "V",
+        "professor": "reni oktaviani",
+        "duration": "3",
+        "Classroom": "324",
+        "Assigned_classroom": "324",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2d32"
+        ],
+        "subject": "metstat ii",
+        "type": "V",
+        "professor": "rini rahani",
+        "duration": "3",
+        "Classroom": "348",
+        "Assigned_classroom": "348",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2d32"
+        ],
+        "subject": "basdat",
+        "type": "V",
+        "professor": "erna nurmawati",
+        "duration": "2",
+        "Classroom": "347",
+        "Assigned_classroom": "347",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2"
+    },
+    {
+        "groups": [
+            "2d32"
+        ],
+        "subject": "tekkom",
+        "type": "V",
+        "professor": "aghnia kartika",
+        "duration": "3",
+        "Classroom": "348",
+        "Assigned_classroom": "348",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2d32"
+        ],
+        "subject": "offstat",
+        "type": "V",
+        "professor": "wahyuni andriana",
+        "duration": "3",
+        "Classroom": "321",
+        "Assigned_classroom": "321",
+        "Assigned_time": 36,
+        "Day": 4,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2d32"
+        ],
+        "subject": "statmat ii",
+        "type": "V",
+        "professor": "efri diah",
+        "duration": "3",
+        "Classroom": "252",
+        "Assigned_classroom": "252",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2d32"
+        ],
+        "subject": "metode pengumpulan data",
+        "type": "V",
+        "professor": "sukim",
+        "duration": "3",
+        "Classroom": "257",
+        "Assigned_classroom": "257",
+        "Assigned_time": 3,
+        "Day": 0,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2d33"
+        ],
+        "subject": "pengantar sig",
+        "type": "V",
+        "professor": "ernawati pasaribu",
+        "duration": "3",
+        "Classroom": "255",
+        "Assigned_classroom": "255",
+        "Assigned_time": 30,
+        "Day": 3,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2d33"
+        ],
+        "subject": "b ind",
+        "type": "V",
+        "professor": "marlina",
+        "duration": "3",
+        "Classroom": "325",
+        "Assigned_classroom": "325",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2d33"
+        ],
+        "subject": "metstat ii",
+        "type": "V",
+        "professor": "rini rahani",
+        "duration": "3",
+        "Classroom": "265",
+        "Assigned_classroom": "265",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2d33"
+        ],
+        "subject": "basdat",
+        "type": "V",
+        "professor": "erna nurmawati",
+        "duration": "2",
+        "Classroom": "254",
+        "Assigned_classroom": "254",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2"
+    },
+    {
+        "groups": [
+            "2d33"
+        ],
+        "subject": "tekkom",
+        "type": "V",
+        "professor": "agus pramono",
+        "duration": "3",
+        "Classroom": "334",
+        "Assigned_classroom": "334",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2d33"
+        ],
+        "subject": "offstat",
+        "type": "V",
+        "professor": "wahyudin",
+        "duration": "3",
+        "Classroom": "325",
+        "Assigned_classroom": "325",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2d33"
+        ],
+        "subject": "statmat ii",
+        "type": "V",
+        "professor": "efri diah",
+        "duration": "3",
+        "Classroom": "251",
+        "Assigned_classroom": "251",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2d33"
+        ],
+        "subject": "metode pengumpulan data",
+        "type": "V",
+        "professor": "sukim",
+        "duration": "3",
+        "Classroom": "267",
+        "Assigned_classroom": "267",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2ks1"
+        ],
+        "subject": "mps",
+        "type": "V",
+        "professor": "budyanra",
+        "duration": "3",
+        "Classroom": "254",
+        "Assigned_classroom": "254",
+        "Assigned_time": 30,
+        "Day": 3,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2ks1"
+        ],
+        "subject": "statmat ii",
+        "type": "V",
+        "professor": "bony parulian",
+        "duration": "3",
+        "Classroom": "322",
+        "Assigned_classroom": "322",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2ks1"
+        ],
+        "subject": "ppkn",
+        "type": "V",
+        "professor": "martini",
+        "duration": "3",
+        "Classroom": "265",
+        "Assigned_classroom": "265",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2ks1"
+        ],
+        "subject": "sig",
+        "type": "V",
+        "professor": "ernawati pasaribu",
+        "duration": "3",
+        "Classroom": "253",
+        "Assigned_classroom": "253",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2ks1"
+        ],
+        "subject": "metstat ii",
+        "type": "V",
+        "professor": "cucu sumarni",
+        "duration": "3",
+        "Classroom": "333",
+        "Assigned_classroom": "333",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2ks1"
+        ],
+        "subject": "basdat",
+        "type": "V",
+        "professor": "lutfi rahmatuti",
+        "duration": "3",
+        "Classroom": "326",
+        "Assigned_classroom": "326",
+        "Assigned_time": 36,
+        "Day": 4,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2ks1"
+        ],
+        "subject": "strukdat",
+        "type": "V",
+        "professor": "firdaus",
+        "duration": "3",
+        "Classroom": "251",
+        "Assigned_classroom": "251",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2ks2"
+        ],
+        "subject": "mps",
+        "type": "V",
+        "professor": "budyanra",
+        "duration": "3",
+        "Classroom": "265",
+        "Assigned_classroom": "265",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2ks2"
+        ],
+        "subject": "statmat ii",
+        "type": "V",
+        "professor": "bony parulian",
+        "duration": "3",
+        "Classroom": "325",
+        "Assigned_classroom": "325",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2ks2"
+        ],
+        "subject": "ppkn",
+        "type": "V",
+        "professor": "martini",
+        "duration": "3",
+        "Classroom": "257",
+        "Assigned_classroom": "257",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2ks2"
+        ],
+        "subject": "sig",
+        "type": "V",
+        "professor": "rindang bangun",
+        "duration": "3",
+        "Classroom": "255",
+        "Assigned_classroom": "255",
+        "Assigned_time": 36,
+        "Day": 4,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2ks2"
+        ],
+        "subject": "metstat ii",
+        "type": "V",
+        "professor": "cucu sumarni",
+        "duration": "3",
+        "Classroom": "335",
+        "Assigned_classroom": "335",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2ks2"
+        ],
+        "subject": "basdat",
+        "type": "V",
+        "professor": "lutfi rahmatuti",
+        "duration": "3",
+        "Classroom": "267",
+        "Assigned_classroom": "267",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2ks2"
+        ],
+        "subject": "strukdat",
+        "type": "V",
+        "professor": "firdaus",
+        "duration": "3",
+        "Classroom": "263",
+        "Assigned_classroom": "263",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2ks3"
+        ],
+        "subject": "mps",
+        "type": "V",
+        "professor": "achmad prasetyo",
+        "duration": "3",
+        "Classroom": "344",
+        "Assigned_classroom": "344",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2ks3"
+        ],
+        "subject": "statmat ii",
+        "type": "V",
+        "professor": "moh dokhi",
+        "duration": "3",
+        "Classroom": "336",
+        "Assigned_classroom": "336",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2ks3"
+        ],
+        "subject": "ppkn",
+        "type": "V",
+        "professor": "esti suntari",
+        "duration": "3",
+        "Classroom": "321",
+        "Assigned_classroom": "321",
+        "Assigned_time": 3,
+        "Day": 0,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2ks3"
+        ],
+        "subject": "sig",
+        "type": "V",
+        "professor": "rindang bangun",
+        "duration": "3",
+        "Classroom": "262",
+        "Assigned_classroom": "262",
+        "Assigned_time": 39,
+        "Day": 4,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2ks3"
+        ],
+        "subject": "metstat ii",
+        "type": "V",
+        "professor": "rani nooraeni",
+        "duration": "3",
+        "Classroom": "257",
+        "Assigned_classroom": "257",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2ks3"
+        ],
+        "subject": "basdat",
+        "type": "V",
+        "professor": "ratih ngestrini",
+        "duration": "3",
+        "Classroom": "335",
+        "Assigned_classroom": "335",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2ks3"
+        ],
+        "subject": "strukdat",
+        "type": "V",
+        "professor": "nori wilantika",
+        "duration": "3",
+        "Classroom": "323",
+        "Assigned_classroom": "323",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2ks4"
+        ],
+        "subject": "mps",
+        "type": "V",
+        "professor": "sukim",
+        "duration": "3",
+        "Classroom": "255",
+        "Assigned_classroom": "255",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2ks4"
+        ],
+        "subject": "statmat ii",
+        "type": "V",
+        "professor": "moh dokhi",
+        "duration": "3",
+        "Classroom": "335",
+        "Assigned_classroom": "335",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2ks4"
+        ],
+        "subject": "ppkn",
+        "type": "V",
+        "professor": "esti suntari",
+        "duration": "3",
+        "Classroom": "347",
+        "Assigned_classroom": "347",
+        "Assigned_time": 29,
+        "Day": 3,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "2ks4"
+        ],
+        "subject": "sig",
+        "type": "V",
+        "professor": "rindang bangun",
+        "duration": "3",
+        "Classroom": "333",
+        "Assigned_classroom": "333",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2ks4"
+        ],
+        "subject": "metstat ii",
+        "type": "V",
+        "professor": "rani nooraeni",
+        "duration": "3",
+        "Classroom": "263",
+        "Assigned_classroom": "263",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2ks4"
+        ],
+        "subject": "basdat",
+        "type": "V",
+        "professor": "farid ridho",
+        "duration": "3",
+        "Classroom": "338",
+        "Assigned_classroom": "338",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2ks4"
+        ],
+        "subject": "strukdat",
+        "type": "V",
+        "professor": "nori wilantika",
+        "duration": "3",
+        "Classroom": "262",
+        "Assigned_classroom": "262",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st1"
+        ],
+        "subject": "metsat ii",
+        "type": "V",
+        "professor": "efri diah",
+        "duration": "3",
+        "Classroom": "332",
+        "Assigned_classroom": "332",
+        "Assigned_time": 2,
+        "Day": 0,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "2st1"
+        ],
+        "subject": "snn",
+        "type": "V",
+        "professor": "anugerah karta",
+        "duration": "3",
+        "Classroom": "333",
+        "Assigned_classroom": "333",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st1"
+        ],
+        "subject": "offstat",
+        "type": "V",
+        "professor": "fitri kartiasih",
+        "duration": "3",
+        "Classroom": "342",
+        "Assigned_classroom": "342",
+        "Assigned_time": 20,
+        "Day": 2,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "2st1"
+        ],
+        "subject": "mps",
+        "type": "V",
+        "professor": "sukim",
+        "duration": "3",
+        "Classroom": "251",
+        "Assigned_classroom": "251",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2st1"
+        ],
+        "subject": "komstat",
+        "type": "V",
+        "professor": "robert kurniawan",
+        "duration": "3",
+        "Classroom": "262",
+        "Assigned_classroom": "262",
+        "Assigned_time": 29,
+        "Day": 3,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "2st1"
+        ],
+        "subject": "ppkn",
+        "type": "V",
+        "professor": "rika kartika",
+        "duration": "3",
+        "Classroom": "253",
+        "Assigned_classroom": "253",
+        "Assigned_time": 36,
+        "Day": 4,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2st1"
+        ],
+        "subject": "statmat ii",
+        "type": "V",
+        "professor": "timbang sirait",
+        "duration": "3",
+        "Classroom": "256",
+        "Assigned_classroom": "256",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st2"
+        ],
+        "subject": "metsat ii",
+        "type": "V",
+        "professor": "ekaria",
+        "duration": "3",
+        "Classroom": "327",
+        "Assigned_classroom": "327",
+        "Assigned_time": 30,
+        "Day": 3,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2st2"
+        ],
+        "subject": "snn",
+        "type": "V",
+        "professor": "krismanti tri",
+        "duration": "3",
+        "Classroom": "337",
+        "Assigned_classroom": "337",
+        "Assigned_time": 11,
+        "Day": 1,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "2st2"
+        ],
+        "subject": "offstat",
+        "type": "V",
+        "professor": "fitri kartiasih",
+        "duration": "3",
+        "Classroom": "328",
+        "Assigned_classroom": "328",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st2"
+        ],
+        "subject": "mps",
+        "type": "V",
+        "professor": "atik maratis",
+        "duration": "3",
+        "Classroom": "333",
+        "Assigned_classroom": "333",
+        "Assigned_time": 2,
+        "Day": 0,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "2st2"
+        ],
+        "subject": "komstat",
+        "type": "V",
+        "professor": "achmad syahrul",
+        "duration": "3",
+        "Classroom": "344",
+        "Assigned_classroom": "344",
+        "Assigned_time": 36,
+        "Day": 4,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2st2"
+        ],
+        "subject": "ppkn",
+        "type": "V",
+        "professor": "suryanto aloysius",
+        "duration": "3",
+        "Classroom": "257",
+        "Assigned_classroom": "257",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st2"
+        ],
+        "subject": "statmat ii",
+        "type": "V",
+        "professor": "moh dokhi",
+        "duration": "3",
+        "Classroom": "338",
+        "Assigned_classroom": "338",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2st3"
+        ],
+        "subject": "metsat ii",
+        "type": "V",
+        "professor": "timbang sirait",
+        "duration": "3",
+        "Classroom": "261",
+        "Assigned_classroom": "261",
+        "Assigned_time": 36,
+        "Day": 4,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2st3"
+        ],
+        "subject": "snn",
+        "type": "V",
+        "professor": "anugerah karta",
+        "duration": "3",
+        "Classroom": "332",
+        "Assigned_classroom": "332",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st3"
+        ],
+        "subject": "offstat",
+        "type": "V",
+        "professor": "wahyudin",
+        "duration": "3",
+        "Classroom": "332",
+        "Assigned_classroom": "332",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2st3"
+        ],
+        "subject": "mps",
+        "type": "V",
+        "professor": "achmad prasetyo",
+        "duration": "3",
+        "Classroom": "266",
+        "Assigned_classroom": "266",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st3"
+        ],
+        "subject": "komstat",
+        "type": "V",
+        "professor": "rindang bangun",
+        "duration": "3",
+        "Classroom": "346",
+        "Assigned_classroom": "346",
+        "Assigned_time": 29,
+        "Day": 3,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "2st3"
+        ],
+        "subject": "ppkn",
+        "type": "V",
+        "professor": "murni parembai",
+        "duration": "3",
+        "Classroom": "265",
+        "Assigned_classroom": "265",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2st3"
+        ],
+        "subject": "statmat ii",
+        "type": "V",
+        "professor": "azka ubaidillah",
+        "duration": "3",
+        "Classroom": "337",
+        "Assigned_classroom": "337",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st4"
+        ],
+        "subject": "metsat ii",
+        "type": "V",
+        "professor": "ekaria",
+        "duration": "3",
+        "Classroom": "325",
+        "Assigned_classroom": "325",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st4"
+        ],
+        "subject": "snn",
+        "type": "V",
+        "professor": "krismanti tri",
+        "duration": "3",
+        "Classroom": "323",
+        "Assigned_classroom": "323",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st4"
+        ],
+        "subject": "offstat",
+        "type": "V",
+        "professor": "wahyudin",
+        "duration": "3",
+        "Classroom": "338",
+        "Assigned_classroom": "338",
+        "Assigned_time": 36,
+        "Day": 4,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2st4"
+        ],
+        "subject": "mps",
+        "type": "V",
+        "professor": "I made arcana",
+        "duration": "3",
+        "Classroom": "326",
+        "Assigned_classroom": "326",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st4"
+        ],
+        "subject": "komstat",
+        "type": "V",
+        "professor": "arie wahyu w",
+        "duration": "3",
+        "Classroom": "326",
+        "Assigned_classroom": "326",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st4"
+        ],
+        "subject": "ppkn",
+        "type": "V",
+        "professor": "suryanto aloysius",
+        "duration": "3",
+        "Classroom": "256",
+        "Assigned_classroom": "256",
+        "Assigned_time": 20,
+        "Day": 2,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "2st4"
+        ],
+        "subject": "statmat ii",
+        "type": "V",
+        "professor": "timbang sirait",
+        "duration": "3",
+        "Classroom": "261",
+        "Assigned_classroom": "261",
+        "Assigned_time": 29,
+        "Day": 3,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "2st5"
+        ],
+        "subject": "metsat ii",
+        "type": "V",
+        "professor": "novi hidayat",
+        "duration": "3",
+        "Classroom": "253",
+        "Assigned_classroom": "253",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st5"
+        ],
+        "subject": "snn",
+        "type": "V",
+        "professor": "krismanti tri",
+        "duration": "3",
+        "Classroom": "264",
+        "Assigned_classroom": "264",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2st5"
+        ],
+        "subject": "offstat",
+        "type": "V",
+        "professor": "yuliagnis",
+        "duration": "3",
+        "Classroom": "334",
+        "Assigned_classroom": "334",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2st5"
+        ],
+        "subject": "mps",
+        "type": "V",
+        "professor": "atik maratis",
+        "duration": "3",
+        "Classroom": "332",
+        "Assigned_classroom": "332",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st5"
+        ],
+        "subject": "komstat",
+        "type": "V",
+        "professor": "budi yuniarto",
+        "duration": "3",
+        "Classroom": "267",
+        "Assigned_classroom": "267",
+        "Assigned_time": 36,
+        "Day": 4,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2st5"
+        ],
+        "subject": "ppkn",
+        "type": "V",
+        "professor": "murni parembai",
+        "duration": "3",
+        "Classroom": "255",
+        "Assigned_classroom": "255",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st5"
+        ],
+        "subject": "statmat ii",
+        "type": "V",
+        "professor": "erni tri astuti",
+        "duration": "3",
+        "Classroom": "262",
+        "Assigned_classroom": "262",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st6"
+        ],
+        "subject": "metsat ii",
+        "type": "V",
+        "professor": "novi hidayat",
+        "duration": "3",
+        "Classroom": "343",
+        "Assigned_classroom": "343",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st6"
+        ],
+        "subject": "snn",
+        "type": "V",
+        "professor": "krismanti tri",
+        "duration": "3",
+        "Classroom": "331",
+        "Assigned_classroom": "331",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2st6"
+        ],
+        "subject": "offstat",
+        "type": "V",
+        "professor": "sugiarto",
+        "duration": "3",
+        "Classroom": "341",
+        "Assigned_classroom": "341",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st6"
+        ],
+        "subject": "mps",
+        "type": "V",
+        "professor": "achmad prasetyo",
+        "duration": "3",
+        "Classroom": "338",
+        "Assigned_classroom": "338",
+        "Assigned_time": 30,
+        "Day": 3,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2st6"
+        ],
+        "subject": "komstat",
+        "type": "V",
+        "professor": "robert kurniawan",
+        "duration": "3",
+        "Classroom": "321",
+        "Assigned_classroom": "321",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st6"
+        ],
+        "subject": "ppkn",
+        "type": "V",
+        "professor": "suryanto aloysius",
+        "duration": "3",
+        "Classroom": "254",
+        "Assigned_classroom": "254",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2st6"
+        ],
+        "subject": "statmat ii",
+        "type": "V",
+        "professor": "moh dokhi",
+        "duration": "3",
+        "Classroom": "261",
+        "Assigned_classroom": "261",
+        "Assigned_time": 3,
+        "Day": 0,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2st7"
+        ],
+        "subject": "metsat ii",
+        "type": "V",
+        "professor": "timbang sirait",
+        "duration": "3",
+        "Classroom": "348",
+        "Assigned_classroom": "348",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st7"
+        ],
+        "subject": "snn",
+        "type": "V",
+        "professor": "krismanti tri",
+        "duration": "3",
+        "Classroom": "254",
+        "Assigned_classroom": "254",
+        "Assigned_time": 36,
+        "Day": 4,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2st7"
+        ],
+        "subject": "offstat",
+        "type": "V",
+        "professor": "wahyuni andriana",
+        "duration": "3",
+        "Classroom": "344",
+        "Assigned_classroom": "344",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "2st7"
+        ],
+        "subject": "mps",
+        "type": "V",
+        "professor": "I made arcana",
+        "duration": "3",
+        "Classroom": "328",
+        "Assigned_classroom": "328",
+        "Assigned_time": 30,
+        "Day": 3,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "2st7"
+        ],
+        "subject": "komstat",
+        "type": "V",
+        "professor": "achmad syahrul",
+        "duration": "3",
+        "Classroom": "324",
+        "Assigned_classroom": "324",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2st7"
+        ],
+        "subject": "ppkn",
+        "type": "V",
+        "professor": "rika kartika",
+        "duration": "3",
+        "Classroom": "266",
+        "Assigned_classroom": "266",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "2st7"
+        ],
+        "subject": "statmat ii",
+        "type": "V",
+        "professor": "azka ubaidillah",
+        "duration": "3",
+        "Classroom": "325",
+        "Assigned_classroom": "325",
+        "Assigned_time": 3,
+        "Day": 0,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3d31"
+        ],
+        "subject": "apg",
+        "type": "V",
+        "professor": "budi yuniarto",
+        "duration": "3",
+        "Classroom": "252",
+        "Assigned_classroom": "252",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "3d31"
+        ],
+        "subject": "metode peramalan",
+        "type": "V",
+        "professor": "neli agustina",
+        "duration": "3",
+        "Classroom": "256",
+        "Assigned_classroom": "256",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3d31"
+        ],
+        "subject": "analisis data",
+        "type": "V",
+        "professor": "agung priyo utomo",
+        "duration": "2",
+        "Classroom": "344",
+        "Assigned_classroom": "344",
+        "Assigned_time": 29,
+        "Day": 3,
+        "Sesi 1": "3",
+        "Sesi 2": "4"
+    },
+    {
+        "groups": [
+            "3d31"
+        ],
+        "subject": "msdm",
+        "type": "V",
+        "professor": "yaya setiadi",
+        "duration": "3",
+        "Classroom": "255",
+        "Assigned_classroom": "255",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3d32"
+        ],
+        "subject": "apg",
+        "type": "V",
+        "professor": "sarni maniar",
+        "duration": "3",
+        "Classroom": "334",
+        "Assigned_classroom": "334",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3d32"
+        ],
+        "subject": "metode peramalan",
+        "type": "V",
+        "professor": "neli agustina",
+        "duration": "3",
+        "Classroom": "252",
+        "Assigned_classroom": "252",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "3d32"
+        ],
+        "subject": "analisis data",
+        "type": "V",
+        "professor": "nasrudin",
+        "duration": "2",
+        "Classroom": "322",
+        "Assigned_classroom": "322",
+        "Assigned_time": 2,
+        "Day": 0,
+        "Sesi 1": "3",
+        "Sesi 2": "4"
+    },
+    {
+        "groups": [
+            "3d32"
+        ],
+        "subject": "msdm",
+        "type": "V",
+        "professor": "sugiarto",
+        "duration": "3",
+        "Classroom": "348",
+        "Assigned_classroom": "348",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3d33"
+        ],
+        "subject": "apg",
+        "type": "V",
+        "professor": "cucu sumarni",
+        "duration": "3",
+        "Classroom": "265",
+        "Assigned_classroom": "265",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3d33"
+        ],
+        "subject": "metode peramalan",
+        "type": "V",
+        "professor": "neli agustina",
+        "duration": "3",
+        "Classroom": "346",
+        "Assigned_classroom": "346",
+        "Assigned_time": 20,
+        "Day": 2,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "3d33"
+        ],
+        "subject": "analisis data",
+        "type": "V",
+        "professor": "agung priyo utomo",
+        "duration": "2",
+        "Classroom": "267",
+        "Assigned_classroom": "267",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8"
+    },
+    {
+        "groups": [
+            "3d33"
+        ],
+        "subject": "msdm",
+        "type": "V",
+        "professor": "yaya setiadi",
+        "duration": "3",
+        "Classroom": "256",
+        "Assigned_classroom": "256",
+        "Assigned_time": 3,
+        "Day": 0,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3d34"
+        ],
+        "subject": "apg",
+        "type": "V",
+        "professor": "sarni maniar",
+        "duration": "3",
+        "Classroom": "251",
+        "Assigned_classroom": "251",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "3d34"
+        ],
+        "subject": "metode peramalan",
+        "type": "V",
+        "professor": "Retnaningsih",
+        "duration": "3",
+        "Classroom": "337",
+        "Assigned_classroom": "337",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3d34"
+        ],
+        "subject": "analisis data",
+        "type": "V",
+        "professor": "nasrudin",
+        "duration": "2",
+        "Classroom": "261",
+        "Assigned_classroom": "261",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2"
+    },
+    {
+        "groups": [
+            "3d34"
+        ],
+        "subject": "msdm",
+        "type": "V",
+        "professor": "sugiarto",
+        "duration": "3",
+        "Classroom": "267",
+        "Assigned_classroom": "267",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3d35"
+        ],
+        "subject": "apg",
+        "type": "V",
+        "professor": "cucu sumarni",
+        "duration": "3",
+        "Classroom": "345",
+        "Assigned_classroom": "345",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3d35"
+        ],
+        "subject": "metode peramalan",
+        "type": "V",
+        "professor": "Retnaningsih",
+        "duration": "3",
+        "Classroom": "328",
+        "Assigned_classroom": "328",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3d35"
+        ],
+        "subject": "analisis data",
+        "type": "V",
+        "professor": "agung priyo utomo",
+        "duration": "2",
+        "Classroom": "326",
+        "Assigned_classroom": "326",
+        "Assigned_time": 22,
+        "Day": 2,
+        "Sesi 1": "5",
+        "Sesi 2": "6"
+    },
+    {
+        "groups": [
+            "3d35"
+        ],
+        "subject": "msdm",
+        "type": "V",
+        "professor": "yaya setiadi",
+        "duration": "3",
+        "Classroom": "254",
+        "Assigned_classroom": "254",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "3sd1"
+        ],
+        "subject": "information retrieval",
+        "type": "V",
+        "professor": "lya hulliyyatus",
+        "duration": "3",
+        "Classroom": "321",
+        "Assigned_classroom": "321",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "3sd1"
+        ],
+        "subject": "analisis runtun waktu",
+        "type": "V",
+        "professor": "fitri kartiasih",
+        "duration": "3",
+        "Classroom": "264",
+        "Assigned_classroom": "264",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3sd1"
+        ],
+        "subject": "offstat",
+        "type": "V",
+        "professor": "waris marsisno",
+        "duration": "3",
+        "Classroom": "338",
+        "Assigned_classroom": "338",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3sd1"
+        ],
+        "subject": "metpen",
+        "type": "V",
+        "professor": "setia pramana",
+        "duration": "3",
+        "Classroom": "257",
+        "Assigned_classroom": "257",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3sd1"
+        ],
+        "subject": "apg",
+        "type": "V",
+        "professor": "budi yuniarto",
+        "duration": "3",
+        "Classroom": "252",
+        "Assigned_classroom": "252",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3sd1"
+        ],
+        "subject": "rpl",
+        "type": "V",
+        "professor": "lya, nori, lutfi",
+        "duration": "3",
+        "Classroom": "264",
+        "Assigned_classroom": "264",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "3sd2"
+        ],
+        "subject": "information retrieval",
+        "type": "V",
+        "professor": "lya hulliyyatus",
+        "duration": "3",
+        "Classroom": "262",
+        "Assigned_classroom": "262",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "3sd2"
+        ],
+        "subject": "analisis runtun waktu",
+        "type": "V",
+        "professor": "fitri kartiasih",
+        "duration": "3",
+        "Classroom": "333",
+        "Assigned_classroom": "333",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3sd2"
+        ],
+        "subject": "offstat",
+        "type": "V",
+        "professor": "yuliagnis",
+        "duration": "3",
+        "Classroom": "333",
+        "Assigned_classroom": "333",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "3sd2"
+        ],
+        "subject": "metpen",
+        "type": "V",
+        "professor": "arie wahyu w",
+        "duration": "3",
+        "Classroom": "323",
+        "Assigned_classroom": "323",
+        "Assigned_time": 2,
+        "Day": 0,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "3sd2"
+        ],
+        "subject": "apg",
+        "type": "V",
+        "professor": "rani nooraeni",
+        "duration": "3",
+        "Classroom": "323",
+        "Assigned_classroom": "323",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "3sd2"
+        ],
+        "subject": "rpl",
+        "type": "V",
+        "professor": "lya, nori, lutfi",
+        "duration": "3",
+        "Classroom": "331",
+        "Assigned_classroom": "331",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3sd3"
+        ],
+        "subject": "information retrieval",
+        "type": "V",
+        "professor": "lya hulliyyatus",
+        "duration": "3",
+        "Classroom": "347",
+        "Assigned_classroom": "347",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3sd3"
+        ],
+        "subject": "analisis runtun waktu",
+        "type": "V",
+        "professor": "anugerah karta",
+        "duration": "3",
+        "Classroom": "252",
+        "Assigned_classroom": "252",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3sd3"
+        ],
+        "subject": "offstat",
+        "type": "V",
+        "professor": "yuliagnis",
+        "duration": "3",
+        "Classroom": "343",
+        "Assigned_classroom": "343",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3sd3"
+        ],
+        "subject": "metpen",
+        "type": "V",
+        "professor": "arie wahyu w",
+        "duration": "3",
+        "Classroom": "336",
+        "Assigned_classroom": "336",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3sd3"
+        ],
+        "subject": "apg",
+        "type": "V",
+        "professor": "achmad syahrul",
+        "duration": "3",
+        "Classroom": "264",
+        "Assigned_classroom": "264",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "3sd3"
+        ],
+        "subject": "rpl",
+        "type": "V",
+        "professor": "lya, nori, lutfi",
+        "duration": "3",
+        "Classroom": "261",
+        "Assigned_classroom": "261",
+        "Assigned_time": 0,
+        "Day": 0,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "3se1"
+        ],
+        "subject": "metpen",
+        "type": "V",
+        "professor": "nucke",
+        "duration": "3",
+        "Classroom": "252",
+        "Assigned_classroom": "252",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3se1"
+        ],
+        "subject": "apg",
+        "type": "V",
+        "professor": "ekaria",
+        "duration": "3",
+        "Classroom": "325",
+        "Assigned_classroom": "325",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3se1"
+        ],
+        "subject": "analisis runtun waktu",
+        "type": "V",
+        "professor": "budiasih",
+        "duration": "3",
+        "Classroom": "328",
+        "Assigned_classroom": "328",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3se1"
+        ],
+        "subject": "metsur",
+        "type": "V",
+        "professor": "atik maratis",
+        "duration": "3",
+        "Classroom": "336",
+        "Assigned_classroom": "336",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3se1"
+        ],
+        "subject": "analisis data kategorik",
+        "type": "V",
+        "professor": "agung priyo utomo",
+        "duration": "3",
+        "Classroom": "347",
+        "Assigned_classroom": "347",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3se1"
+        ],
+        "subject": "ekonomi mikro",
+        "type": "V",
+        "professor": "rita yuliana",
+        "duration": "3",
+        "Classroom": "336",
+        "Assigned_classroom": "336",
+        "Assigned_time": 3,
+        "Day": 0,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3se2"
+        ],
+        "subject": "metpen",
+        "type": "V",
+        "professor": "hardius usman",
+        "duration": "3",
+        "Classroom": "263",
+        "Assigned_classroom": "263",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3se2"
+        ],
+        "subject": "apg",
+        "type": "V",
+        "professor": "novi hidayat",
+        "duration": "3",
+        "Classroom": "255",
+        "Assigned_classroom": "255",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3se2"
+        ],
+        "subject": "analisis runtun waktu",
+        "type": "V",
+        "professor": "budiasih",
+        "duration": "3",
+        "Classroom": "327",
+        "Assigned_classroom": "327",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "3se2"
+        ],
+        "subject": "metsur",
+        "type": "V",
+        "professor": "budyanra",
+        "duration": "3",
+        "Classroom": "257",
+        "Assigned_classroom": "257",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3se2"
+        ],
+        "subject": "analisis data kategorik",
+        "type": "V",
+        "professor": "siskarossa",
+        "duration": "3",
+        "Classroom": "341",
+        "Assigned_classroom": "341",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3se2"
+        ],
+        "subject": "ekonomi mikro",
+        "type": "V",
+        "professor": "rita yuliana",
+        "duration": "3",
+        "Classroom": "346",
+        "Assigned_classroom": "346",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3se3"
+        ],
+        "subject": "metpen",
+        "type": "V",
+        "professor": "siskarossa",
+        "duration": "3",
+        "Classroom": "337",
+        "Assigned_classroom": "337",
+        "Assigned_time": 29,
+        "Day": 3,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "3se3"
+        ],
+        "subject": "apg",
+        "type": "V",
+        "professor": "azka ubaidillah",
+        "duration": "3",
+        "Classroom": "335",
+        "Assigned_classroom": "335",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3se3"
+        ],
+        "subject": "analisis runtun waktu",
+        "type": "V",
+        "professor": "nasrudin",
+        "duration": "3",
+        "Classroom": "321",
+        "Assigned_classroom": "321",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3se3"
+        ],
+        "subject": "metsur",
+        "type": "V",
+        "professor": "I made arcana",
+        "duration": "3",
+        "Classroom": "333",
+        "Assigned_classroom": "333",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3se3"
+        ],
+        "subject": "analisis data kategorik",
+        "type": "V",
+        "professor": "rini rahani",
+        "duration": "3",
+        "Classroom": "342",
+        "Assigned_classroom": "342",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3se3"
+        ],
+        "subject": "ekonomi mikro",
+        "type": "V",
+        "professor": "budiasih",
+        "duration": "3",
+        "Classroom": "327",
+        "Assigned_classroom": "327",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "3si1"
+        ],
+        "subject": "rpl",
+        "type": "V",
+        "professor": "yeni, lya, nori, lutfi",
+        "duration": "3",
+        "Classroom": "327",
+        "Assigned_classroom": "327",
+        "Assigned_time": 2,
+        "Day": 0,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "3si1"
+        ],
+        "subject": "ppk",
+        "type": "V",
+        "professor": "ibnu santoso",
+        "duration": "3",
+        "Classroom": "338",
+        "Assigned_classroom": "338",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3si1"
+        ],
+        "subject": "apg",
+        "type": "V",
+        "professor": "budi yuniarto",
+        "duration": "3",
+        "Classroom": "266",
+        "Assigned_classroom": "266",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3si1"
+        ],
+        "subject": "offstat",
+        "type": "V",
+        "professor": "waris marsisno",
+        "duration": "3",
+        "Classroom": "326",
+        "Assigned_classroom": "326",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3si1"
+        ],
+        "subject": "sisjarkomdat",
+        "type": "V",
+        "professor": "farid ridho",
+        "duration": "3",
+        "Classroom": "324",
+        "Assigned_classroom": "324",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3si1"
+        ],
+        "subject": "metpen",
+        "type": "V",
+        "professor": "novianto budi k",
+        "duration": "3",
+        "Classroom": "265",
+        "Assigned_classroom": "265",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3si2"
+        ],
+        "subject": "rpl",
+        "type": "V",
+        "professor": "lya, nori, lutfi",
+        "duration": "3",
+        "Classroom": "347",
+        "Assigned_classroom": "347",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "3si2"
+        ],
+        "subject": "ppk",
+        "type": "V",
+        "professor": "ibnu santoso",
+        "duration": "3",
+        "Classroom": "345",
+        "Assigned_classroom": "345",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3si2"
+        ],
+        "subject": "apg",
+        "type": "V",
+        "professor": "rani nooraeni",
+        "duration": "3",
+        "Classroom": "266",
+        "Assigned_classroom": "266",
+        "Assigned_time": 3,
+        "Day": 0,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3si2"
+        ],
+        "subject": "offstat",
+        "type": "V",
+        "professor": "waris marsisno",
+        "duration": "3",
+        "Classroom": "343",
+        "Assigned_classroom": "343",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3si2"
+        ],
+        "subject": "sisjarkomdat",
+        "type": "V",
+        "professor": "farid ridho",
+        "duration": "3",
+        "Classroom": "334",
+        "Assigned_classroom": "334",
+        "Assigned_time": 29,
+        "Day": 3,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "3si2"
+        ],
+        "subject": "metpen",
+        "type": "V",
+        "professor": "yunarso anang",
+        "duration": "3",
+        "Classroom": "262",
+        "Assigned_classroom": "262",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3si3"
+        ],
+        "subject": "rpl",
+        "type": "V",
+        "professor": "lya, nori, lutfi",
+        "duration": "3",
+        "Classroom": "331",
+        "Assigned_classroom": "331",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3si3"
+        ],
+        "subject": "ppk",
+        "type": "V",
+        "professor": "mutaqin",
+        "duration": "3",
+        "Classroom": "325",
+        "Assigned_classroom": "325",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3si3"
+        ],
+        "subject": "apg",
+        "type": "V",
+        "professor": "achmad syahrul",
+        "duration": "3",
+        "Classroom": "251",
+        "Assigned_classroom": "251",
+        "Assigned_time": 3,
+        "Day": 0,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3si3"
+        ],
+        "subject": "offstat",
+        "type": "V",
+        "professor": "yuliagnis",
+        "duration": "3",
+        "Classroom": "335",
+        "Assigned_classroom": "335",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "3si3"
+        ],
+        "subject": "sisjarkomdat",
+        "type": "V",
+        "professor": "farid ridho",
+        "duration": "3",
+        "Classroom": "261",
+        "Assigned_classroom": "261",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3si3"
+        ],
+        "subject": "metpen",
+        "type": "V",
+        "professor": "arie wahyu w",
+        "duration": "3",
+        "Classroom": "322",
+        "Assigned_classroom": "322",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "3sk1"
+        ],
+        "subject": "metsur",
+        "type": "V",
+        "professor": "budyanra",
+        "duration": "3",
+        "Classroom": "254",
+        "Assigned_classroom": "254",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3sk1"
+        ],
+        "subject": "analisis data kategorik",
+        "type": "V",
+        "professor": "rini rahani",
+        "duration": "3",
+        "Classroom": "261",
+        "Assigned_classroom": "261",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3sk1"
+        ],
+        "subject": "analisis runtun waktu",
+        "type": "V",
+        "professor": "budiasih",
+        "duration": "3",
+        "Classroom": "325",
+        "Assigned_classroom": "325",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3sk1"
+        ],
+        "subject": "teknik demografi",
+        "type": "V",
+        "professor": "tiodora",
+        "duration": "3",
+        "Classroom": "321",
+        "Assigned_classroom": "321",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "3sk1"
+        ],
+        "subject": "apg",
+        "type": "V",
+        "professor": "ekaria",
+        "duration": "3",
+        "Classroom": "324",
+        "Assigned_classroom": "324",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3sk1"
+        ],
+        "subject": "metpen",
+        "type": "V",
+        "professor": "siskarossa",
+        "duration": "3",
+        "Classroom": "265",
+        "Assigned_classroom": "265",
+        "Assigned_time": 3,
+        "Day": 0,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3sk2"
+        ],
+        "subject": "metsur",
+        "type": "V",
+        "professor": "atik maratis",
+        "duration": "3",
+        "Classroom": "263",
+        "Assigned_classroom": "263",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "3sk2"
+        ],
+        "subject": "analisis data kategorik",
+        "type": "V",
+        "professor": "siskarossa",
+        "duration": "3",
+        "Classroom": "347",
+        "Assigned_classroom": "347",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3sk2"
+        ],
+        "subject": "analisis runtun waktu",
+        "type": "V",
+        "professor": "nasrudin",
+        "duration": "3",
+        "Classroom": "265",
+        "Assigned_classroom": "265",
+        "Assigned_time": 30,
+        "Day": 3,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3sk2"
+        ],
+        "subject": "teknik demografi",
+        "type": "V",
+        "professor": "tiodora",
+        "duration": "3",
+        "Classroom": "255",
+        "Assigned_classroom": "255",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3sk2"
+        ],
+        "subject": "apg",
+        "type": "V",
+        "professor": "azka ubaidillah",
+        "duration": "3",
+        "Classroom": "264",
+        "Assigned_classroom": "264",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3sk2"
+        ],
+        "subject": "metpen",
+        "type": "V",
+        "professor": "nucke",
+        "duration": "3",
+        "Classroom": "254",
+        "Assigned_classroom": "254",
+        "Assigned_time": 21,
+        "Day": 2,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3sk3"
+        ],
+        "subject": "metsur",
+        "type": "V",
+        "professor": "I made arcana",
+        "duration": "3",
+        "Classroom": "256",
+        "Assigned_classroom": "256",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3sk3"
+        ],
+        "subject": "analisis data kategorik",
+        "type": "V",
+        "professor": "agung priyo utomo",
+        "duration": "3",
+        "Classroom": "322",
+        "Assigned_classroom": "322",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3sk3"
+        ],
+        "subject": "analisis runtun waktu",
+        "type": "V",
+        "professor": "nasrudin",
+        "duration": "3",
+        "Classroom": "331",
+        "Assigned_classroom": "331",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "3sk3"
+        ],
+        "subject": "teknik demografi",
+        "type": "V",
+        "professor": "tiodora",
+        "duration": "3",
+        "Classroom": "338",
+        "Assigned_classroom": "338",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "3sk3"
+        ],
+        "subject": "apg",
+        "type": "V",
+        "professor": "novi hidayat",
+        "duration": "3",
+        "Classroom": "256",
+        "Assigned_classroom": "256",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "3sk3"
+        ],
+        "subject": "metpen",
+        "type": "V",
+        "professor": "nucke",
+        "duration": "3",
+        "Classroom": "342",
+        "Assigned_classroom": "342",
+        "Assigned_time": 29,
+        "Day": 3,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "4sd1"
+        ],
+        "subject": "msdm",
+        "type": "V",
+        "professor": "artha satwika",
+        "duration": "3",
+        "Classroom": "327",
+        "Assigned_classroom": "327",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "4sd1"
+        ],
+        "subject": "tekkom",
+        "type": "V",
+        "professor": "kunti puspitasari",
+        "duration": "3",
+        "Classroom": "262",
+        "Assigned_classroom": "262",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "4sd1"
+        ],
+        "subject": "msdm",
+        "type": "V",
+        "professor": "artha satwika",
+        "duration": "3",
+        "Classroom": "266",
+        "Assigned_classroom": "266",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "4sd1"
+        ],
+        "subject": "tekkom",
+        "type": "V",
+        "professor": "kunti puspitasari",
+        "duration": "3",
+        "Classroom": "252",
+        "Assigned_classroom": "252",
+        "Assigned_time": 36,
+        "Day": 4,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "4sd2"
+        ],
+        "subject": "msdm",
+        "type": "V",
+        "professor": "bambang nurcahyo",
+        "duration": "3",
+        "Classroom": "255",
+        "Assigned_classroom": "255",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "4sd2"
+        ],
+        "subject": "tekkom",
+        "type": "V",
+        "professor": "irawati diah astuti",
+        "duration": "3",
+        "Classroom": "266",
+        "Assigned_classroom": "266",
+        "Assigned_time": 30,
+        "Day": 3,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "4sd2"
+        ],
+        "subject": "msdm",
+        "type": "V",
+        "professor": "bambang nurcahyo",
+        "duration": "3",
+        "Classroom": "336",
+        "Assigned_classroom": "336",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "4sd2"
+        ],
+        "subject": "tekkom",
+        "type": "V",
+        "professor": "irawati diah astuti",
+        "duration": "3",
+        "Classroom": "257",
+        "Assigned_classroom": "257",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "4se1"
+        ],
+        "subject": "kapita selekta eko",
+        "type": "V",
+        "professor": "rita yuliana",
+        "duration": "2",
+        "Classroom": "253",
+        "Assigned_classroom": "253",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8"
+    },
+    {
+        "groups": [
+            "4se1"
+        ],
+        "subject": "kapita selekta eko",
+        "type": "V",
+        "professor": "rita yuliana",
+        "duration": "2",
+        "Classroom": "266",
+        "Assigned_classroom": "266",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8"
+    },
+    {
+        "groups": [
+            "4se2"
+        ],
+        "subject": "kapita selekta eko",
+        "type": "V",
+        "professor": "rita yuliana",
+        "duration": "2",
+        "Classroom": "328",
+        "Assigned_classroom": "328",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8"
+    },
+    {
+        "groups": [
+            "4se2"
+        ],
+        "subject": "kapita selekta eko",
+        "type": "V",
+        "professor": "rita yuliana",
+        "duration": "2",
+        "Classroom": "333",
+        "Assigned_classroom": "333",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2"
+    },
+    {
+        "groups": [
+            "4se3"
+        ],
+        "subject": "kapita selekta eko",
+        "type": "V",
+        "professor": "rita yuliana",
+        "duration": "2",
+        "Classroom": "332",
+        "Assigned_classroom": "332",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8"
+    },
+    {
+        "groups": [
+            "4se3"
+        ],
+        "subject": "kapita selekta eko",
+        "type": "V",
+        "professor": "rita yuliana",
+        "duration": "2",
+        "Classroom": "342",
+        "Assigned_classroom": "342",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2"
+    },
+    {
+        "groups": [
+            "4se4"
+        ],
+        "subject": "kapita selekta eko",
+        "type": "V",
+        "professor": "ribut nurul",
+        "duration": "2",
+        "Classroom": "337",
+        "Assigned_classroom": "337",
+        "Assigned_time": 20,
+        "Day": 2,
+        "Sesi 1": "3",
+        "Sesi 2": "4"
+    },
+    {
+        "groups": [
+            "4se4"
+        ],
+        "subject": "kapita selekta eko",
+        "type": "V",
+        "professor": "ribut nurul",
+        "duration": "2",
+        "Classroom": "343",
+        "Assigned_classroom": "343",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2"
+    },
+    {
+        "groups": [
+            "4se5"
+        ],
+        "subject": "kapita selekta eko",
+        "type": "V",
+        "professor": "ribut nurul",
+        "duration": "2",
+        "Classroom": "343",
+        "Assigned_classroom": "343",
+        "Assigned_time": 33,
+        "Day": 3,
+        "Sesi 1": "7",
+        "Sesi 2": "8"
+    },
+    {
+        "groups": [
+            "4se5"
+        ],
+        "subject": "kapita selekta eko",
+        "type": "V",
+        "professor": "ribut nurul",
+        "duration": "2",
+        "Classroom": "322",
+        "Assigned_classroom": "322",
+        "Assigned_time": 42,
+        "Day": 4,
+        "Sesi 1": "7",
+        "Sesi 2": "8"
+    },
+    {
+        "groups": [
+            "4si1"
+        ],
+        "subject": "msdm",
+        "type": "V",
+        "professor": "yaya setiadi",
+        "duration": "3",
+        "Classroom": "251",
+        "Assigned_classroom": "251",
+        "Assigned_time": 30,
+        "Day": 3,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "4si1"
+        ],
+        "subject": "tekkom",
+        "type": "V",
+        "professor": "avi r",
+        "duration": "3",
+        "Classroom": "327",
+        "Assigned_classroom": "327",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "4si1"
+        ],
+        "subject": "msdm",
+        "type": "V",
+        "professor": "yaya setiadi",
+        "duration": "3",
+        "Classroom": "321",
+        "Assigned_classroom": "321",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "4si1"
+        ],
+        "subject": "tekkom",
+        "type": "V",
+        "professor": "avi r",
+        "duration": "3",
+        "Classroom": "257",
+        "Assigned_classroom": "257",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "4si2"
+        ],
+        "subject": "msdm",
+        "type": "V",
+        "professor": "sugiarto",
+        "duration": "3",
+        "Classroom": "266",
+        "Assigned_classroom": "266",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "4si2"
+        ],
+        "subject": "tekkom",
+        "type": "V",
+        "professor": "aghnia kartika",
+        "duration": "3",
+        "Classroom": "323",
+        "Assigned_classroom": "323",
+        "Assigned_time": 29,
+        "Day": 3,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "4si2"
+        ],
+        "subject": "msdm",
+        "type": "V",
+        "professor": "sugiarto",
+        "duration": "3",
+        "Classroom": "255",
+        "Assigned_classroom": "255",
+        "Assigned_time": 2,
+        "Day": 0,
+        "Sesi 1": "3",
+        "Sesi 2": "4",
+        "Sesi 3": "5"
+    },
+    {
+        "groups": [
+            "4si2"
+        ],
+        "subject": "tekkom",
+        "type": "V",
+        "professor": "aghnia kartika",
+        "duration": "3",
+        "Classroom": "324",
+        "Assigned_classroom": "324",
+        "Assigned_time": 12,
+        "Day": 1,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "4si3"
+        ],
+        "subject": "msdm",
+        "type": "V",
+        "professor": "luci wulansari",
+        "duration": "3",
+        "Classroom": "334",
+        "Assigned_classroom": "334",
+        "Assigned_time": 18,
+        "Day": 2,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "4si3"
+        ],
+        "subject": "tekkom",
+        "type": "V",
+        "professor": "oki heryanto",
+        "duration": "3",
+        "Classroom": "324",
+        "Assigned_classroom": "324",
+        "Assigned_time": 15,
+        "Day": 1,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    {
+        "groups": [
+            "4si3"
+        ],
+        "subject": "msdm",
+        "type": "V",
+        "professor": "luci wulansari",
+        "duration": "3",
+        "Classroom": "348",
+        "Assigned_classroom": "348",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2",
+        "Sesi 3": "3"
+    },
+    {
+        "groups": [
+            "4si3"
+        ],
+        "subject": "tekkom",
+        "type": "V",
+        "professor": "oki heryanto",
+        "duration": "3",
+        "Classroom": "324",
+        "Assigned_classroom": "324",
+        "Assigned_time": 30,
+        "Day": 3,
+        "Sesi 1": "4",
+        "Sesi 2": "5",
+        "Sesi 3": "6"
+    },
+    {
+        "groups": [
+            "4sk1"
+        ],
+        "subject": "kapita selekta pddk",
+        "type": "V",
+        "professor": "tiodora",
+        "duration": "2",
+        "Classroom": "333",
+        "Assigned_classroom": "333",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8"
+    },
+    {
+        "groups": [
+            "4sk1"
+        ],
+        "subject": "kapita selekta pddk",
+        "type": "V",
+        "professor": "tiodora",
+        "duration": "2",
+        "Classroom": "264",
+        "Assigned_classroom": "264",
+        "Assigned_time": 4,
+        "Day": 0,
+        "Sesi 1": "5",
+        "Sesi 2": "6"
+    },
+    {
+        "groups": [
+            "4sk2"
+        ],
+        "subject": "kapita selekta pddk",
+        "type": "V",
+        "professor": "tiodora",
+        "duration": "2",
+        "Classroom": "323",
+        "Assigned_classroom": "323",
+        "Assigned_time": 27,
+        "Day": 3,
+        "Sesi 1": "1",
+        "Sesi 2": "2"
+    },
+    {
+        "groups": [
+            "4sk2"
+        ],
+        "subject": "kapita selekta pddk",
+        "type": "V",
+        "professor": "tiodora",
+        "duration": "2",
+        "Classroom": "343",
+        "Assigned_classroom": "343",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2"
+    },
+    {
+        "groups": [
+            "4sk3"
+        ],
+        "subject": "kapita selekta pddk",
+        "type": "V",
+        "professor": "febri wicaksono",
+        "duration": "2",
+        "Classroom": "345",
+        "Assigned_classroom": "345",
+        "Assigned_time": 2,
+        "Day": 0,
+        "Sesi 1": "3",
+        "Sesi 2": "4"
+    },
+    {
+        "groups": [
+            "4sk3"
+        ],
+        "subject": "kapita selekta pddk",
+        "type": "V",
+        "professor": "febri wicaksono",
+        "duration": "2",
+        "Classroom": "253",
+        "Assigned_classroom": "253",
+        "Assigned_time": 6,
+        "Day": 0,
+        "Sesi 1": "7",
+        "Sesi 2": "8"
+    },
+    {
+        "groups": [
+            "4sk4"
+        ],
+        "subject": "kapita selekta pddk",
+        "type": "V",
+        "professor": "febri wicaksono",
+        "duration": "2",
+        "Classroom": "325",
+        "Assigned_classroom": "325",
+        "Assigned_time": 29,
+        "Day": 3,
+        "Sesi 1": "3",
+        "Sesi 2": "4"
+    },
+    {
+        "groups": [
+            "4sk4"
+        ],
+        "subject": "kapita selekta pddk",
+        "type": "V",
+        "professor": "febri wicaksono",
+        "duration": "2",
+        "Classroom": "337",
+        "Assigned_classroom": "337",
+        "Assigned_time": 9,
+        "Day": 1,
+        "Sesi 1": "1",
+        "Sesi 2": "2"
+    },
+    {
+        "groups": [
+            "4sk5"
+        ],
+        "subject": "kapita selekta pddk",
+        "type": "V",
+        "professor": "irdam ahmad",
+        "duration": "2",
+        "Classroom": "262",
+        "Assigned_classroom": "262",
+        "Assigned_time": 4,
+        "Day": 0,
+        "Sesi 1": "5",
+        "Sesi 2": "6"
+    },
+    {
+        "groups": [
+            "4sk5"
+        ],
+        "subject": "kapita selekta pddk",
+        "type": "V",
+        "professor": "irdam ahmad",
+        "duration": "2",
+        "Classroom": "261",
+        "Assigned_classroom": "261",
+        "Assigned_time": 11,
+        "Day": 1,
+        "Sesi 1": "3",
+        "Sesi 2": "4"
+    }
+]
