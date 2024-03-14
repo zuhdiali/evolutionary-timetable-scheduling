@@ -1,0 +1,11 @@
+objek,data,cost,load,keterangan
+professor,achmad syahrul,2.0,0.0,pelanggaran constraint
+professor,ernawati pasaribu,0.0,0.0,pelanggaran constraint
+professor,febri wicaksono,3.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,liza kurnia,0.0,0.0,pelanggaran constraint
+professor,rindang bangun,0.0,0.0,pelanggaran constraint
+professor,rita yuliana,6.0,0.0,pelanggaran preferensi waktu
+professor,rizka maulan,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,robert kurniawan,0.0,0.0,pelanggaran constraint
+professor,tiodora,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,tiodora,0.0,1.0,pelanggaran preferensi waktu

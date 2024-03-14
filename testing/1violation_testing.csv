@@ -1,0 +1,13 @@
+objek,data,cost,load,keterangan
+group,1st7,0.0,0.0,bentrok jadwal pada hari 1 sesi 3
+group,2st3,0.0,0.0,bentrok jadwal pada hari 2 sesi 4
+group,2st3,0.0,0.0,bentrok jadwal pada hari 2 sesi 5
+professor,abu tholhah,0.0,0.0,pelanggaran preferensi waktu
+professor,I made arcana,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,"lya, nori, lutfi",2.0,0.0,pelanggaran constraint
+professor,moh dokhi,2.0,0.0,pelanggaran constraint
+professor,murni parembai,1.0,0.0,pelanggaran preferensi waktu
+professor,neli agustina,1.0,0.0,pelanggaran constraint
+professor,ridwan yahya,0.0,0.0,pelanggaran preferensi waktu
+professor,rizka maulan,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,robert kurniawan,1.0,0.0,pelanggaran constraint

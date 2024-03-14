@@ -1,21 +1,187 @@
+//  profavailable
 {
-  "2 Blok": {...
+  "2 Blok": { ...
   },
   "3 Blok": {
     "abu tholhah": [9, 11, 27, 29],
     "achmad prasetyo": [
-      0, 2, 3, 6, 18, 20, 21, 24, 27, 29, 30, 33, 36, 38, 39, 42
+      2, 3, 6, 18, 20, 21, 24, 27, 29, 30, 33, 36, 38, 39, 42
     ],
     "achmad syahrul": [
-      0, 2, 3, 6, 9, 11, 12, 15, 18, 20, 21, 24, 27, 29, 30, 33, 36, 38, 39, 42
-    ]
-  ...
-  }
+      2, 3, 6, 9, 11, 12, 15, 18, 20, 21, 24, 27, 29, 30, 33, 36, 38, 39, 42
+    ],
+    "aghnia kartika": [11, 12, 20, 21, 29, 30, 33],
+    ...
 }
 
 
+//  constraint
+[
+  {
+  "keterangan":  "Jum'atan",
+  "key":  "professor",
+  "jenisConstraint":  "Tidak  Boleh",
+  "isAll":  true,
+  "data":  [],
+  "session":  [40,  41]
+  },
+  {
+  "keterangan":  "PKL  DIII",
+  "key":  "group",
+  "jenisConstraint":  "Tidak  Boleh",
+  "isAll":  false,
+  "data":  ["3d31",  "3d32",  "3d33",  "3d34",  "3d35"],
+  "session":  [
+  27,  28,  29,  30,  31,  32,  33,  34,  35,  36,  37,  38,  39,  40,  41,  42,  43,  44
+  ]
+  },
+  ...
+]
+
+//  dosen
+{
+  "abu  tholhah":  [
+  99,  99,  99,  99,  99,  99,  99,  99,  99,  0,  0,  0,  99,  99,  99,  99,  99,  99,  99,  99,
+  99,  99,  99,  99,  99,  99,  99,  1,  1,  2,  100,  100,  99,  99,  99,  99,  99,  99,  99,
+  99,  999,  999,  99,  99,  99
+  ],
+  "achmad  prasetyo":  [
+  999,  999,  0,  0,  0,  0,  0,  0,  0,  99,  99,  99,  99,  99,  99,  99,  99,  99,  0,  0,  0,
+  0,  0,  0,  0,  0,  0,  1,  1,  1,  1,  1,  1,  0,  0,  0,  0,  0,  0,  0,  999,  999,  2,  2,  2
+  ],
+  "achmad  syahrul":  [
+  999,  999,  0,  1,  1,  1,  1,  1,  1,  0,  0,  0,  1,  1,  1,  0,  0,  0,  0,  0,  0,  0,  0,  0,
+  0,  0,  0,  0,  0,  0,  1,  1,  1,  0,  0,  0,  0,  0,  0,  0,  999,  999,  0,  0,  0
+  ],
+  ...
+}
+
+//  ruangan
+{
+  "251":  [
+  0,  0,  0,  0,  0,  0,  1,  1,  0,  0,  0,  0,  0,  0,  0,  1,  1,  1,  2,  2,  2,  2,  2,  2,  1,
+  1,  1,  0,  0,  1,  2,  2,  1,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+  ],
+  "252":  [
+  0,  0,  1,  1,  1,  0,  2,  2,  2,  0,  0,  0,  0,  0,  0,  0,  0,  0,  2,  2,  3,  2,  2,  0,  1,
+  1,  1,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  1,  1,  1,  0,  0,  0
+  ],
+  ...
+}
+
+//  kelas  mahasiswa
+{
+  "1d31":  [
+    0,  0,  1,  1,  1,  0,  0,  0,  0,  0,  0,  1,  1,  1,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,
+    0,  0,  0,  0,  1,  2,  2,  1,  0,  0,  0,  1,  1,  1,  0,  0,  0,  1,  1,  1
+  ],
+  "1d32":  [
+    0,  0,  0,  1,  1,  1,  0,  0,  0,  0,  0,  1,  1,  1,  0,  1,  1,  1,  1,  1,  1,  2,  2,  2,  0,
+    0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0
+  ],
+  ...
+}
 
 
+// parameter
+{
+  "ruangKelas":  [
+    {
+      "gedung":  "25",
+      "ruangan":  ["251",  "252",  "253",  "254",  "255",  "256",  "257"]
+    },
+    ...
+  ],
+  "dosen":  [
+    {
+      "name":  "abu  tholhah",
+      "prefTime":  [
+        99,  99,  99,  99,  99,  99,  99,  99,  99,  
+        0,  0,  0,  99,  99,  99,  99,  99,  99,  
+        99,  99,  99,  99,  99,  99,  99,  99,  99,  
+        0,  0,  0,  99,  99,  99,  99,  99,  99,  
+        99,  99,  99,  99,  99,  99,  99,  99,  99
+      ],
+      "prefRoom":  ["32","33"]
+    },
+    ...
+  ],
+  "perkuliahan":  [
+    {
+      "groups":  ["1d31"],
+      "subject":  "pengeko",
+      "type":  "V",
+      "professor":  "firdaus",
+      "duration":  "3"
+    },
+    ...
+  ],
+  "constraints":  [
+    {
+      "keterangan":  "Jum'atan",
+      "key":  "professor",
+      "jenisConstraint":  "Tidak  Boleh",
+      "isAll":  true,
+      "data":  [],
+      "session":  [40,  41]
+    },
+    ...
+    ],
+}
 
 
+// response
+[
+    {
+        "groups": [
+            "1d31"
+        ],
+        "subject": "pengeko",
+        "type": "V",
+        "professor": "firdaus",
+        "duration": "3",
+        "Classroom": "346",
+        "Assigned_classroom": "346",
+        "Assigned_time": 24,
+        "Day": 2,
+        "Sesi 1": "7",
+        "Sesi 2": "8",
+        "Sesi 3": "9"
+    },
+    ...
+]
 
+
+// kodingan
+from fastapi import FastAPI
+from classes import *
+
+import algorithm as alg
+
+app = FastAPI()
+
+data = {}
+
+@app.post('/generate')
+def generate(dataRequest: DataGenerate):
+    data['ruangKelas'] = []
+    data['dosen'] = []
+    data['perkuliahan'] = []
+    data['constraints'] = []
+
+    for i in range(len(dataRequest.ruangKelas)):
+        data['ruangKelas'].append(dict(
+            dataRequest.ruangKelas[i]))
+    for i in range(len(dataRequest.dosen)):
+        data['dosen'].append(dict(
+            dataRequest.dosen[i]))
+    for i in range(len(dataRequest.perkuliahan)):
+        data['perkuliahan'].append(dict(
+            dataRequest.perkuliahan[i]))
+    for i in range(len(dataRequest.constraints)):
+        data['constraints'].append(dict(
+            dataRequest.constraints[i]))
+
+    result = alg.evolutionary_algorithm(data)
+
+    return (result)

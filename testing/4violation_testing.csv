@@ -1,0 +1,14 @@
+objek,data,cost,load,keterangan
+professor,agung priyo utomo,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,agus purwoto,0.0,0.0,pelanggaran preferensi waktu
+professor,budyanra,0.0,0.0,bentrok jadwal pada hari 3 sesi 3
+professor,febri wicaksono,6.0,0.0,pelanggaran preferensi waktu
+professor,fitri kartiasih,0.0,0.0,pelanggaran constraint
+professor,"lya, nori, lutfi",0.0,0.0,pelanggaran constraint
+professor,moh dokhi,1.0,0.0,pelanggaran constraint
+professor,murni parembai,1.0,0.0,pelanggaran preferensi waktu
+professor,ridwan yahya,0.0,0.0,pelanggaran preferensi waktu
+professor,rita yuliana,6.0,0.0,pelanggaran preferensi waktu
+professor,rizka maulan,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,sukim,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,winih budiarti,0.0,0.0,pelanggaran constraint

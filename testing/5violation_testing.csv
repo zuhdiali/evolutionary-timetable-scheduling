@@ -1,0 +1,17 @@
+objek,data,cost,load,keterangan
+professor,abu tholhah,0.0,0.0,bentrok jadwal pada hari 3 sesi 3
+professor,abu tholhah,0.0,0.0,pelanggaran preferensi waktu
+professor,agus purwoto,0.0,0.0,pelanggaran preferensi waktu
+professor,fitri kartiasih,0.0,0.0,pelanggaran constraint
+professor,hardius usman,0.0,0.0,pelanggaran constraint
+professor,I made arcana,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,krismanti tri,2.0,0.0,pelanggaran constraint
+professor,"lya, nori, lutfi",2.0,0.0,pelanggaran constraint
+professor,nasrudin,1.0,0.0,pelanggaran constraint
+professor,reni oktaviani,0.0,0.0,pelanggaran preferensi waktu
+professor,rini rahani,0.0,0.0,pelanggaran constraint
+professor,rita yuliana,1.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,rita yuliana,3.0,1.0,pelanggaran preferensi waktu
+professor,rizka maulan,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,sugiarto,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,timbang sirait,0.0,0.0,pelanggaran constraint

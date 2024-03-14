@@ -1,0 +1,14 @@
+objek,data,cost,load,keterangan
+group,1st4,0.0,0.0,bentrok jadwal pada hari 0 sesi 3
+group,1st7,1.0,1.0,bentrok jadwal pada hari 1 sesi 1
+group,1st7,1.0,1.0,bentrok jadwal pada hari 1 sesi 2
+group,1st7,1.0,1.0,bentrok jadwal pada hari 1 sesi 3
+classroom,267,0.0,0.0,bentrok jadwal pada hari 2 sesi 4
+classroom,267,0.0,0.0,bentrok jadwal pada hari 2 sesi 5
+professor,avi r,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,febri wicaksono,3.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,ibnu santoso,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,jeffry,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,rizka maulan,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,sugiarto,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,wahyudin,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari

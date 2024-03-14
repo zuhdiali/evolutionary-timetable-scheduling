@@ -1,0 +1,14 @@
+objek,data,cost,load,keterangan
+group,1st7,1.0,0.0,bentrok jadwal pada hari 1 sesi 3
+professor,ernawati pasaribu,0.0,0.0,pelanggaran constraint
+professor,esti suntari,0.0,0.0,pelanggaran constraint
+professor,febri wicaksono,2.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,moh ari n,0.0,0.0,pelanggaran preferensi waktu
+professor,nori wilantika,0.0,0.0,pelanggaran constraint
+professor,ridwan yahya,0.0,0.0,pelanggaran preferensi waktu
+professor,rindang bangun,0.0,0.0,pelanggaran constraint
+professor,rita yuliana,2.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,rita yuliana,6.0,1.0,pelanggaran preferensi waktu
+professor,rizka maulan,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,sugiarto,3.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,tiodora,0.0,0.0,pelanggaran preferensi waktu

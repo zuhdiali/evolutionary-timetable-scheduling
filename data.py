@@ -45,12 +45,12 @@ def load_data(path):
 
         profAvailable2Blok[professor['name']] = []
         for i in range(len(professor['prefTime'])-1):
-            if professor['prefTime'][i] == 0 and professor['prefTime'][i+1] != 1 and (i % 9 + 1) in sesi_mulai_2_blok:
+            if professor['prefTime'][i] == 0 and professor['prefTime'][i+1] == 0 and (i % 9 + 1) in sesi_mulai_2_blok:
                 profAvailable2Blok[professor['name']] += [i]
 
         profAvailable3Blok[professor['name']] = []
         for i in range(len(professor['prefTime'])-2):
-            if professor['prefTime'][i] == 0 and professor['prefTime'][i+1] != 1 and professor['prefTime'][i+2] != 1 and (i % 9 + 1) in sesi_mulai_3_blok:
+            if professor['prefTime'][i] == 0 and professor['prefTime'][i+1] == 0 and professor['prefTime'][i+2] == 0 and (i % 9 + 1) in sesi_mulai_3_blok:
                 profAvailable3Blok[professor['name']] += [i]
 
         prefRoomProf[professor['name']] = []

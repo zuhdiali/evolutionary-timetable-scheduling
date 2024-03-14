@@ -8,10 +8,10 @@ max_generations = 5000
 num_runs = 1
 input_file = 'stis/stis_komplit.json'
 # input_file = 'stis/stis_komplit.json'
-output_file = 'testing/1output_testing.json'
-output_file_excel = 'testing/1output_testing.xlsx'
-output_violation = 'testing/1violation_testing.csv'
-output_cost = 'testing/1cost_testing.csv'
+output_file = 'testing/11output_testing.json'
+output_file_excel = 'testing/11output_testing.xlsx'
+output_violation = 'testing/11violation_testing.csv'
+output_cost = 'testing/10cost_testing.csv'
 
 # output_file_csv = 'riwayat/90output_coba_iterasi_neighbour_aja.csv'
 # output_prof_load = 'riwayat/90load_prof_coba_iterasi_neighbour_aja.csv'

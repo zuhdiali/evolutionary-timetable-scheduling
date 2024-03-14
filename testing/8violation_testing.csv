@@ -1,0 +1,10 @@
+objek,data,cost,load,keterangan
+professor,anugerah karta,0.0,0.0,pelanggaran constraint
+professor,atik maratis,3.0,0.0,pelanggaran constraint
+professor,krismanti tri,2.0,0.0,pelanggaran constraint
+professor,"lya, nori, lutfi",2.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,"lya, nori, lutfi",2.0,1.0,pelanggaran constraint
+professor,murni parembai,1.0,0.0,pelanggaran preferensi waktu
+professor,rita yuliana,1.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,rizka maulan,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,titik harsanti,0.0,0.0,pelanggaran constraint

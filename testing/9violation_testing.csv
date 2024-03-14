@@ -1,0 +1,11 @@
+objek,data,cost,load,keterangan
+professor,budyanra,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,febri wicaksono,5.0,0.0,pelanggaran preferensi waktu
+professor,krismanti tri,0.0,0.0,pelanggaran constraint
+professor,"lya, nori, lutfi",0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,moh dokhi,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,novi hidayat,0.0,0.0,pelanggaran constraint
+professor,rita yuliana,2.0,0.0,pelanggaran preferensi waktu
+professor,rizka maulan,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,sri herwanto,0.0,0.0,pelanggaran constraint
+professor,tiodora,4.0,0.0,pelanggaran preferensi waktu

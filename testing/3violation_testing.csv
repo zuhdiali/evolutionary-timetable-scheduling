@@ -1,0 +1,16 @@
+objek,data,cost,load,keterangan
+group,1st2,1.0,0.0,bentrok jadwal pada hari 2 sesi 4
+group,1st7,4.0,0.0,bentrok jadwal pada hari 1 sesi 3
+group,2st6,0.0,0.0,bentrok jadwal pada hari 4 sesi 3
+professor,febri wicaksono,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,moh ari n,0.0,0.0,pelanggaran preferensi waktu
+professor,nasrudin,1.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,novi hidayat,0.0,0.0,pelanggaran constraint
+professor,rita yuliana,5.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,rita yuliana,5.0,1.0,pelanggaran preferensi waktu
+professor,rizka maulan,0.0,1.0,mengajar terlalu banyak perkuliahan dalam satu hari
+professor,robert kurniawan,0.0,0.0,pelanggaran constraint
+professor,sarni maniar,0.0,0.0,pelanggaran constraint
+professor,siti muchlisoh,2.0,0.0,pelanggaran constraint
+professor,tiodora,0.0,0.0,pelanggaran preferensi waktu
+professor,titik harsanti,0.0,0.0,pelanggaran constraint

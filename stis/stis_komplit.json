@@ -3291,7 +3291,7 @@
     },
     {
       "keterangan": "PKL Tingkat III",
-      "key": "Group",
+      "key": "group",
       "jenisConstraint": "Tidak Boleh",
       "isAll": false,
       "data": [
